@@ -1,6 +1,6 @@
 """
 Grant Watch ⌛ — ANRF Scraper
-Portal moved to anrfonline.in (old anrf.gov.in/en/calls-for-proposals is 404)
+Portal moved to anrfonline.in (old anrfonline.in/ is 404)
 
 2026 Schedule confirmed from official ANRF announcement:
   JC Bose Grant        : 01 Jan – 10 Feb 2026

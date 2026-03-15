@@ -1058,7 +1058,7 @@
     "grant_type": "Fellowship",
     "amount": "₹10,000/month + research grant",
     "description": "Allows college teachers to work in nearby IITs/IISc labs. Bridges teaching and research, supports ≤3 years.",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -1262,7 +1262,7 @@
     "grant_type": "Research Grant",
     "amount": "Up to ₹35 Lakhs",
     "description": "ANRF/SERB early career support for young scientists. Fast-track funding mechanism for scientists within 5 years of PhD. Superseded partially by SRG; check ANRF portal for current active scheme name.",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -2779,7 +2779,7 @@
     "grant_type": "Fellowship",
     "amount": "₹37,000/month (JRF) → ₹42,000/month (SRF)",
     "description": "For pursuing PhD in Biotechnology/Life Sciences. Selected via written test (BET). Twice yearly.",
-    "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/dbt-jrf",
+    "url": "https://dbtindia.gov.in/dbt-junior-research-fellowship-jrf-programme",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3654,7 +3654,7 @@
     "grant_type": "Fellowship",
     "amount": "₹55,000/month + HRA + research grant",
     "description": "Postdoctoral fellowship for Indian researchers. Provides mentor support at premier Indian institutes. Rolling applications.",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3677,7 +3677,7 @@
     "grant_type": "Fellowship",
     "amount": "₹1,35,000/month + research grant",
     "description": "For Indian scientists returning from abroad or working overseas to take up research positions in India. 5-year fellowship.",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3700,7 +3700,7 @@
     "grant_type": "Research Grant",
     "amount": "Up to ₹35 Lakhs (3 years)",
     "description": "For faculty who obtained PhD ≤5 years ago and are in first faculty position. Supports independent research setup. Rolling applications throughout year. Cannot simultaneously hold NPDF or TARE.",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3723,7 +3723,7 @@
     "grant_type": "Research Grant",
     "amount": "Varies (project-based)",
     "description": "New ANRF scheme replacing SERB-ECRA. Supports early career researchers at Indian institutions. INSPIRE Faculty, Ramanujan, and Ramalingaswami Fellows are explicitly eligible. Budget up to ₹1L/year each for travel and contingency.",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3746,7 +3746,7 @@
     "grant_type": "Travel Grant",
     "amount": "Travel + subsistence (as per norms)",
     "description": "Supports Indian researchers for short-term research visits (1–6 months) to overseas labs. For PhD students, postdocs, and early career faculty. Rolling applications.",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3770,7 +3770,7 @@
     "grant_type": "Fellowship",
     "amount": "₹25,000/month supplement + ₹5 Lakhs/year research grant",
     "description": "Prestigious DST/ANRF fellowship for scientists below 45 years with exceptional track record. 5-year fellowship with complete academic freedom. Annual call; highly competitive (~15 awarded/year).",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3817,7 +3817,7 @@
     "grant_type": "Startup Grant",
     "amount": "Up to ₹10 Lakhs",
     "description": "UGC Start-up Research Grant for newly appointed faculty (within 3 years of joining). Available at UGC 2(f)/12B institutions. Covers basic sciences, medical sciences, engineering. For establishing independent research.",
-    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "url": "https://anrfonline.in/",
     "deadline": null,
     "open_date": null,
     "eligibility": [

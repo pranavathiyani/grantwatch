@@ -1,0 +1,122 @@
+cd /mnt/d/grantwatch
+cat > .github/workflows/monthly_refresh.yml << 'EOF'
+name: Grant Watch ⌛ Bi-Weekly Refresh
+
+on:
+  schedule:
+    - cron: "0 6 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Archive previous snapshot
+        run: python update_readme.py
+
+      - name: Run scrapers
+        run: python run_scrapers.py
+
+      - name: Generate RSS feed
+        run: python generate_feed.py
+
+      - name: Generate static API endpoints
+        run: python generate_api.py
+
+      - name: Run deadline check
+        run: python daily_check.py
+
+      - name: Update README with live stats
+        run: python update_readme.py
+
+      - name: Commit all updated files
+        run: |
+          git config user.name  "Grant Watch Bot"
+          git config user.email "grantwatch-bot@sastra.edu"
+          git add data/ README.md
+          git diff --cached --quiet || git commit -m "chore: bi-weekly refresh [$(date +'%Y-%m-%d')]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Job Summary
+        run: |
+          echo "### Grant Watch ⌛ Bi-Weekly Refresh Complete" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          echo "#### Meta" >> $GITHUB_STEP_SUMMARY
+          cat data/meta.json >> $GITHUB_STEP_SUMMARY
+          echo "#### Urgent (closing ≤7 days)" >> $GITHUB_STEP_SUMMARY
+          python -c "
+          import json
+          with open('data/urgent.json') as f:
+              u = json.load(f)
+          for g in u['closing_7d']:
+              print(f'- [{g[\"days_left\"]}d] {g[\"title\"]} — {g[\"agency\"]}')
+          " >> $GITHUB_STEP_SUMMARY || echo "No urgent grants" >> $GITHUB_STEP_SUMMARY
+EOF
+
+# Same fix for daily_check workflow
+cat > .github/workflows/daily_check.yml << 'EOF'
+name: Grant Watch ⌛ Daily Deadline Check
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run deadline check
+        run: python daily_check.py
+
+      - name: Update README stats
+        run: python update_readme.py
+
+      - name: Commit updates
+        run: |
+          git config user.name  "Grant Watch Bot"
+          git config user.email "grantwatch-bot@sastra.edu"
+          git add data/urgent.json data/feed.xml README.md
+          git diff --cached --quiet || git commit -m "chore: daily deadline check [$(date +'%Y-%m-%d')]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+EOF
+
+git add .github/workflows/
+git commit -m "fix: add permissions: contents: write to both workflows"
+git push
