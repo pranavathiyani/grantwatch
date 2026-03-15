@@ -1,8 +1,8 @@
 {
   "country": "International",
-  "generated": "2026-03-15T02:18:47Z",
-  "total": 102,
-  "open": 100,
+  "generated": "2026-03-15T05:44:24Z",
+  "total": 96,
+  "open": 94,
   "grants": [
     {
       "id": "5688001f61",
@@ -151,174 +151,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "62ef0b36ac",
-      "title": "Notice of Early Expiration PA-23-291 -- AHRQ Understanding and Improving Diagnostic Safety in Ambulatory Care: Incidence and Contributing Factors (R01).",
-      "agency": "NIH",
-      "country": "International",
-      "grant_type": "R01",
-      "amount": "Varies by mechanism",
-      "description": "Notice NOT-HS-26-005 from the NIH Guide for Grants and Contracts",
-      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-005.html",
-      "deadline": "2026-06-08",
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Institution"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Clinical Research"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "d103616d82",
-      "title": "Notice of Early Expiration PA-24-154 -- AHRQ Health Services Research Projects (R01) is expired.",
-      "agency": "NIH",
-      "country": "International",
-      "grant_type": "R01",
-      "amount": "Varies by mechanism",
-      "description": "Notice NOT-HS-26-006 from the NIH Guide for Grants and Contracts",
-      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-006.html",
-      "deadline": "2026-06-08",
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Institution"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Clinical Research"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f0d1f7dde8",
-      "title": "Notice of Early Expiration PA-24-155 -- AHRQ Small Health Services Research Grant Program (R03).",
-      "agency": "NIH",
-      "country": "International",
-      "grant_type": "R03",
-      "amount": "Varies by mechanism",
-      "description": "Notice NOT-HS-26-007 from the NIH Guide for Grants and Contracts",
-      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-007.html",
-      "deadline": "2026-06-08",
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Institution"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Clinical Research"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "8bea80d2d4",
-      "title": "Notice of Early Expiration PA-24-266 -- Using Innovative Digital Healthcare Solutions to Improve Quality at the Point of Care (R21/R33 - Clinical Trial Optional).",
-      "agency": "NIH",
-      "country": "International",
-      "grant_type": "R21",
-      "amount": "Varies by mechanism",
-      "description": "Notice NOT-HS-26-008 from the NIH Guide for Grants and Contracts",
-      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-008.html",
-      "deadline": "2026-06-08",
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Institution"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Clinical Research"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "1a6e8a3c72",
-      "title": "Notice to Expire PAR-24-298, \"Mechanism for Time-Sensitive Substance Use Research (R21 Clinical Trial Optional)\"",
-      "agency": "NIH",
-      "country": "International",
-      "grant_type": "PAR",
-      "amount": "Varies by mechanism",
-      "description": "Notice NOT-DA-26-010 from the NIH Guide for Grants and Contracts",
-      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-010.html",
-      "deadline": "2026-06-09",
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Institution"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Clinical Research"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "6cf0b5f413",
-      "title": "Request for Information (RFI): Gathering feedback for the National Eye Institute 2026-2031 Strategic Plan.",
-      "agency": "NIH",
-      "country": "International",
-      "grant_type": "Research Grant",
-      "amount": "Varies by mechanism",
-      "description": "Notice NOT-EY-26-002 from the NIH Guide for Grants and Contracts",
-      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-EY-26-002.html",
-      "deadline": "2026-06-09",
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Institution"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Clinical Research"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "1132c85ea4",
-      "title": "Notice of Change: Early Expiration of PAR-25-326 Ultra-Rare Gene-based Therapy (URGenT) Network Resource Access (X01, Clinical Trial Not Allowed)",
-      "agency": "NIH",
-      "country": "International",
-      "grant_type": "PAR",
-      "amount": "Varies by mechanism",
-      "description": "Notice NOT-NS-26-032 from the NIH Guide for Grants and Contracts",
-      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-032.html",
-      "deadline": "2026-06-10",
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Institution"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Clinical Research"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "2dbae4ca46",
       "title": "Fulbright-Nehru Doctoral Research Fellowship",
       "agency": "Fulbright-Nehru",
@@ -462,30 +294,6 @@
       "last_updated": "2026-03-14"
     },
     {
-      "id": "nih-par001",
-      "title": "NIH PAR — Exploratory/Developmental Research (R21)",
-      "agency": "NIH",
-      "country": "International",
-      "grant_type": "PAR",
-      "amount": "Up to USD 275,000 (2 years)",
-      "description": "Supports new, untested ideas and approaches. Collaborative grants with US PI may include Indian co-investigators.",
-      "url": "https://grants.nih.gov/grants/guide/pa-files/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Institution"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Clinical Research"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-14"
-    },
-    {
       "id": "iusstf-001",
       "title": "IUSSTF Indo-US Joint Research Program",
       "agency": "IUSSTF",
@@ -558,6 +366,1089 @@
       ],
       "status": "open",
       "last_updated": "2026-03-14"
+    },
+    {
+      "id": "b23665c786",
+      "title": "HFSP Long-Term Fellowship",
+      "agency": "HFSP",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "Stipend + research allowance + travel",
+      "description": "3-year postdoctoral fellowship in a different country/discipline. Strongly interdisciplinary. Annual call.",
+      "url": "https://www.hfsp.org/funding/hfsp-funding/fellowships",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Holder (≤3 years)",
+        "International Applicant"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Computational Biology",
+        "Biophysics"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f08a545f87",
+      "title": "ICGEB Arturo Falaschi Postdoctoral Fellowship",
+      "agency": "ICGEB",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "Competitive stipend + full benefits",
+      "description": "Postdoctoral training at ICGEB labs in Trieste, New Delhi, or Cape Town. Average 2 years. Competitive package: stipend + health insurance + research costs. Top fellows eligible for Early Career Return Grants after completion.",
+      "url": "https://www.icgeb.org/fellowships/arturo-falaschi-postdoctoral-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Holder",
+        "International Applicant"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Biotechnology",
+        "Genetic Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "0b5e7bc9c8",
+      "title": "ICGEB-JNU PhD Fellowship (India-specific)",
+      "agency": "ICGEB",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "Full PhD stipend (ICGEB norms)",
+      "description": "PhD positions at ICGEB New Delhi in collaboration with JNU. Requires valid CSIR/UGC/ICMR/DBT/DST-INSPIRE/BINC JRF. Annual intake. Full stipend + world-class research environment.",
+      "url": "https://www.icgeb.org/fellowships/icgeb-jnu-phd-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Indian National",
+        "Category-I NET/JRF holder",
+        "MSc Graduate"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Biotechnology",
+        "Genetic Engineering",
+        "Computational Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "51af8aeed3",
+      "title": "Wellcome India Alliance — Early Career Fellowship",
+      "agency": "Wellcome DBT India Alliance",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "Up to ₹2.4 Crores (5 years)",
+      "description": "5-year fellowship for researchers who have completed PhD ≤ 5 years ago. Covers salary, research costs, and training. Highly competitive.",
+      "url": "https://indiaalliance.org/apply-for-a-grant/early-career-fellowships",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Early Career Researcher (PhD ≤5 years)"
+      ],
+      "disciplines": [
+        "Biomedical",
+        "Life Sciences",
+        "Public Health"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ded4f0913e",
+      "title": "Wellcome India Alliance — Senior Fellowship",
+      "agency": "Wellcome DBT India Alliance",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "Up to ₹5.5 Crores (5 years)",
+      "description": "5-year award for researchers with strong independent track record. Covers full research program costs.",
+      "url": "https://indiaalliance.org/apply-for-a-grant/senior-fellowships",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Senior Faculty",
+        "Independent Researcher"
+      ],
+      "disciplines": [
+        "Biomedical",
+        "Life Sciences"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "2961a29306",
+      "title": "Find a Young Investigator, Installation Grantee or Global Investigator",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Find a Young Investigator, Installation Grantee or Global Investigator",
+      "url": "https://www.embo.org/the-embo-communities/embo-young-investigator-network/find-a-young-investigator-installation-grantee-or-global-investigator/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "974d3d13c6",
+      "title": "FEBS|EMBO Women in Science Awardees",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: FEBS|EMBO Women in Science Awardees",
+      "url": "https://www.embo.org/the-embo-communities/febsembo-women-in-science-awardees/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6e5388d826",
+      "title": "Nominate for the Women in Science Award",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Nominate for the Women in Science Award",
+      "url": "https://www.embo.org/the-embo-communities/febsembo-women-in-science-awardees/nominate-for-the-women-in-science-award/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "90a32a92cf",
+      "title": "EMBO Lab Sustainability Award",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: EMBO Lab Sustainability Award",
+      "url": "https://www.embo.org/the-embo-communities/embo-lab-sustainability-award/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f3dae28a6a",
+      "title": "Fellowships, grants and career support",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Fellowships, grants and career support",
+      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "41ea8bb73b",
+      "title": "Postdoctoral Fellowships",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Postdoctoral Fellowships",
+      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "aab3e8db4b",
+      "title": "Scientific Exchange Grants",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Scientific Exchange Grants",
+      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "e051acebd7",
+      "title": "Installation Grants",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Installation Grants",
+      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/installation-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f386f1a208",
+      "title": "Maria Leptin | EMBO Science Journalism Fellowships",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Maria Leptin | EMBO Science Journalism Fellowships",
+      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/maria-leptin-embo-science-journalism-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "8967823a53",
+      "title": "Funding for conferences and training",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Funding for conferences and training",
+      "url": "https://www.embo.org/funding/funding-for-conferences-and-training/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f4e61225a6",
+      "title": "Lecture, travel and childcare grants",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Lecture, travel and childcare grants",
+      "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ccc8ca7205",
+      "title": "Travel grants and registration fee waivers",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Travel grants and registration fee waivers",
+      "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/travel-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "5aa99086b7",
+      "title": "Childcare grants",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Childcare grants",
+      "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/childcare-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "9b0d1a50dc",
+      "title": "Accessibility grants",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Accessibility grants",
+      "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/accessibility-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f17069df5d",
+      "title": "EMBCFunding for EMBO",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: EMBCFunding for EMBO",
+      "url": "https://www.embo.org/about-embo/embc/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "54d54e0c76",
+      "title": "Travel to EMBO officeTravel directions to the EMBO Offices in Heidelberg",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship / Award",
+      "amount": "Varies",
+      "description": "EMBO funding opportunity: Travel to EMBO officeTravel directions to the EMBO Offices in Heidelberg",
+      "url": "https://www.embo.org/about-embo/travel-to-embo-office/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Postdoc",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7b10de2dc8",
+      "title": "EMBL Postdoctoral Fellowship (EIPOD)",
+      "agency": "EMBL",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "EMBL salary scale + benefits",
+      "description": "EMBL Interdisciplinary Postdoctoral (EIPOD) programme at Heidelberg and other sites. Interdisciplinary life science research. Biannual calls.",
+      "url": "https://www.embl.org/about/info/postdoctoral-programme/eipod-linc-programme/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Holder (≤2 years)",
+        "International Applicant"
+      ],
+      "disciplines": [
+        "Structural Biology",
+        "Computational Biology",
+        "Genomics",
+        "Cell Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "3c685a91fa",
+      "title": "EMBO Workshop Organizing Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Conference Grant",
+      "amount": "Up to €42,500 per workshop",
+      "description": "Scientists can apply to organize an EMBO Workshop anywhere in the world, including India. Core funding up to €35,000 + €5,500 for participant travel grants + €1,000 childcare + €1,000 accessibility = up to €42,500. EMBO handles registration, abstract submission, and workshop webpage. Highly relevant for faculty hosting life science conferences.",
+      "url": "https://www.embo.org/funding/funding-for-conferences-and-training/workshops/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Senior Researcher",
+        "Any EMBO Member State or beyond"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology",
+        "Computational Biology",
+        "Bioinformatics",
+        "Any life science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "19b8303732",
+      "title": "EMBO Lecture Course Organizing Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Conference Grant",
+      "amount": "Up to €30,000 per course",
+      "description": "EMBO funds practical lecture courses in life sciences. Organisers apply to run intensive training courses. Supports curriculum, invited speakers, and participant scholarships. Can be hosted in India.",
+      "url": "https://www.embo.org/funding/funding-for-conferences-and-training/lecture-courses/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Senior Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology",
+        "Bioinformatics"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f5aa8eef44",
+      "title": "EMBL Course and Conference Travel Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Variable cap per event (travel + accommodation + registration)",
+      "description": "EMBL provides travel grants for researchers to attend EMBL/EMBO courses and conferences. Covers airfare, accommodation, visa, registration fees. Apply during abstract/motivation letter submission for each event. Selection based on scientific merit, location, career stage.",
+      "url": "https://www.embl.org/about/info/course-and-conference-office/information-for-participants/financial-assistance/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Early Career Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Bioinformatics",
+        "Computational Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7e094abcd1",
+      "title": "EMBO Postdoctoral Fellowship (Spring/Autumn Rounds)",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "Competitive stipend + relocation + benefits",
+      "description": "Supports excellent postdocs for up to 2 years at labs in EMBC member states. International mobility required. Includes salary/stipend, relocation allowance, childcare support. From 2026: Spring round deadline = 4th Friday of January.",
+      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Holder",
+        "International mobility required"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology",
+        "Computational Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "385b726b4b",
+      "title": "EMBO Scientific Exchange Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Up to €2,500",
+      "description": "Supports short scientific visits to labs in EMBC member/associate countries. Rolling deadline, decisions within 6 weeks.",
+      "url": "https://www.embo.org/funding-awards/scientific-exchange-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ae2c61745a",
+      "title": "EMBO Short-Term Fellowship",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Stipend + travel",
+      "description": "Up to 3 months at EMBC member country lab. For PhD students and postdocs. Rolling applications.",
+      "url": "https://www.embo.org/funding-awards/short-term-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f0280bb8d5",
+      "title": "FEBS Short-Term Fellowship",
+      "agency": "FEBS",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Up to €3,500",
+      "description": "Supports short research visits (1–3 months) to a lab in a different country. Open to researchers from FEBS constituent societies.",
+      "url": "https://www.febs.org/funding/fellowships-and-grants/short-term-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Early Career Researcher"
+      ],
+      "disciplines": [
+        "Biochemistry",
+        "Molecular Biology",
+        "Life Sciences"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "802609d9b2",
+      "title": "FEBS Science for Life Laboratory Prize",
+      "agency": "FEBS",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Prize + travel",
+      "description": "Annual FEBS prize for outstanding contributions to molecular life sciences. Includes travel to FEBS Congress.",
+      "url": "https://www.febs.org/funding/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Early Career"
+      ],
+      "disciplines": [
+        "Molecular Biology",
+        "Life Sciences"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "27c772e35a",
+      "title": "ACM-India: IARCS Travel Grants",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: travelgrants@iarcs.org.in",
+      "url": "https://www.iarcs.org.in/activities/grants.php",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "61e26af444",
+      "title": "ANRF: International Travel Support",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: ms.its@serb.gov.in",
+      "url": "https://anrfonline.in/ANRF/its",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "06311fd058",
+      "title": "CSIR Travel Grant",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: tgsm@csirhrdg.res.in",
+      "url": "https://csirhrdg.res.in/Home/Index/1/InPage/51/14",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "38b1f178b4",
+      "title": "ACM-RFG",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: acmirfg@acmindia.org",
+      "url": "https://india.acm.org/research/research-facilitation-grant",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "53d5c0df0a",
+      "title": "Georg Forster Research Fellowship (AvH) — India-eligible",
+      "agency": "Alexander von Humboldt Foundation",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "€2,670–3,170/month + travel + family allowance",
+      "description": "For researchers from developing/transition countries (incl. India) to conduct research in Germany for 6–24 months. All disciplines. Highly prestigious. Rolling deadline — no fixed call. Strong publication record needed. Covers salary, travel, family allowance.",
+      "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/georg-forster-research-fellowship",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Holder",
+        "Indian Researcher",
+        "Strong publication record"
+      ],
+      "disciplines": [
+        "Any — all disciplines eligible"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "4c0adc8beb",
+      "title": "Humboldt Research Fellowship for Postdoctoral Researchers",
+      "agency": "Alexander von Humboldt Foundation",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "€2,670/month + travel + health insurance",
+      "description": "6–24 months at a German university/research institution. Open to Indian researchers with PhD ≤4 years. Any discipline. Rolling deadline — apply anytime. One of the most prestigious postdoc fellowships worldwide.",
+      "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Postdoc (PhD ≤4 years)",
+        "Indian Researcher"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "709f4c46be",
+      "title": "Humboldt Research Fellowship for Experienced Researchers",
+      "agency": "Alexander von Humboldt Foundation",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "€3,170/month + travel + family allowance",
+      "description": "For senior researchers (>4 years post-PhD) to work in Germany for 6–18 months. All disciplines. Highly prestigious. Can be split visits. India has one of the highest success rates globally.",
+      "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Senior Researcher (PhD >4 years)",
+        "Indian Researcher"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ed90d2a9af",
+      "title": "Humboldt Research Award",
+      "agency": "Alexander von Humboldt Foundation",
+      "country": "International",
+      "grant_type": "Award",
+      "amount": "€60,000 + extended Germany visit",
+      "description": "Prestigious award for internationally recognised researchers in any discipline. Nominated by German academics — cannot self-apply. Carries €60,000 prize and extended research stay in Germany.",
+      "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-award",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Senior Researcher (nominated by German colleague)"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "299785b483",
+      "title": "Novo Nordisk Foundation Challenge Programme — Open Call",
+      "agency": "Novo Nordisk Foundation",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies by call (up to DKK millions)",
+      "description": "NNF Challenge Programmes tackle specific global health/life science problems. Some calls explicitly open to international (including Indian) collaborators. Focus areas: infectious disease, antimicrobial resistance, metabolic disease, data science for health. Check current open calls.",
+      "url": "https://novonordiskfonden.dk/en/grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "International Applicant"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "AMR",
+        "Data Science",
+        "Metabolic Disease",
+        "Infectious Disease",
+        "Bioinformatics"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "b6d483505f",
+      "title": "NNF Data Science Research Infrastructure Grant",
+      "agency": "Novo Nordisk Foundation",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Supports computational biology, bioinformatics, and data science research infrastructure. Increasingly open to global collaborations. India-based researchers with Danish collaborators are eligible.",
+      "url": "https://novonordiskfonden.dk/en/grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Faculty",
+        "with Danish collaborator"
+      ],
+      "disciplines": [
+        "Data Science",
+        "Computational Biology",
+        "Bioinformatics",
+        "AI/ML"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a1fb629ad3",
+      "title": "Royal Society Newton International Fellowship",
+      "agency": "Royal Society",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "£33,000/year salary + £14,500 research expenses (2 years)",
+      "description": "2-year fellowship for early career non-UK researchers to work at UK institutions. All disciplines. India-eligible. Strong career development — alumni network is highly connected. Annual call.",
+      "url": "https://royalsociety.org/grants-schemes-awards/grants/newton-international/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Early Career Researcher (PhD ≤7 years)",
+        "Non-UK national",
+        "Indian Researcher"
+      ],
+      "disciplines": [
+        "Any — all disciplines"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "728965bf7c",
+      "title": "Royal Society International Exchanges — Cost Share",
+      "agency": "Royal Society",
+      "country": "International",
+      "grant_type": "Collaborative Grant",
+      "amount": "Up to £12,000",
+      "description": "Seed funding for new collaborations between UK and international researchers. India participates in the Cost Share scheme (funded by both RS and Indian agency). Covers short visits and workshops up to £12,000. Rolling deadline.",
+      "url": "https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "with UK collaborator"
+      ],
+      "disciplines": [
+        "Any — STEM focus"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "5f0ed071c4",
+      "title": "DAAD Research Stays for University Academics (India)",
+      "agency": "DAAD",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Monthly allowance + travel (as per DAAD norms)",
+      "description": "Short research stays (1–3 months) at German universities for Indian faculty. Covers travel and accommodation. No age limit. Also includes bilateral exchange for PhD students.",
+      "url": "https://www.daad.in/en/find-funding/scholarship-database/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Senior Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "e53d8bfd9c",
+      "title": "DST-DAAD Personnel Exchange Programme (PPP) — Indo-German",
+      "agency": "DAAD",
+      "country": "International",
+      "grant_type": "Collaborative Grant",
+      "amount": "Travel + per diem (DST norms for Indian side)",
+      "description": "Bilateral MoU between DAAD and DST. Supports researcher exchanges for joint research projects. Indian PI applies to DST; German PI to DAAD. Covers travel + per diem for both teams. Well-established channel.",
+      "url": "https://www.daad.in/en/find-funding/scholarship-database/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "German Co-PI required"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology",
+        "Any STEM"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "9038437b97",
+      "title": "DAAD WISE Scholarship (Women in STEM)",
+      "agency": "DAAD",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "€650/month + travel support",
+      "description": "For women engineering/science students from India for summer internships at top German universities. Highly competitive, well-regarded. Also increases visibility for follow-on collaborations.",
+      "url": "https://www.daad.in/en/find-funding/scholarship-database/wise/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Women Engineering/Science Student (penultimate year)",
+        "Indian"
+      ],
+      "disciplines": [
+        "Engineering",
+        "Natural Sciences",
+        "Computer Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "4666401a2b",
+      "title": "NIH R01 Research Grant (Indian Institution eligible as Foreign Org)",
+      "agency": "NIH",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies — typically USD 250,000–500,000/year",
+      "description": "Indian institutions can apply as foreign organisations. Technically eligible but rare in practice — requires SAM/eRA Commons registration and strong US relevance justification. Most practical route: partner with US PI who leads the R01 with Indian team as foreign component.",
+      "url": "https://grants.nih.gov/funding/activity-codes/R01",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Indian Institution (as foreign org)",
+        "or Co-PI on US-led grant"
+      ],
+      "disciplines": [
+        "Biomedical",
+        "Life Sciences",
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "e38f834420",
+      "title": "NIH R21 Exploratory Research (Foreign Organisation eligible)",
+      "agency": "NIH",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Up to USD 275,000 (2 years)",
+      "description": "Shorter exploratory grant — easier entry point than R01 for foreign orgs. 2 years, up to USD 275,000. Check each FOA eligibility section for foreign org permission before applying.",
+      "url": "https://grants.nih.gov/funding/activity-codes/R21",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Indian Institution (as foreign org)"
+      ],
+      "disciplines": [
+        "Biomedical",
+        "Life Sciences",
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
     },
     {
       "id": "bb037684f9",
@@ -1232,29 +2123,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "b23665c786",
-      "title": "HFSP Long-Term Fellowship",
-      "agency": "HFSP",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "Stipend + research allowance + travel",
-      "description": "3-year postdoctoral fellowship in a different country/discipline. Strongly interdisciplinary. Annual call.",
-      "url": "https://www.hfsp.org/funding/hfsp-funding/fellowships",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Holder (≤3 years)",
-        "International Applicant"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Computational Biology",
-        "Biophysics"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "ff7ee534d9",
       "title": "PAR Foundation 2026 Grant — Beyond Antibiotics",
       "agency": "PAR Foundation",
@@ -1276,76 +2144,6 @@
         "Infectious Disease",
         "Public Health",
         "Microbiology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f08a545f87",
-      "title": "ICGEB Arturo Falaschi Postdoctoral Fellowship",
-      "agency": "ICGEB",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "Competitive stipend + full benefits",
-      "description": "Postdoctoral training at ICGEB labs in Trieste, New Delhi, or Cape Town. Average 2 years. Competitive package: stipend + health insurance + research costs. Top fellows eligible for Early Career Return Grants after completion.",
-      "url": "https://www.icgeb.org/fellowships/arturo-falaschi-postdoctoral-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Holder",
-        "International Applicant"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Biotechnology",
-        "Genetic Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "0b5e7bc9c8",
-      "title": "ICGEB-JNU PhD Fellowship (India-specific)",
-      "agency": "ICGEB",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "Full PhD stipend (ICGEB norms)",
-      "description": "PhD positions at ICGEB New Delhi in collaboration with JNU. Requires valid CSIR/UGC/ICMR/DBT/DST-INSPIRE/BINC JRF. Annual intake. Full stipend + world-class research environment.",
-      "url": "https://www.icgeb.org/fellowships/icgeb-jnu-phd-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Indian National",
-        "Category-I NET/JRF holder",
-        "MSc Graduate"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Biotechnology",
-        "Genetic Engineering",
-        "Computational Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "51af8aeed3",
-      "title": "Wellcome India Alliance — Early Career Fellowship",
-      "agency": "Wellcome DBT India Alliance",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "Up to ₹2.4 Crores (5 years)",
-      "description": "5-year fellowship for researchers who have completed PhD ≤ 5 years ago. Covers salary, research costs, and training. Highly competitive.",
-      "url": "https://indiaalliance.org/apply-for-a-grant/early-career-fellowships",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Early Career Researcher (PhD ≤5 years)"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Public Health"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
@@ -1374,608 +2172,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "ded4f0913e",
-      "title": "Wellcome India Alliance — Senior Fellowship",
-      "agency": "Wellcome DBT India Alliance",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "Up to ₹5.5 Crores (5 years)",
-      "description": "5-year award for researchers with strong independent track record. Covers full research program costs.",
-      "url": "https://indiaalliance.org/apply-for-a-grant/senior-fellowships",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Senior Faculty",
-        "Independent Researcher"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "2961a29306",
-      "title": "Find a Young Investigator, Installation Grantee or Global Investigator",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Find a Young Investigator, Installation Grantee or Global Investigator",
-      "url": "https://www.embo.org/the-embo-communities/embo-young-investigator-network/find-a-young-investigator-installation-grantee-or-global-investigator/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "974d3d13c6",
-      "title": "FEBS|EMBO Women in Science Awardees",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: FEBS|EMBO Women in Science Awardees",
-      "url": "https://www.embo.org/the-embo-communities/febsembo-women-in-science-awardees/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "6e5388d826",
-      "title": "Nominate for the Women in Science Award",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Nominate for the Women in Science Award",
-      "url": "https://www.embo.org/the-embo-communities/febsembo-women-in-science-awardees/nominate-for-the-women-in-science-award/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "90a32a92cf",
-      "title": "EMBO Lab Sustainability Award",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: EMBO Lab Sustainability Award",
-      "url": "https://www.embo.org/the-embo-communities/embo-lab-sustainability-award/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f3dae28a6a",
-      "title": "Fellowships, grants and career support",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Fellowships, grants and career support",
-      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "41ea8bb73b",
-      "title": "Postdoctoral Fellowships",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Postdoctoral Fellowships",
-      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "aab3e8db4b",
-      "title": "Scientific Exchange Grants",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Scientific Exchange Grants",
-      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "e051acebd7",
-      "title": "Installation Grants",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Installation Grants",
-      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/installation-grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f386f1a208",
-      "title": "Maria Leptin | EMBO Science Journalism Fellowships",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Maria Leptin | EMBO Science Journalism Fellowships",
-      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/maria-leptin-embo-science-journalism-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "8967823a53",
-      "title": "Funding for conferences and training",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Funding for conferences and training",
-      "url": "https://www.embo.org/funding/funding-for-conferences-and-training/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f4e61225a6",
-      "title": "Lecture, travel and childcare grants",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Lecture, travel and childcare grants",
-      "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "ccc8ca7205",
-      "title": "Travel grants and registration fee waivers",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Travel grants and registration fee waivers",
-      "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/travel-grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "5aa99086b7",
-      "title": "Childcare grants",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Childcare grants",
-      "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/childcare-grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "9b0d1a50dc",
-      "title": "Accessibility grants",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Accessibility grants",
-      "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/accessibility-grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f17069df5d",
-      "title": "EMBCFunding for EMBO",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: EMBCFunding for EMBO",
-      "url": "https://www.embo.org/about-embo/embc/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "54d54e0c76",
-      "title": "Travel to EMBO officeTravel directions to the EMBO Offices in Heidelberg",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship / Award",
-      "amount": "Varies",
-      "description": "EMBO funding opportunity: Travel to EMBO officeTravel directions to the EMBO Offices in Heidelberg",
-      "url": "https://www.embo.org/about-embo/travel-to-embo-office/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Postdoc",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "7b10de2dc8",
-      "title": "EMBL Postdoctoral Fellowship (EIPOD)",
-      "agency": "EMBL",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "EMBL salary scale + benefits",
-      "description": "EMBL Interdisciplinary Postdoctoral (EIPOD) programme at Heidelberg and other sites. Interdisciplinary life science research. Biannual calls.",
-      "url": "https://www.embl.org/about/info/postdoctoral-programme/eipod-linc-programme/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Holder (≤2 years)",
-        "International Applicant"
-      ],
-      "disciplines": [
-        "Structural Biology",
-        "Computational Biology",
-        "Genomics",
-        "Cell Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "3c685a91fa",
-      "title": "EMBO Workshop Organizing Grant",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Conference Grant",
-      "amount": "Up to €42,500 per workshop",
-      "description": "Scientists can apply to organize an EMBO Workshop anywhere in the world, including India. Core funding up to €35,000 + €5,500 for participant travel grants + €1,000 childcare + €1,000 accessibility = up to €42,500. EMBO handles registration, abstract submission, and workshop webpage. Highly relevant for faculty hosting life science conferences.",
-      "url": "https://www.embo.org/funding/funding-for-conferences-and-training/workshops/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Senior Researcher",
-        "Any EMBO Member State or beyond"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology",
-        "Computational Biology",
-        "Bioinformatics",
-        "Any life science"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "19b8303732",
-      "title": "EMBO Lecture Course Organizing Grant",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Conference Grant",
-      "amount": "Up to €30,000 per course",
-      "description": "EMBO funds practical lecture courses in life sciences. Organisers apply to run intensive training courses. Supports curriculum, invited speakers, and participant scholarships. Can be hosted in India.",
-      "url": "https://www.embo.org/funding/funding-for-conferences-and-training/lecture-courses/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Senior Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology",
-        "Bioinformatics"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f5aa8eef44",
-      "title": "EMBL Course and Conference Travel Grant",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Variable cap per event (travel + accommodation + registration)",
-      "description": "EMBL provides travel grants for researchers to attend EMBL/EMBO courses and conferences. Covers airfare, accommodation, visa, registration fees. Apply during abstract/motivation letter submission for each event. Selection based on scientific merit, location, career stage.",
-      "url": "https://www.embl.org/about/info/course-and-conference-office/information-for-participants/financial-assistance/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Postdoc",
-        "Early Career Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Bioinformatics",
-        "Computational Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "7e094abcd1",
-      "title": "EMBO Postdoctoral Fellowship (Spring/Autumn Rounds)",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "Competitive stipend + relocation + benefits",
-      "description": "Supports excellent postdocs for up to 2 years at labs in EMBC member states. International mobility required. Includes salary/stipend, relocation allowance, childcare support. From 2026: Spring round deadline = 4th Friday of January.",
-      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Holder",
-        "International mobility required"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology",
-        "Computational Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "385b726b4b",
-      "title": "EMBO Scientific Exchange Grant",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Up to €2,500",
-      "description": "Supports short scientific visits to labs in EMBC member/associate countries. Rolling deadline, decisions within 6 weeks.",
-      "url": "https://www.embo.org/funding-awards/scientific-exchange-grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Postdoc",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "ae2c61745a",
-      "title": "EMBO Short-Term Fellowship",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Stipend + travel",
-      "description": "Up to 3 months at EMBC member country lab. For PhD students and postdocs. Rolling applications.",
-      "url": "https://www.embo.org/funding-awards/short-term-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Postdoc",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f0280bb8d5",
-      "title": "FEBS Short-Term Fellowship",
-      "agency": "FEBS",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Up to €3,500",
-      "description": "Supports short research visits (1–3 months) to a lab in a different country. Open to researchers from FEBS constituent societies.",
-      "url": "https://www.febs.org/funding/fellowships-and-grants/short-term-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Postdoc",
-        "Early Career Researcher"
-      ],
-      "disciplines": [
-        "Biochemistry",
-        "Molecular Biology",
-        "Life Sciences"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "802609d9b2",
-      "title": "FEBS Science for Life Laboratory Prize",
-      "agency": "FEBS",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Prize + travel",
-      "description": "Annual FEBS prize for outstanding contributions to molecular life sciences. Includes travel to FEBS Congress.",
-      "url": "https://www.febs.org/funding/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Early Career"
-      ],
-      "disciplines": [
-        "Molecular Biology",
-        "Life Sciences"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "23a84637ef",
       "title": "------------------------------------------",
       "agency": "Various (Travel)",
@@ -1984,75 +2180,6 @@
       "amount": "Varies",
       "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub).",
       "url": "https://github.com/AdhyaSuman/International_Travel_Grants",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Researcher",
-        "Indian Applicant"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15",
-      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
-    },
-    {
-      "id": "27c772e35a",
-      "title": "ACM-India: IARCS Travel Grants",
-      "agency": "Various (Travel)",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Varies",
-      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: travelgrants@iarcs.org.in",
-      "url": "https://www.iarcs.org.in/activities/grants.php",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Researcher",
-        "Indian Applicant"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15",
-      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
-    },
-    {
-      "id": "61e26af444",
-      "title": "ANRF: International Travel Support",
-      "agency": "Various (Travel)",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Varies",
-      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: ms.its@serb.gov.in",
-      "url": "https://anrfonline.in/ANRF/its",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Researcher",
-        "Indian Applicant"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15",
-      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
-    },
-    {
-      "id": "06311fd058",
-      "title": "CSIR Travel Grant",
-      "agency": "Various (Travel)",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Varies",
-      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: tgsm@csirhrdg.res.in",
-      "url": "https://csirhrdg.res.in/Home/Index/1/InPage/51/14",
       "deadline": null,
       "open_date": null,
       "eligibility": [
@@ -2089,278 +2216,6 @@
       "status": "open",
       "last_updated": "2026-03-15",
       "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
-    },
-    {
-      "id": "38b1f178b4",
-      "title": "ACM-RFG",
-      "agency": "Various (Travel)",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Varies",
-      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: acmirfg@acmindia.org",
-      "url": "https://india.acm.org/research/research-facilitation-grant",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Researcher",
-        "Indian Applicant"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15",
-      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
-    },
-    {
-      "id": "53d5c0df0a",
-      "title": "Georg Forster Research Fellowship (AvH) — India-eligible",
-      "agency": "Alexander von Humboldt Foundation",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "€2,670–3,170/month + travel + family allowance",
-      "description": "For researchers from developing/transition countries (incl. India) to conduct research in Germany for 6–24 months. All disciplines. Highly prestigious. Rolling deadline — no fixed call. Strong publication record needed. Covers salary, travel, family allowance.",
-      "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/georg-forster-research-fellowship",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Holder",
-        "Indian Researcher",
-        "Strong publication record"
-      ],
-      "disciplines": [
-        "Any — all disciplines eligible"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "4c0adc8beb",
-      "title": "Humboldt Research Fellowship for Postdoctoral Researchers",
-      "agency": "Alexander von Humboldt Foundation",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "€2,670/month + travel + health insurance",
-      "description": "6–24 months at a German university/research institution. Open to Indian researchers with PhD ≤4 years. Any discipline. Rolling deadline — apply anytime. One of the most prestigious postdoc fellowships worldwide.",
-      "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Postdoc (PhD ≤4 years)",
-        "Indian Researcher"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "709f4c46be",
-      "title": "Humboldt Research Fellowship for Experienced Researchers",
-      "agency": "Alexander von Humboldt Foundation",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "€3,170/month + travel + family allowance",
-      "description": "For senior researchers (>4 years post-PhD) to work in Germany for 6–18 months. All disciplines. Highly prestigious. Can be split visits. India has one of the highest success rates globally.",
-      "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Senior Researcher (PhD >4 years)",
-        "Indian Researcher"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "ed90d2a9af",
-      "title": "Humboldt Research Award",
-      "agency": "Alexander von Humboldt Foundation",
-      "country": "International",
-      "grant_type": "Award",
-      "amount": "€60,000 + extended Germany visit",
-      "description": "Prestigious award for internationally recognised researchers in any discipline. Nominated by German academics — cannot self-apply. Carries €60,000 prize and extended research stay in Germany.",
-      "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-award",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Senior Researcher (nominated by German colleague)"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "299785b483",
-      "title": "Novo Nordisk Foundation Challenge Programme — Open Call",
-      "agency": "Novo Nordisk Foundation",
-      "country": "International",
-      "grant_type": "Research Grant",
-      "amount": "Varies by call (up to DKK millions)",
-      "description": "NNF Challenge Programmes tackle specific global health/life science problems. Some calls explicitly open to international (including Indian) collaborators. Focus areas: infectious disease, antimicrobial resistance, metabolic disease, data science for health. Check current open calls.",
-      "url": "https://novonordiskfonden.dk/en/grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "International Applicant"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "AMR",
-        "Data Science",
-        "Metabolic Disease",
-        "Infectious Disease",
-        "Bioinformatics"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "b6d483505f",
-      "title": "NNF Data Science Research Infrastructure Grant",
-      "agency": "Novo Nordisk Foundation",
-      "country": "International",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Supports computational biology, bioinformatics, and data science research infrastructure. Increasingly open to global collaborations. India-based researchers with Danish collaborators are eligible.",
-      "url": "https://novonordiskfonden.dk/en/grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher",
-        "Faculty",
-        "with Danish collaborator"
-      ],
-      "disciplines": [
-        "Data Science",
-        "Computational Biology",
-        "Bioinformatics",
-        "AI/ML"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "a1fb629ad3",
-      "title": "Royal Society Newton International Fellowship",
-      "agency": "Royal Society",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "£33,000/year salary + £14,500 research expenses (2 years)",
-      "description": "2-year fellowship for early career non-UK researchers to work at UK institutions. All disciplines. India-eligible. Strong career development — alumni network is highly connected. Annual call.",
-      "url": "https://royalsociety.org/grants-schemes-awards/grants/newton-international/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Early Career Researcher (PhD ≤7 years)",
-        "Non-UK national",
-        "Indian Researcher"
-      ],
-      "disciplines": [
-        "Any — all disciplines"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "728965bf7c",
-      "title": "Royal Society International Exchanges — Cost Share",
-      "agency": "Royal Society",
-      "country": "International",
-      "grant_type": "Collaborative Grant",
-      "amount": "Up to £12,000",
-      "description": "Seed funding for new collaborations between UK and international researchers. India participates in the Cost Share scheme (funded by both RS and Indian agency). Covers short visits and workshops up to £12,000. Rolling deadline.",
-      "url": "https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "with UK collaborator"
-      ],
-      "disciplines": [
-        "Any — STEM focus"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "5f0ed071c4",
-      "title": "DAAD Research Stays for University Academics (India)",
-      "agency": "DAAD",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Monthly allowance + travel (as per DAAD norms)",
-      "description": "Short research stays (1–3 months) at German universities for Indian faculty. Covers travel and accommodation. No age limit. Also includes bilateral exchange for PhD students.",
-      "url": "https://www.daad.in/en/find-funding/scholarship-database/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Senior Researcher",
-        "Indian Institution"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "e53d8bfd9c",
-      "title": "DST-DAAD Personnel Exchange Programme (PPP) — Indo-German",
-      "agency": "DAAD",
-      "country": "International",
-      "grant_type": "Collaborative Grant",
-      "amount": "Travel + per diem (DST norms for Indian side)",
-      "description": "Bilateral MoU between DAAD and DST. Supports researcher exchanges for joint research projects. Indian PI applies to DST; German PI to DAAD. Covers travel + per diem for both teams. Well-established channel.",
-      "url": "https://www.daad.in/en/find-funding/scholarship-database/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty (Indian PI)",
-        "German Co-PI required"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering",
-        "Technology",
-        "Any STEM"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "9038437b97",
-      "title": "DAAD WISE Scholarship (Women in STEM)",
-      "agency": "DAAD",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "€650/month + travel support",
-      "description": "For women engineering/science students from India for summer internships at top German universities. Highly competitive, well-regarded. Also increases visibility for follow-on collaborations.",
-      "url": "https://www.daad.in/en/find-funding/scholarship-database/wise/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Women Engineering/Science Student (penultimate year)",
-        "Indian"
-      ],
-      "disciplines": [
-        "Engineering",
-        "Natural Sciences",
-        "Computer Science"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
     },
     {
       "id": "7b94d56173",

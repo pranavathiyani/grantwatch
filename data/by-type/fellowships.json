@@ -1,8 +1,8 @@
 {
   "category": "fellowships",
-  "generated": "2026-03-15T02:18:47Z",
-  "total": 46,
-  "open": 45,
+  "generated": "2026-03-15T05:44:24Z",
+  "total": 47,
+  "open": 46,
   "grants": [
     {
       "id": "9ef0d6f466",
@@ -166,28 +166,6 @@
       ],
       "status": "open",
       "last_updated": "2026-03-15"
-    },
-    {
-      "id": "dbt-bnc001",
-      "title": "DBT-BioCARe (Biotechnology Career Advancement)",
-      "agency": "DBT",
-      "country": "India",
-      "grant_type": "Fellowship",
-      "amount": "Up to ₹55 Lakhs (3 years)",
-      "description": "Women scientist scheme for re-entry into mainstream S&T. Supports biotechnology research.",
-      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/biocare",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Women Scientist",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Biotechnology",
-        "Life Sciences"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-14"
     },
     {
       "id": "wellcome-ia001",
@@ -416,99 +394,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "f19b3e2c05",
-      "title": "DBT Junior Research Fellowship (DBT-JRF)",
-      "agency": "DBT",
-      "country": "India",
-      "grant_type": "Fellowship",
-      "amount": "₹37,000/month (JRF) → ₹42,000/month (SRF)",
-      "description": "For pursuing PhD in Biotechnology/Life Sciences. Selected via written test (BET). Twice yearly.",
-      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/dbt-jrf",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "MSc/BTech Graduate",
-        "BET Qualified"
-      ],
-      "disciplines": [
-        "Biotechnology",
-        "Life Sciences",
-        "Bioinformatics"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "94d9a5fced",
-      "title": "DBT Ramalingaswami Re-entry Fellowship",
-      "agency": "DBT",
-      "country": "India",
-      "grant_type": "Fellowship",
-      "amount": "₹1,30,000/month + ₹30 Lakhs research grant",
-      "description": "Prestigious re-entry fellowship for Indian scientists working abroad, to return and build independent labs in India. 5-year tenure.",
-      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/ramalingaswami-re-entry-fellowship",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Indian Scientist (Overseas)",
-        "Early Career Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Biotechnology",
-        "Biomedical"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "787456c8f7",
-      "title": "DBT Research Associateship (DBT-RA)",
-      "agency": "DBT",
-      "country": "India",
-      "grant_type": "Fellowship",
-      "amount": "₹54,000–67,000/month + HRA",
-      "description": "Postdoctoral programme in biotechnology and life sciences. PhD holders within 3 years of degree award. Hosted at any recognized Indian institution with an established research group.",
-      "url": "https://ra.dbtindia.gov.in/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Holder (≤3 years)",
-        "Biotechnology/Life Sciences"
-      ],
-      "disciplines": [
-        "Biotechnology",
-        "Life Sciences",
-        "Bioinformatics",
-        "Biomedical"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "61b38151c4",
-      "title": "DBT-IYBA — Innovative Young Biotechnologist Award",
-      "agency": "DBT",
-      "country": "India",
-      "grant_type": "Award + Research Grant",
-      "amount": "₹30 Lakhs research grant (3 years) + award",
-      "description": "Annual award + research grant for outstanding young researchers in biotechnology under 35 years. Provides 3-year research support in addition to the award. One of DBT's most competitive early-career recognitions.",
-      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/innovative-young-biotechnologist-award",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Researcher/Faculty (under 35)",
-        "Indian Institution"
-      ],
-      "disciplines": [
-        "Biotechnology",
-        "Life Sciences",
-        "Biomedical"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "5f73bc8065",
       "title": "DST INSPIRE Faculty Award",
       "agency": "DST",
@@ -572,29 +457,6 @@
       "disciplines": [
         "Basic Sciences",
         "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "523b6dbf30",
-      "title": "ICMR Junior Research Fellowship (ICMR-JRF)",
-      "agency": "ICMR",
-      "country": "India",
-      "grant_type": "Fellowship",
-      "amount": "₹37,000/month (JRF) → ₹42,000/month (SRF)",
-      "description": "For pursuing PhD in biomedical and health sciences. Selected via ICMR-JRF exam held annually.",
-      "url": "https://icmr.gov.in/fellowship",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "ICMR-JRF Qualified",
-        "MSc/MBBS Graduate"
-      ],
-      "disciplines": [
-        "Medical Research",
-        "Public Health",
-        "Biomedical Sciences"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
@@ -803,29 +665,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "c26ea633bf",
-      "title": "Wellcome India Alliance — Intermediate Fellowship",
-      "agency": "Wellcome DBT India Alliance",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "Up to ₹3.25 Crores (5 years)",
-      "description": "For established Indian researchers seeking independence. 5-year award with salary and substantial research budget.",
-      "url": "https://indiaalliance.org/apply-for-a-grant/intermediate-fellowship",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher (PhD ≤12 years)"
-      ],
-      "disciplines": [
-        "Biomedical",
-        "Life Sciences",
-        "Public Health"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "ded4f0913e",
       "title": "Wellcome India Alliance — Senior Fellowship",
       "agency": "Wellcome DBT India Alliance",
@@ -1019,6 +858,192 @@
         "Engineering",
         "Natural Sciences",
         "Computer Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f19b3e2c05",
+      "title": "DBT Junior Research Fellowship (DBT-JRF)",
+      "agency": "DBT",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "₹37,000/month (JRF) → ₹42,000/month (SRF)",
+      "description": "For pursuing PhD in Biotechnology/Life Sciences. Selected via written test (BET). Twice yearly.",
+      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/dbt-jrf",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "MSc/BTech Graduate",
+        "BET Qualified"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "Life Sciences",
+        "Bioinformatics"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "787456c8f7",
+      "title": "DBT Research Associateship (DBT-RA)",
+      "agency": "DBT",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "₹54,000–67,000/month + HRA",
+      "description": "Postdoctoral programme in biotechnology and life sciences. PhD holders within 3 years of degree award. Hosted at any recognized Indian institution with an established research group.",
+      "url": "https://ra.dbtindia.gov.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Holder (≤3 years)",
+        "Biotechnology/Life Sciences"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "Life Sciences",
+        "Bioinformatics",
+        "Biomedical"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "94d9a5fced",
+      "title": "DBT Ramalingaswami Re-entry Fellowship",
+      "agency": "DBT",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "₹1,30,000/month + ₹30 Lakhs research grant",
+      "description": "Prestigious re-entry fellowship for Indian scientists working abroad, to return and build independent labs in India. 5-year tenure.",
+      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/ramalingaswami-re-entry-fellowship",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Indian Scientist (Overseas)",
+        "Early Career Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Biotechnology",
+        "Biomedical"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "cc9a40412d",
+      "title": "DBT BioCARe (Biotechnology Career Advancement for Women)",
+      "agency": "DBT",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "Up to ₹55 Lakhs (3 years)",
+      "description": "Women scientist re-entry scheme. Salary + research costs for 3 years in biotechnology research.",
+      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/biocare",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Women Scientist (career break)",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "Life Sciences"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "61b38151c4",
+      "title": "DBT-IYBA — Innovative Young Biotechnologist Award",
+      "agency": "DBT",
+      "country": "India",
+      "grant_type": "Award + Research Grant",
+      "amount": "₹30 Lakhs research grant (3 years) + award",
+      "description": "Annual award + research grant for outstanding young researchers in biotechnology under 35 years. Provides 3-year research support in addition to the award. One of DBT's most competitive early-career recognitions.",
+      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/innovative-young-biotechnologist-award",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher/Faculty (under 35)",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "Life Sciences",
+        "Biomedical"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "523b6dbf30",
+      "title": "ICMR Junior Research Fellowship (ICMR-JRF)",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "₹37,000/month (JRF) → ₹42,000/month (SRF)",
+      "description": "For pursuing PhD in biomedical and health sciences. Selected via ICMR-JRF exam held annually.",
+      "url": "https://icmr.gov.in/fellowship",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "ICMR-JRF Qualified",
+        "MSc/MBBS Graduate"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Biomedical Sciences"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "350ed6a1ac",
+      "title": "ICMR DHR Human Resource Development Fellowships",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "Varies by fellowship category",
+      "description": "DHR HRD scheme covering research fellowships, short-term studentships, and postdoctoral fellowships in health research. Annual call.",
+      "url": "https://icmr.gov.in/fellowships",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "MBBS/MD",
+        "MSc",
+        "PhD Student",
+        "Postdoc"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Health Research",
+        "Public Health"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "c26ea633bf",
+      "title": "Wellcome India Alliance — Intermediate Fellowship",
+      "agency": "Wellcome DBT India Alliance",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "Up to ₹3.25 Crores (5 years)",
+      "description": "For established Indian researchers seeking independence. 5-year award with salary and substantial research budget.",
+      "url": "https://indiaalliance.org/apply-for-a-grant/intermediate-fellowship",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher (PhD ≤12 years)"
+      ],
+      "disciplines": [
+        "Biomedical",
+        "Life Sciences",
+        "Public Health"
       ],
       "status": "open",
       "last_updated": "2026-03-15"

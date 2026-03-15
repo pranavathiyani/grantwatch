@@ -13,13 +13,13 @@
 
 | Metric | Count |
 |--------|-------|
-| 📋 Total grants indexed | **602** |
-| ✅ Open calls | **597** |
-| 🇮🇳 Indian agency grants | **500** |
-| 🌍 International grants | **102** |
-| 🎓 Fellowships | **58** |
+| 📋 Total grants indexed | **248** |
+| ✅ Open calls | **243** |
+| 🇮🇳 Indian agency grants | **152** |
+| 🌍 International grants | **96** |
+| 🎓 Fellowships | **59** |
 | ✈️ Travel grants | **22** |
-| 🤝 Bilateral collaborations | **21** |
+| 🤝 Bilateral collaborations | **22** |
 
 ---
 
@@ -28,6 +28,7 @@
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
 | 🔴 **2d** | HFSP Research Grant — Program Grant | HFSP | 2026-03-17 |
+| 🟡 **9d** | BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups | BIRAC | 2026-03-24 |
 | 🟡 **16d** | ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
 | 🟡 **16d** | ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) | ICGEB | 2026-03-31 |
 | 🟡 **16d** | ICGEB Short-term PhD Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
@@ -75,7 +76,7 @@ All served from `data/` — no backend, pure JSON over GitHub Pages.
 /data/archive/                # Last 6 bi-weekly snapshots
 ```
 
-## Agencies Covered (36)
+## Agencies Covered (35)
 
 - AICTE
 - ANRF
@@ -100,7 +101,6 @@ All served from `data/` — no backend, pure JSON over GitHub Pages.
 - INSA
 - IUSSTF
 - MeitY
-- NCBS
 - NIH
 - NIH Fogarty
 - Novo Nordisk Foundation

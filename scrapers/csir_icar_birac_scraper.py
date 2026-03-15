@@ -119,38 +119,119 @@ class ICARScraper(BaseScraper):
         return grants
 
 
+
 class BIRACScraper(BaseScraper):
+    """
+    Curated — BIRAC website mixes navigation/news with current calls,
+    producing 278 noisy entries when scraped blindly.
+    These 10 entries cover all major standing BIRAC schemes.
+    BIG opens Jan 1 and Jul 1 every year (confirmed pattern).
+    """
     AGENCY_NAME    = "BIRAC"
     AGENCY_COUNTRY = "India"
     AGENCY_URL     = "https://birac.nic.in/cfp.php"
 
-    def scrape(self) -> list:
-        grants = []
-        try:
-            resp = requests.get(self.AGENCY_URL, timeout=20,
-                                headers={"User-Agent": "Mozilla/5.0"})
-            resp.raise_for_status()
-            soup = BeautifulSoup(resp.text, "html.parser")
-            for row in soup.select("table tr"):
-                link = row.find("a")
-                if not link:
-                    continue
-                title = link.get_text(strip=True)
-                href  = link.get("href", "")
-                if href and not href.startswith("http"):
-                    href = "https://birac.nic.in/" + href.lstrip("/")
-                row_text = row.get_text(" ", strip=True)
-                date_hit = re.search(r"\b(\d{1,2}[-/.]\d{1,2}[-/.]\d{4})\b", row_text)
-                deadline = _parse_date(date_hit.group(1)) if date_hit else None
-                if len(title) < 6:
-                    continue
-                grants.append(self.build_grant(
-                    title=title, url=href, deadline=deadline,
-                    description=row_text[:300], grant_type="Innovation Grant",
-                    eligibility=["Startup", "Faculty", "Researcher", "Industry"],
-                    disciplines=["Biotechnology", "Biopharma", "MedTech", "AgriTech"],
-                    amount="Varies",
-                ))
-        except Exception as e:
-            print(f"  [BIRAC] {e}")
-        return grants
+    def scrape(self):
+        return [
+            self.build_grant(
+                title       = "BIRAC Biotechnology Ignition Grant (BIG)",
+                url         = "https://birac.nic.in/big.php",
+                deadline    = "2026-07-01",
+                open_date   = "2026-07-01",
+                description = "Flagship early-stage biotech funding. Up to ₹50L for proof-of-concept. Opens TWICE yearly: Jan 1 and Jul 1. Largest early-stage biotech funding programme in India.",
+                grant_type  = "Startup Grant",
+                eligibility = ["Startup", "Individual Innovator", "Faculty Entrepreneur"],
+                disciplines = ["Biotechnology", "MedTech", "AgriTech", "Biopharma"],
+                amount      = "Up to ₹50 Lakhs (18 months)",
+            ),
+            self.build_grant(
+                title       = "BIRAC BioNEST (Biotech Incubator Support)",
+                url         = "https://birac.nic.in/bionest.php",
+                deadline    = None,
+                description = "Supports establishment of biotech incubators at academic institutions. Covers infrastructure and startup support. Academic institutions can apply.",
+                grant_type  = "Infrastructure Grant",
+                eligibility = ["University", "Academic Institution", "R&D Organization"],
+                disciplines = ["Biotechnology", "Biopharma", "MedTech"],
+                amount      = "Up to ₹10 Crores (phased)",
+            ),
+            self.build_grant(
+                title       = "BIRAC SPARSH (Social Innovation Grant)",
+                url         = "https://birac.nic.in/sparsh.php",
+                deadline    = None,
+                description = "Supports affordable healthcare and agriculture innovations for underserved populations. Open to startups, NGOs, faculty, social enterprises.",
+                grant_type  = "Startup Grant",
+                eligibility = ["Startup", "Social Enterprise", "Faculty", "NGO"],
+                disciplines = ["Healthcare", "Agriculture", "Biotechnology"],
+                amount      = "Up to ₹50 Lakhs",
+            ),
+            self.build_grant(
+                title       = "BIRAC SBIRI (Small Business Innovation Research Initiative)",
+                url         = "https://birac.nic.in/sbiri.php",
+                deadline    = None,
+                description = "Industry-academia collaborative grants for late-stage biotech product development. Phase I (₹50L) and Phase II (₹4Cr). Requires industry partner.",
+                grant_type  = "Research Grant",
+                eligibility = ["Company/Startup with Academic Partner"],
+                disciplines = ["Biotechnology", "Biopharma", "MedTech", "Diagnostics"],
+                amount      = "Phase I: ₹50L; Phase II: ₹4 Crores",
+            ),
+            self.build_grant(
+                title       = "BIRAC BIPP (Biotechnology Industry Partnership Programme)",
+                url         = "https://birac.nic.in/bipp.php",
+                deadline    = None,
+                description = "Large-scale industry-government partnership for national-need biotech product development.",
+                grant_type  = "Research Grant",
+                eligibility = ["Company", "Institution with Industry Partner"],
+                disciplines = ["Biotechnology", "Biopharma", "Vaccines", "Diagnostics"],
+                amount      = "Up to ₹25 Crores",
+            ),
+            self.build_grant(
+                title       = "BIRAC SITARE (Student Innovators and Translational Research)",
+                url         = "https://birac.nic.in/sitare.php",
+                deadline    = None,
+                description = "Seed funding for UG/PG/PhD students with innovative biotech ideas. Mentorship from BIRAC network. Good entry point for student-led innovation.",
+                grant_type  = "Startup Grant",
+                eligibility = ["UG/PG Student", "PhD Student", "Faculty Mentor required"],
+                disciplines = ["Biotechnology", "Life Sciences", "MedTech"],
+                amount      = "Up to ₹10 Lakhs",
+            ),
+            self.build_grant(
+                title       = "BIRAC PACE (Academia-Industry Translation Research)",
+                url         = "https://birac.nic.in/pace.php",
+                deadline    = None,
+                description = "Bridges laboratory research and commercial product. Indian institution + industry partner required.",
+                grant_type  = "Research Grant",
+                eligibility = ["Faculty", "Researcher", "with Industry Partner"],
+                disciplines = ["Biotechnology", "Life Sciences", "Translational Research"],
+                amount      = "Up to ₹2 Crores",
+            ),
+            self.build_grant(
+                title       = "BIRAC DBT-BIRAC AMR Mission",
+                url         = "https://birac.nic.in/cfp.php",
+                deadline    = None,
+                description = "Dedicated AMR research programme. Novel diagnostics, therapeutics, vaccines against drug-resistant pathogens. Directly relevant to ESKAPE pathogen research.",
+                grant_type  = "Research Grant",
+                eligibility = ["Faculty", "Researcher", "Startup", "Institution"],
+                disciplines = ["AMR", "Infectious Disease", "Drug Discovery", "Diagnostics", "Vaccines"],
+                amount      = "Varies by project scope",
+            ),
+            self.build_grant(
+                title       = "BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups",
+                url         = "https://birac.nic.in/",
+                deadline    = "2026-03-24",
+                description = "Global mentorship connecting Indian biotech startups with international mentors. Call open for mentees till March 24, 2026.",
+                grant_type  = "Startup Grant",
+                eligibility = ["Startup", "Innovator", "Early-stage company"],
+                disciplines = ["Biotechnology", "MedTech", "AgriTech"],
+                amount      = "Mentorship support",
+            ),
+            self.build_grant(
+                title       = "DBT-BIRAC Bio-AI Joint Call (BioE3 Biomanufacturing)",
+                url         = "https://birac.nic.in/cfp.php",
+                deadline    = None,
+                description = "Joint call for Bio-AI proposals for biomanufacturing hubs under BioE3 Policy. AI + biotechnology convergence. Check birac.nic.in for current deadline.",
+                grant_type  = "Research Grant",
+                eligibility = ["Faculty", "Startup", "Institution"],
+                disciplines = ["AI/ML", "Biotechnology", "Biomanufacturing", "Bioinformatics"],
+                amount      = "Varies",
+            ),
+        ]

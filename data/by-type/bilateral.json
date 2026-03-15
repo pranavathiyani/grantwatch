@@ -1,8 +1,8 @@
 {
   "category": "bilateral",
-  "generated": "2026-03-15T02:18:47Z",
-  "total": 22,
-  "open": 22,
+  "generated": "2026-03-15T05:44:24Z",
+  "total": 23,
+  "open": 23,
   "grants": [
     {
       "id": "a852a06380",
@@ -47,6 +47,29 @@
       "disciplines": [
         "Biomedical Research",
         "Public Health",
+        "Life Sciences",
+        "Biotechnology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f9575352e1",
+      "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies (ICMR/DBT norms for Indian side)",
+      "description": "Joint call: ICMR + DBT (India) + Swiss NSF. Indian PI funded by ICMR/DBT; Swiss PI by SNSF. Deadline May 5, 2026.",
+      "url": "https://icmr.gov.in/international-fellowships",
+      "deadline": "2026-05-05",
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "Swiss Co-PI required"
+      ],
+      "disciplines": [
+        "Biomedical Research",
         "Life Sciences",
         "Biotechnology"
       ],
@@ -378,31 +401,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "b989def769",
-      "title": "MeitY-NSF Joint Research Programme",
-      "agency": "DST (Bilateral)",
-      "country": "India",
-      "grant_type": "Collaborative Grant",
-      "amount": "INR (MeitY norms) + USD (NSF norms)",
-      "description": "India-US bilateral for semiconductors, next-gen communications, cybersecurity, green tech, intelligent transport. Indian PI applies to MeitY; US PI to NSF. Single joint proposal, reviewed by NSF as coordinating agency.",
-      "url": "https://www.meity.gov.in/content/announcement-1st-joint-call-porposal-under--research-colaboration",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty (Indian PI)",
-        "US Co-PI (NSF-eligible)"
-      ],
-      "disciplines": [
-        "Semiconductors",
-        "AI/ML",
-        "Cybersecurity",
-        "Green Tech",
-        "IT"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "1c97a53494",
       "title": "DST-MOST Indo-Israel Joint Research (S&T)",
       "agency": "DST (Bilateral)",
@@ -519,6 +517,31 @@
         "Engineering",
         "Technology",
         "Any STEM"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "b989def769",
+      "title": "MeitY-NSF Joint Research Programme",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "INR (MeitY norms) + USD (NSF norms)",
+      "description": "India-US bilateral for semiconductors, next-gen communications, cybersecurity, green tech, intelligent transport. Indian PI applies to MeitY; US PI to NSF. Single joint proposal, reviewed by NSF as coordinating agency.",
+      "url": "https://www.meity.gov.in/content/announcement-1st-joint-call-porposal-under--research-colaboration",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "US Co-PI (NSF-eligible)"
+      ],
+      "disciplines": [
+        "Semiconductors",
+        "AI/ML",
+        "Cybersecurity",
+        "Green Tech",
+        "IT"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
