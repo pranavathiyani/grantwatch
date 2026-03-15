@@ -101,17 +101,23 @@ class UGCScraper(BaseScraper):
 # DST (separate from ANRF — FIST, PURSE, etc.)
 # ─────────────────────────────────────────────
 class DSTScraper(BaseScraper):
-    AGENCY_NAME = "DST"
+    """
+    Curated — DST website mixes navigation links with actual calls.
+    Live scraping pulled entries like "Schemes/Programmes", "Archive
+    Call For Proposals" etc. Replaced with curated standing schemes.
+    DSTFellowshipScraper (fellowship_scrapers.py) handles INSPIRE/WOS-A/KVPY.
+    """
+    AGENCY_NAME    = "DST"
     AGENCY_COUNTRY = "India"
-    AGENCY_URL = "https://dst.gov.in/call-for-proposals"
+    AGENCY_URL     = "https://dst.gov.in/call-for-proposals"
 
     def scrape(self) -> list:
-        grants = [
+        return [
             self.build_grant(
                 title       = "DST-FIST (Fund for Improvement of S&T Infrastructure)",
                 url         = "https://dst.gov.in/scientific-programmes/scientific-engineering-research/fist",
                 deadline    = None,
-                description = "Infrastructure grant for upgrading S&T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr).",
+                description = "Infrastructure grant for upgrading S&T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr). Rolling applications.",
                 grant_type  = "Infrastructure Grant",
                 eligibility = ["University", "College", "Department"],
                 disciplines = ["Science", "Engineering", "Technology"],
@@ -121,7 +127,7 @@ class DSTScraper(BaseScraper):
                 title       = "DST-PURSE (Promotion of University Research and Scientific Excellence)",
                 url         = "https://dst.gov.in/scientific-programmes/scientific-engineering-research/purse",
                 deadline    = None,
-                description = "Grants to universities with good research output to strengthen research infrastructure and programs.",
+                description = "Grants to universities with strong research output to strengthen research infrastructure. Based on publication metrics.",
                 grant_type  = "Infrastructure Grant",
                 eligibility = ["University with strong research output"],
                 disciplines = ["Any"],
@@ -131,45 +137,85 @@ class DSTScraper(BaseScraper):
                 title       = "DST Science and Heritage Research Initiative (SHRI)",
                 url         = "https://dst.gov.in/call-for-proposals",
                 deadline    = None,
-                description = "Research integrating modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.",
+                description = "Integrates modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.",
                 grant_type  = "Research Grant",
                 eligibility = ["Faculty", "Researcher"],
                 disciplines = ["Science", "Heritage Studies", "Traditional Knowledge"],
                 amount      = "Varies",
             ),
+            self.build_grant(
+                title       = "DST India-France Call for Proposals (Applied Mathematics & AI)",
+                url         = "https://dst.gov.in/international-cooperation/bilateral/france",
+                deadline    = None,
+                description = "Joint Indo-French call in Applied Mathematics and Artificial Intelligence. Coordinated by DST (India) and ANR (France). Annual call.",
+                grant_type  = "Collaborative Grant",
+                eligibility = ["Faculty", "Researcher", "French Co-PI required"],
+                disciplines = ["Applied Mathematics", "AI/ML", "Computer Science"],
+                amount      = "Varies (DST norms for Indian side)",
+            ),
+            self.build_grant(
+                title       = "India-Netherlands Hydrogen Fellowship Programme",
+                url         = "https://dst.gov.in/international-cooperation",
+                deadline    = None,
+                description = "DST-NWO joint programme for researchers working on hydrogen energy technology. India-Netherlands bilateral.",
+                grant_type  = "Fellowship",
+                eligibility = ["Researcher", "Faculty", "Dutch Co-PI required"],
+                disciplines = ["Energy", "Chemistry", "Chemical Engineering"],
+                amount      = "Varies",
+            ),
+            self.build_grant(
+                title       = "India Science and Research Fellowship (ISRF) 2025",
+                url         = "https://dst.gov.in/call-for-proposals",
+                deadline    = None,
+                description = "Supports researchers from neighbouring countries (Bangladesh, Nepal, Sri Lanka etc) to visit Indian labs. DST-funded. Annual call.",
+                grant_type  = "Fellowship",
+                eligibility = ["Researcher from SAARC/neighbouring country"],
+                disciplines = ["Science", "Engineering", "Technology"],
+                amount      = "As per DST norms",
+            ),
+            self.build_grant(
+                title       = "DST-NIDHI PRAYAS Grant (Proof of Concept)",
+                url         = "https://nidhi.dst.gov.in/prayas",
+                deadline    = None,
+                description = "Seed funding for proof-of-concept for technology startups. Part of DST's NIDHI (National Initiative for Developing and Harnessing Innovations) programme.",
+                grant_type  = "Startup Grant",
+                eligibility = ["Startup", "Innovator", "Faculty Entrepreneur"],
+                disciplines = ["Technology", "Engineering", "Biotechnology", "Any"],
+                amount      = "Up to ₹10 Lakhs",
+            ),
+            self.build_grant(
+                title       = "DST-NIDHI Technology Business Incubator (TBI) Support",
+                url         = "https://nidhi.dst.gov.in/tbi",
+                deadline    = None,
+                description = "Supports setting up and strengthening Technology Business Incubators at academic institutions. Funding + mentorship ecosystem.",
+                grant_type  = "Infrastructure Grant",
+                eligibility = ["University", "Academic Institution"],
+                disciplines = ["Technology", "Entrepreneurship", "Any"],
+                amount      = "Up to ₹3.75 Crores",
+            ),
+            self.build_grant(
+                title       = "DST SERB-POWER (Promoting Opportunities for Women in Exploratory Research)",
+                url         = "https://serb.gov.in/power",
+                deadline    = None,
+                description = "Research grants for women scientists at Fellow and Accelerate levels. Addresses gender disparity in STEM. Annual call via ANRF/SERB.",
+                grant_type  = "Research Grant",
+                eligibility = ["Women Researcher", "Faculty"],
+                disciplines = ["Science", "Engineering", "Technology"],
+                amount      = "₹35–60 Lakhs (3 years)",
+            ),
+            self.build_grant(
+                title       = "DST Scheduled Caste Sub Plan (SCSP) — Mission Projects",
+                url         = "https://dst.gov.in/call-for-proposals",
+                deadline    = None,
+                description = "S&T interventions for SC communities. Research and technology projects that directly benefit scheduled castes.",
+                grant_type  = "Research Grant",
+                eligibility = ["Faculty", "Researcher", "NGO"],
+                disciplines = ["Science", "Technology", "Social Development"],
+                amount      = "Varies",
+            ),
         ]
 
-        # Live scrape DST calls page
-        try:
-            resp = requests.get(self.AGENCY_URL, timeout=20,
-                                headers={"User-Agent": "Mozilla/5.0"})
-            if resp.status_code == 200:
-                soup = BeautifulSoup(resp.text, "html.parser")
-                for link in soup.find_all("a", href=True):
-                    title = link.get_text(strip=True)
-                    if len(title) < 10 or not any(k in title.lower() for k in GRANT_KEYWORDS):
-                        continue
-                    href = link["href"]
-                    if not href.startswith("http"):
-                        href = "https://dst.gov.in" + href
-                    parent_text = link.parent.get_text(" ", strip=True) if link.parent else ""
-                    date_hit = re.search(r"\b(\d{1,2}[-/.]\d{1,2}[-/.]\d{4})\b", parent_text)
-                    deadline = _parse_date(date_hit.group(1)) if date_hit else None
-                    grants.append(self.build_grant(
-                        title=title, url=href, deadline=deadline,
-                        description=parent_text[:300], grant_type="Research Grant",
-                        eligibility=["Faculty", "Researcher"],
-                        disciplines=["Science", "Engineering"], amount="Varies",
-                    ))
-        except Exception as e:
-            print(f"  [DST live] {e}")
 
-        return grants
-
-
-# ─────────────────────────────────────────────
-# MeitY
-# ─────────────────────────────────────────────
 class MeitYScraper(BaseScraper):
     AGENCY_NAME = "MeitY"
     AGENCY_COUNTRY = "India"
