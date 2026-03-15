@@ -2964,7 +2964,7 @@
     "grant_type": "Research Grant",
     "amount": "Varies by project scope (₹10–50L typical)",
     "description": "Main ICMR extramural research funding for biomedical and health research. Open to medical colleges, universities, and research institutions.",
-    "url": "https://icmr.gov.in/call-for-applications",
+    "url": "https://icmr.gov.in/extramural-grants",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -2989,7 +2989,7 @@
     "grant_type": "Research Grant",
     "amount": "Up to ₹30 Lakhs",
     "description": "New ICMR small grant scheme. Faster turnaround than ad-hoc. Up to ₹30L. Follow-on ANVESHAN also available.",
-    "url": "https://icmr.gov.in/call-for-applications",
+    "url": "https://icmr.gov.in/extramural-grants",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3013,7 +3013,7 @@
     "grant_type": "Research Grant",
     "amount": "₹30–70 Lakhs",
     "description": "ICMR intermediate-scale grant for established researchers. Mid-tier between ANVESHAN (small) and full ad-hoc grants. For health research with clear translational potential.",
-    "url": "https://icmr.gov.in/call-for-applications",
+    "url": "https://icmr.gov.in/extramural-grants",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3083,7 +3083,7 @@
     "grant_type": "Research Grant",
     "amount": "Up to ₹20 Lakhs (2 years)",
     "description": "Seed grant for newly appointed faculty entering biomedical/health research. Helps establish research programme at a new institution.",
-    "url": "https://icmr.gov.in/call-for-applications",
+    "url": "https://icmr.gov.in/extramural-grants",
     "deadline": null,
     "open_date": null,
     "eligibility": [
@@ -3349,7 +3349,7 @@
     "grant_type": "Research Grant",
     "amount": "Up to ₹30 Lakhs",
     "description": "ICMR's new small grant scheme (rebranded). Investigator-initiated research proposals in biomedical and health sciences. Faster turnaround than ad-hoc grants. Follow-on ANVESHAN available for ongoing work.",
-    "url": "https://icmr.gov.in/call-for-applications",
+    "url": "https://icmr.gov.in/extramural-grants",
     "deadline": null,
     "open_date": null,
     "eligibility": [

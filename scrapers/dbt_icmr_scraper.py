@@ -98,13 +98,13 @@ class DBTScraper(BaseScraper):
 class ICMRScraper(BaseScraper):
     AGENCY_NAME    = "ICMR"
     AGENCY_COUNTRY = "India"
-    AGENCY_URL     = "https://icmr.gov.in/call-for-applications"
+    AGENCY_URL     = "https://icmr.gov.in/extramural-grants"
 
     def scrape(self):
         return [
             self.build_grant(
                 title       = "ICMR Ad-hoc Research Projects (Extramural)",
-                url         = "https://icmr.gov.in/call-for-applications",
+                url         = "https://icmr.gov.in/extramural-grants",
                 deadline    = None,
                 description = "Main ICMR extramural research funding for biomedical and health research. Open to medical colleges, universities, and research institutions.",
                 grant_type  = "Research Grant",
@@ -114,7 +114,7 @@ class ICMRScraper(BaseScraper):
             ),
             self.build_grant(
                 title       = "ICMR ANVESHAN — Small Research Grant",
-                url         = "https://icmr.gov.in/call-for-applications",
+                url         = "https://icmr.gov.in/extramural-grants",
                 deadline    = None,
                 description = "New ICMR small grant scheme. Faster turnaround than ad-hoc. Up to ₹30L. Follow-on ANVESHAN also available.",
                 grant_type  = "Research Grant",
@@ -124,7 +124,7 @@ class ICMRScraper(BaseScraper):
             ),
             self.build_grant(
                 title       = "ICMR NISCHA — Intermediate Research Grant",
-                url         = "https://icmr.gov.in/call-for-applications",
+                url         = "https://icmr.gov.in/extramural-grants",
                 deadline    = None,
                 description = "Mid-tier ICMR grant (₹30–70L) for established researchers with translational potential. Between ANVESHAN and full ad-hoc.",
                 grant_type  = "Research Grant",
@@ -164,7 +164,7 @@ class ICMRScraper(BaseScraper):
             ),
             self.build_grant(
                 title       = "ICMR Start-Up Grant for Induction into Biomedical Research",
-                url         = "https://icmr.gov.in/call-for-applications",
+                url         = "https://icmr.gov.in/extramural-grants",
                 deadline    = None,
                 description = "Seed grant for newly appointed faculty entering biomedical/health research. Helps establish research programme at a new institution.",
                 grant_type  = "Research Grant",
