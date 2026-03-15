@@ -50,8 +50,8 @@ def update_readme():
 
     total      = len(grants)
     open_g     = sum(1 for g in grants if g["status"] == "open")
-    india_g    = sum(1 for g in grants if g["country"] == "India")
-    intl_g     = sum(1 for g in grants if g["country"] == "International")
+    india_g    = sum(1 for g in grants if g["agency_country"] == "India")
+    intl_g     = sum(1 for g in grants if g["agency_country"] == "International")
     fellows    = sum(1 for g in grants if "Fellowship" in g.get("grant_type",""))
     travel_g   = sum(1 for g in grants if g.get("grant_type") == "Travel Grant")
     collab_g   = sum(1 for g in grants if g.get("grant_type") == "Collaborative Grant")
