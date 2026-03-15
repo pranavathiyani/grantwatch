@@ -2,17 +2,20 @@ name: Grant Watch ⌛ Bi-Weekly Refresh
 
 on:
   schedule:
-    # 1st and 15th of every month at 06:00 UTC (11:30 IST)
     - cron: "0 6 1,15 * *"
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -23,7 +26,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Archive previous snapshot
-        run: python update_readme.py   # archives before overwriting
+        run: python update_readme.py
 
       - name: Run scrapers
         run: python run_scrapers.py
@@ -64,4 +67,3 @@ jobs:
           for g in u['closing_7d']:
               print(f'- [{g[\"days_left\"]}d] {g[\"title\"]} — {g[\"agency\"]}')
           " >> $GITHUB_STEP_SUMMARY || echo "No urgent grants" >> $GITHUB_STEP_SUMMARY
-

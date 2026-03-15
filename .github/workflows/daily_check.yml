@@ -2,44 +2,41 @@ name: Grant Watch ⌛ Daily Deadline Check
 
 on:
   schedule:
-    # Every day at 06:30 UTC (12:00 IST)
     - cron: "30 6 * * *"
   workflow_dispatch:
 
 jobs:
-  deadline-check:
+  check:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Run deadline check
         run: python daily_check.py
 
-      - name: Generate RSS feed
-        run: python generate_feed.py
-
-      - name: Auto-update README stats
+      - name: Update README stats
         run: python update_readme.py
 
-      - name: Commit updated files
+      - name: Commit updates
         run: |
           git config user.name  "Grant Watch Bot"
           git config user.email "grantwatch-bot@sastra.edu"
           git add data/urgent.json data/feed.xml README.md
-          git diff --cached --quiet || git commit -m "chore: daily deadline check + feed update [$(date +'%Y-%m-%d')]"
+          git diff --cached --quiet || git commit -m "chore: daily deadline check [$(date +'%Y-%m-%d')]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Summary
-        run: |
-          echo "### Grant Watch ⌛ Daily Check" >> $GITHUB_STEP_SUMMARY
-          echo "#### Urgent Grants" >> $GITHUB_STEP_SUMMARY
-          cat data/urgent.json >> $GITHUB_STEP_SUMMARY
