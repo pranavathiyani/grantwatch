@@ -8,9 +8,9 @@ from .nih_scraper                     import NIHScraper
 from .anrf_scraper                    import ANRFScraper
 from .dbt_icmr_scraper                import DBTScraper, ICMRScraper
 from .csir_icar_birac_scraper         import CSIRScraper, ICARScraper, BIRACScraper
-from .international_scrapers          import WellcomeScraper, EMBOScraper, GatesScraper, FogartyScraper
+from .international_scrapers          import WellcomeScraper, EMBOScraper, GatesScraper
 from .travel_grant_scrapers           import (
-    EMBOTravelScraper, ANRFITSScraper, DBTTravelScraper,
+    EMBOTravelScraper, DBTTravelScraper,
     CSIRTravelScraper, INSAScraper, FEBSScraper,
 )
 from .fellowship_scrapers             import (
@@ -59,7 +59,6 @@ ALL_SCRAPERS = [
     YoungScientistAwardScraper, # INSA, NASI, IASc awards
 
     # ── Indian Travel Grants ───────────────────────────────────────────
-    ANRFITSScraper,
     DBTTravelScraper,
     CSIRTravelScraper,
     INSAScraper,
@@ -73,7 +72,6 @@ ALL_SCRAPERS = [
     # ── International Research Grants (India-eligible) ─────────────────
     NIHScraper,                 # PA, PAR, RFA via RSS
     GatesScraper,
-    FogartyScraper,
     HFSPScraper,
     PARFoundationScraper,       # AMR — 2026 call live
     ICGEBScraper,               # CRP Apr 30 2026, SMART Mar 31 2026 — India member state

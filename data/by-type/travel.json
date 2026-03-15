@@ -1,6 +1,6 @@
 {
   "category": "travel",
-  "generated": "2026-03-15T05:44:24Z",
+  "generated": "2026-03-15T06:33:28Z",
   "total": 22,
   "open": 20,
   "grants": [
@@ -59,8 +59,8 @@
       "country": "India",
       "grant_type": "Travel Grant",
       "amount": "Up to ₹2 Lakhs",
-      "description": "Supports Indian researchers to present papers at international conferences abroad. Rolling applications throughout the year.",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "description": "Travel support to present at international conferences. Rolling.",
+      "url": "https://anrfonline.in/ANRF/its",
       "deadline": null,
       "open_date": null,
       "eligibility": [
@@ -258,52 +258,6 @@
       "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
     },
     {
-      "id": "61e26af444",
-      "title": "ANRF: International Travel Support",
-      "agency": "Various (Travel)",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Varies",
-      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: ms.its@serb.gov.in",
-      "url": "https://anrfonline.in/ANRF/its",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Researcher",
-        "Indian Applicant"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15",
-      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
-    },
-    {
-      "id": "06311fd058",
-      "title": "CSIR Travel Grant",
-      "agency": "Various (Travel)",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Varies",
-      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: tgsm@csirhrdg.res.in",
-      "url": "https://csirhrdg.res.in/Home/Index/1/InPage/51/14",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Researcher",
-        "Indian Applicant"
-      ],
-      "disciplines": [
-        "Any"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15",
-      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
-    },
-    {
       "id": "38b1f178b4",
       "title": "ACM-RFG",
       "agency": "Various (Travel)",
@@ -427,6 +381,52 @@
       "amount": "Varies",
       "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub).",
       "url": "https://github.com/AdhyaSuman/International_Travel_Grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "61e26af444",
+      "title": "ANRF: International Travel Support",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: ms.its@serb.gov.in",
+      "url": "https://anrfonline.in/ANRF/its",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "06311fd058",
+      "title": "CSIR Travel Grant",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: tgsm@csirhrdg.res.in",
+      "url": "https://csirhrdg.res.in/Home/Index/1/InPage/51/14",
       "deadline": null,
       "open_date": null,
       "eligibility": [

@@ -1,6 +1,6 @@
 {
   "category": "startup",
-  "generated": "2026-03-15T05:44:24Z",
+  "generated": "2026-03-15T06:33:28Z",
   "total": 11,
   "open": 11,
   "grants": [
@@ -106,31 +106,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "a0f60ba3e3",
-      "title": "BIRAC Biotechnology Ignition Grant (BIG)",
-      "agency": "Various (Startup)",
-      "country": "India",
-      "grant_type": "Startup Grant",
-      "amount": "Up to ₹50 Lakhs",
-      "description": "BIRAC's flagship early-stage support for biotech startups. Proof-of-concept funding for innovative biotech ideas. Open to individuals and companies. One of the most competitive biotech startup grants in India.",
-      "url": "https://birac.nic.in/cfp.php",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Startup",
-        "Individual Innovator",
-        "Faculty Entrepreneur"
-      ],
-      "disciplines": [
-        "Biotechnology",
-        "MedTech",
-        "AgriTech",
-        "Biopharma"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "c7ac737b5b",
       "title": "BIRAC-SPARSH (Social Innovation Grant)",
       "agency": "Various (Startup)",
@@ -206,29 +181,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "539504119e",
-      "title": "ANRF PM Early Career Research Grant — Startup Research",
-      "agency": "Various (Startup)",
-      "country": "India",
-      "grant_type": "Startup Grant",
-      "amount": "Up to ₹10 Lakhs",
-      "description": "UGC Start-up Research Grant for newly appointed faculty (within 3 years of joining). Available at UGC 2(f)/12B institutions. Covers basic sciences, medical sciences, engineering. For establishing independent research.",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Newly appointed Faculty (≤3 years)",
-        "UGC-recognized institution"
-      ],
-      "disciplines": [
-        "Basic Sciences",
-        "Medical Sciences",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "fda7de4c5d",
       "title": "BIRAC SPARSH (Social Innovation Grant)",
       "agency": "BIRAC",
@@ -273,6 +225,54 @@
         "Biotechnology",
         "Life Sciences",
         "MedTech"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a0f60ba3e3",
+      "title": "BIRAC Biotechnology Ignition Grant (BIG)",
+      "agency": "Various (Startup)",
+      "country": "India",
+      "grant_type": "Startup Grant",
+      "amount": "Up to ₹50 Lakhs",
+      "description": "BIRAC's flagship early-stage support for biotech startups. Proof-of-concept funding for innovative biotech ideas. Open to individuals and companies. One of the most competitive biotech startup grants in India.",
+      "url": "https://birac.nic.in/cfp.php",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Startup",
+        "Individual Innovator",
+        "Faculty Entrepreneur"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "MedTech",
+        "AgriTech",
+        "Biopharma"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "539504119e",
+      "title": "ANRF PM Early Career Research Grant — Startup Research",
+      "agency": "Various (Startup)",
+      "country": "India",
+      "grant_type": "Startup Grant",
+      "amount": "Up to ₹10 Lakhs",
+      "description": "UGC Start-up Research Grant for newly appointed faculty (within 3 years of joining). Available at UGC 2(f)/12B institutions. Covers basic sciences, medical sciences, engineering. For establishing independent research.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Newly appointed Faculty (≤3 years)",
+        "UGC-recognized institution"
+      ],
+      "disciplines": [
+        "Basic Sciences",
+        "Medical Sciences",
+        "Engineering"
       ],
       "status": "open",
       "last_updated": "2026-03-15"

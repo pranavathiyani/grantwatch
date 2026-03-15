@@ -5,7 +5,7 @@
   <link href="https://pranavathiyani.github.io/grantwatch/data/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pranavathiyani.github.io/grantwatch" rel="alternate" type="text/html"/>
   <id>https://pranavathiyani.github.io/grantwatch/data/feed.xml</id>
-  <updated>2026-03-15T05:44:24Z</updated>
+  <updated>2026-03-15T06:33:28Z</updated>
   <author><name>Grant Watch ⌛ · SASTRA University</name><email>pranavathiyani@scbt.sastra.edu</email></author>
   <rights>Data is publicly sourced. Grant Watch aggregates for SASTRA researchers.</rights>
 
@@ -774,9 +774,9 @@
   <entry>
     <id>https://pranavathiyani.github.io/grantwatch#grant-f30b8947df</id>
     <title>[Rolling / TBA] ANRF International Travel Support (ITS) — ANRF</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
+    <link href="https://anrfonline.in/ANRF/its" rel="alternate"/>
     <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Travel Grant | Amount: Up to ₹2 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Researcher, PhD Student. Supports Indian researchers to present papers at international conferences abroad. Rolling applications throughout the year.</summary>
+    <summary type="text">Agency: ANRF (India) | Type: Travel Grant | Amount: Up to ₹2 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Researcher, PhD Student. Travel support to present at international conferences. Rolling.</summary>
     <category term="Travel Grant" label="Travel Grant"/>
     <category term="India" label="India"/>
   </entry>
@@ -832,16 +832,6 @@
   </entry>
 
   <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-a0f60ba3e3</id>
-    <title>[Rolling / TBA] BIRAC Biotechnology Ignition Grant (BIG) — Various (Startup)</title>
-    <link href="https://birac.nic.in/cfp.php" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: Various (Startup) (India) | Type: Startup Grant | Amount: Up to ₹50 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, MedTech, AgriTech, Biopharma | Eligibility: Startup, Individual Innovator, Faculty Entrepreneur. BIRAC's flagship early-stage support for biotech startups. Proof-of-concept funding for innovative biotech ideas. Open to individuals and companies. One of the most competitive biotech startup grants in India.</summary>
-    <category term="Startup Grant" label="Startup Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
     <id>https://pranavathiyani.github.io/grantwatch#grant-c7ac737b5b</id>
     <title>[Rolling / TBA] BIRAC-SPARSH (Social Innovation Grant) — Various (Startup)</title>
     <link href="https://birac.nic.in/cfp.php" rel="alternate"/>
@@ -867,16 +857,6 @@
     <link href="https://www.meity.gov.in/content/tide-20" rel="alternate"/>
     <updated>2026-03-15T00:00:00Z</updated>
     <summary type="text">Agency: Various (Startup) (India) | Type: Startup Grant | Amount: Up to ₹25 Lakhs per startup | Deadline: Rolling / TBA | Status: OPEN | Disciplines: AI/ML, IoT, Cybersecurity, FinTech, IT | Eligibility: Startup (IT/AI focused), Academic Incubator Host. MeitY Technology Incubation and Development of Entrepreneurs scheme. Supports IT/AI/IoT/Cybersecurity/FinTech startups through academic incubators. Two tracks: Incubator Support (₹3.15Cr) + Startup Grants.</summary>
-    <category term="Startup Grant" label="Startup Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-539504119e</id>
-    <title>[Rolling / TBA] ANRF PM Early Career Research Grant — Startup Research — Various (Startup)</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: Various (Startup) (India) | Type: Startup Grant | Amount: Up to ₹10 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Basic Sciences, Medical Sciences, Engineering | Eligibility: Newly appointed Faculty (≤3 years), UGC-recognized institution. UGC Start-up Research Grant for newly appointed faculty (within 3 years of joining). Available at UGC 2(f)/12B institutions. Covers basic sciences, medical sciences, engineering. For establishing independent research.</summary>
     <category term="Startup Grant" label="Startup Grant"/>
     <category term="India" label="India"/>
   </entry>
@@ -1007,6 +987,26 @@
     <link href="https://www.hfsp.org/funding/hfsp-funding/fellowships" rel="alternate"/>
     <updated>2026-03-15T00:00:00Z</updated>
     <summary type="text">Agency: HFSP (International) | Type: Fellowship | Amount: Stipend + research allowance + travel | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Computational Biology, Biophysics | Eligibility: PhD Holder (≤3 years), International Applicant. 3-year postdoctoral fellowship in a different country/discipline. Strongly interdisciplinary. Annual call.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f08a545f87</id>
+    <title>[Rolling / TBA] ICGEB Arturo Falaschi Postdoctoral Fellowship — ICGEB</title>
+    <link href="https://www.icgeb.org/fellowships/arturo-falaschi-postdoctoral-fellowships/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: Competitive stipend + full benefits | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering | Eligibility: PhD Holder, International Applicant. Postdoctoral training at ICGEB labs in Trieste, New Delhi, or Cape Town. Average 2 years. Competitive package: stipend + health insurance + research costs. Top fellows eligible for Early Career Return Grants after completion.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-0b5e7bc9c8</id>
+    <title>[Rolling / TBA] ICGEB-JNU PhD Fellowship (India-specific) — ICGEB</title>
+    <link href="https://www.icgeb.org/fellowships/icgeb-jnu-phd-fellowships/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: Full PhD stipend (ICGEB norms) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering, Computational Biology | Eligibility: Indian National, Category-I NET/JRF holder, MSc Graduate. PhD positions at ICGEB New Delhi in collaboration with JNU. Requires valid CSIR/UGC/ICMR/DBT/DST-INSPIRE/BINC JRF. Annual intake. Full stipend + world-class research environment.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
   </entry>
