@@ -1,0 +1,106 @@
+name: "📋 Submit a Grant / Funding Call"
+description: "Know a grant not in Grant Watch? Submit it here. Reviewed and merged by the maintainer."
+title: "[GRANT] <Agency Name> — <Grant Title>"
+labels: ["grant-submission", "needs-review"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thanks for contributing to Grant Watch ⌛!
+        Fill in as much as you know. The maintainer will verify and add it to the portal.
+
+  - type: input
+    id: title
+    attributes:
+      label: Grant / Fellowship Title
+      placeholder: "e.g. ANRF Core Research Grant (CRG)"
+    validations:
+      required: true
+
+  - type: input
+    id: agency
+    attributes:
+      label: Funding Agency
+      placeholder: "e.g. ANRF, DBT, NIH, EMBO"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: country
+    attributes:
+      label: Origin of Funding
+      options:
+        - India
+        - International
+    validations:
+      required: true
+
+  - type: dropdown
+    id: grant_type
+    attributes:
+      label: Grant Type
+      options:
+        - Research Grant
+        - Fellowship
+        - Travel Grant
+        - Collaborative Grant
+        - Conference Grant
+        - Startup Grant
+        - Innovation Grant
+        - Award
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline (if known)
+      placeholder: "YYYY-MM-DD or 'Rolling'"
+
+  - type: input
+    id: amount
+    attributes:
+      label: Amount / Quantum
+      placeholder: "e.g. Up to ₹50 Lakhs, USD 100,000, Varies"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Brief Description (1–3 sentences)
+      placeholder: "What does this grant support? Who is it for?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: Eligibility
+      placeholder: "Faculty, PhD students, Women researchers, Indian institution only..."
+
+  - type: textarea
+    id: disciplines
+    attributes:
+      label: Relevant Disciplines
+      placeholder: "Life Sciences, Computer Science, Engineering, Any..."
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I verified this grant is open / accepting applications
+          required: true
+        - label: The URL I provided is the official source
+          required: true
+        - label: This grant is relevant to Indian researchers or faculty at SASTRA
+          required: true

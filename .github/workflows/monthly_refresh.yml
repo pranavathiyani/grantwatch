@@ -1,0 +1,67 @@
+name: Grant Watch ⌛ Bi-Weekly Refresh
+
+on:
+  schedule:
+    # 1st and 15th of every month at 06:00 UTC (11:30 IST)
+    - cron: "0 6 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Archive previous snapshot
+        run: python update_readme.py   # archives before overwriting
+
+      - name: Run scrapers
+        run: python run_scrapers.py
+
+      - name: Generate RSS feed
+        run: python generate_feed.py
+
+      - name: Generate static API endpoints
+        run: python generate_api.py
+
+      - name: Run deadline check
+        run: python daily_check.py
+
+      - name: Update README with live stats
+        run: python update_readme.py
+
+      - name: Commit all updated files
+        run: |
+          git config user.name  "Grant Watch Bot"
+          git config user.email "grantwatch-bot@sastra.edu"
+          git add data/ README.md
+          git diff --cached --quiet || git commit -m "chore: bi-weekly refresh [$(date +'%Y-%m-%d')]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Job Summary
+        run: |
+          echo "### Grant Watch ⌛ Bi-Weekly Refresh Complete" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +'%Y-%m-%d')" >> $GITHUB_STEP_SUMMARY
+          echo "#### Meta" >> $GITHUB_STEP_SUMMARY
+          cat data/meta.json >> $GITHUB_STEP_SUMMARY
+          echo "#### Urgent (closing ≤7 days)" >> $GITHUB_STEP_SUMMARY
+          python -c "
+          import json
+          with open('data/urgent.json') as f:
+              u = json.load(f)
+          for g in u['closing_7d']:
+              print(f'- [{g[\"days_left\"]}d] {g[\"title\"]} — {g[\"agency\"]}')
+          " >> $GITHUB_STEP_SUMMARY || echo "No urgent grants" >> $GITHUB_STEP_SUMMARY
+

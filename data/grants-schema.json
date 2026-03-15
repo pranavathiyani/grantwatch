@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pranavathiyani.github.io/grantwatch/data/grants-schema.json",
+  "title": "Grant Watch Grant Record",
+  "description": "Schema for a single grant/fellowship/funding opportunity in Grant Watch \u231b",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "agency",
+    "country",
+    "grant_type",
+    "amount",
+    "url",
+    "eligibility",
+    "disciplines",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable MD5-derived unique identifier"
+    },
+    "title": {
+      "type": "string",
+      "description": "Full name of the funding opportunity"
+    },
+    "agency": {
+      "type": "string",
+      "description": "Funding agency name"
+    },
+    "country": {
+      "type": "string",
+      "enum": [
+        "India",
+        "International"
+      ],
+      "description": "Origin of funding"
+    },
+    "grant_type": {
+      "type": "string",
+      "description": "Category: Research Grant, Fellowship, Travel Grant, Collaborative Grant, etc."
+    },
+    "amount": {
+      "type": "string",
+      "description": "Funding quantum (human-readable)"
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 500
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Official application/information URL"
+    },
+    "deadline": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date",
+      "description": "Application deadline (ISO 8601 YYYY-MM-DD) or null if rolling"
+    },
+    "open_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "eligibility": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Who can apply"
+    },
+    "disciplines": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Research disciplines covered"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "open",
+        "closed"
+      ],
+      "description": "Current status"
+    },
+    "source": {
+      "type": "string",
+      "description": "How this entry was obtained"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Date this record was last refreshed (YYYY-MM-DD)"
+    }
+  },
+  "additionalProperties": true
+}

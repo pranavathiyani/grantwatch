@@ -1,0 +1,527 @@
+{
+  "category": "bilateral",
+  "generated": "2026-03-15T02:18:47Z",
+  "total": 22,
+  "open": 22,
+  "grants": [
+    {
+      "id": "a852a06380",
+      "title": "IGSTC WISER — Women in Science & Engineering Research (Indo-German)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "₹39 Lakhs (Indian side) + €48,000 (German side) — 3 years",
+      "description": "Promotes collaboration between women researchers in India and Germany. Paired mode only — one Indian woman PI + one German woman PI required. Covers research staff, consumables, travel, and capacity building.",
+      "url": "https://www.igstc.org/programme/wiser",
+      "deadline": "2026-03-31",
+      "open_date": null,
+      "eligibility": [
+        "Women Faculty/Researcher (Indian PI)",
+        "German Woman Co-PI required",
+        "Min 5 years research experience"
+      ],
+      "disciplines": [
+        "STEM — any",
+        "Life Sciences",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "5e7229a8b0",
+      "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies per ICMR/DBT norms",
+      "description": "Joint call by ICMR + DBT (India) and Swiss National Science Foundation (SNSF). Indian PI funded by ICMR/DBT; Swiss PI funded by SNSF. Focus: biomedical, health, and life sciences research. Live deadline: May 5, 2026.",
+      "url": "https://www.icmr.gov.in/international-fellowships",
+      "deadline": "2026-05-05",
+      "open_date": null,
+      "eligibility": [
+        "Faculty/Researcher (Indian PI)",
+        "Swiss Co-PI (SNSF-eligible)"
+      ],
+      "disciplines": [
+        "Biomedical Research",
+        "Public Health",
+        "Life Sciences",
+        "Biotechnology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "iusstf-001",
+      "title": "IUSSTF Indo-US Joint Research Program",
+      "agency": "IUSSTF",
+      "country": "International",
+      "grant_type": "Collaborative Grant",
+      "amount": "USD 60,000 (US side) + INR equivalent (India side)",
+      "description": "Joint research grants for Indian and US researchers. Covers exchanges, workshops, and collaborative projects.",
+      "url": "https://www.iusstf.org/program/joint-research-projects",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Technology",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "b1236f7d4d",
+      "title": "MeitY-NSF Joint Research Programme",
+      "agency": "MeitY",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies (INR, MeitY side)",
+      "description": "India-US joint call. Focus: semiconductors, next-gen communications, cybersecurity, green tech, intelligent transport. Indian team funded by MeitY.",
+      "url": "https://www.meity.gov.in/content/announcement-1st-joint-call-porposal-under--research-colaboration",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Semiconductors",
+        "Communications",
+        "Cybersecurity",
+        "Green Tech"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "5533b956c0",
+      "title": "SPARC — Scheme for Promotion of Academic and Research Collaboration",
+      "agency": "SPARC (MoE)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Up to ₹1.5 Crores (2 years)",
+      "description": "Joint proposals between Indian institutions and top-100 foreign universities. Covers exchange visits, joint workshops, and seed research grants.",
+      "url": "https://sparc.iitkgp.ac.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty at IIT/NIT/IISER/Central Univ",
+        "Foreign Collaborator (QS top-100)"
+      ],
+      "disciplines": [
+        "Any — interdisciplinary encouraged"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "d25d277a2d",
+      "title": "SPARC Proposal Template",
+      "agency": "SPARC (MoE)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies",
+      "description": "SPARC call: SPARC Proposal Template",
+      "url": "https://sparc.iitkgp.ac.in/contents/proposal-submission-form-4C.docx",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Institution"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f1b71ec223",
+      "title": "Login & Submit Proposal",
+      "agency": "SPARC (MoE)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies",
+      "description": "SPARC call: Login & Submit Proposal",
+      "url": "https://sparc-bharat.net/login",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Institution"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "59ccbd1050",
+      "title": "CEFIPRA Indo-French Joint Research Project (General)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "₹40–60 Lakhs (Indian side, 3 years)",
+      "description": "CEFIPRA/IFCPAR bilateral programme. Indian PI funded by DST; French PI by ANR. Covers joint research, researcher exchanges, workshops. All STEM disciplines. Proposals submitted in parallel to CEFIPRA (India) and ANR (France).",
+      "url": "https://cefipra.org/programmes/joint-research-projects/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "French Co-PI required"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology",
+        "Any STEM"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "879f7089c7",
+      "title": "CEFIPRA Indo-French ICT Research Programme",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "₹40 Lakhs (Indian side) + French equivalent",
+      "description": "ICT-focused bilateral call. Indian PI submits via CEFIPRA online + hard copy to CEFIPRA New Delhi; French PI submits to Inria separately. Focus: AI, networks, security, systems.",
+      "url": "https://cefipra.org/programmes/ict/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "French Co-PI (Inria-affiliated)"
+      ],
+      "disciplines": [
+        "AI/ML",
+        "ICT",
+        "Computer Science",
+        "Networks",
+        "Cybersecurity"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "d890bd7125",
+      "title": "IGSTC 2+2 Research Projects (Indo-German)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "₹1.5 Crores (Indian side, 3 years)",
+      "description": "Indo-German Science & Technology Centre flagship programme. 2 Indian + 2 German partners (academia + industry on each side). Applied research, technology transfer focus.",
+      "url": "https://www.igstc.org/programme/2-2-projects",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty + Indian Industry Partner",
+        "German Co-PI + German Industry"
+      ],
+      "disciplines": [
+        "Engineering",
+        "Technology",
+        "Life Sciences",
+        "Clean Energy",
+        "IT"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "22783e4c2d",
+      "title": "IGSTC SING — Seed Networking Grant (Indo-German)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Seed / Networking Grant",
+      "amount": "Small seed grant (INR equivalent)",
+      "description": "Seed funding for initiating bilateral India-Germany research connections. Rolling call. Covers preliminary experiments, consumables, short visits, conference registration. Low-barrier entry point for Indo-German collaboration.",
+      "url": "https://www.igstc.org/programme/sing",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Any STEM"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "11b645df4f",
+      "title": "DST-DFG Indo-German Joint Research (Science & Engineering)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies (DST norms for Indian side)",
+      "description": "Joint research projects between Indian (DST/ANRF-funded) and German (DFG-funded) PIs. Proposals submitted in parallel — Indian PI to DST, German PI to DFG via elan system. Both agencies must recommend funding.",
+      "url": "https://dst.gov.in/international-cooperation/bilateral/germany",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "German Co-PI (DFG-eligible)"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "0115f3f0c9",
+      "title": "DST-JSPS India-Japan Cooperative Science Programme (IJCSP)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Mobility grant — travel, per diem, workshop costs",
+      "description": "Joint research projects and workshops/seminars between Indian (DST) and Japanese (JSPS) researchers. Parallel submission required. Focus on mobility — exchange visits, seminars. Results notified Apr/May following year.",
+      "url": "https://dst.gov.in/international-cooperation/bilateral/japan",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "Japanese Co-PI (JSPS-eligible)"
+      ],
+      "disciplines": [
+        "Physical Sciences",
+        "Chemical Sciences",
+        "Life Sciences",
+        "Mathematics & Computational Science",
+        "Materials & Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "26d3366ab9",
+      "title": "Newton-Bhabha Fund — Indo-UK Joint Research",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies by call stream",
+      "description": "UK-India bilateral fund managed by British Council and UKRI. Supports joint research, PhD placements, researcher exchanges, and workshops. Indian PI funded by DST/DBT/other Indian agency; UK PI by UKRI.",
+      "url": "https://www.britishcouncil.in/programmes/higher-education/newton-bhabha",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "UK Co-PI required"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Health",
+        "Sustainable Development"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "e6f515d417",
+      "title": "UKRI-DST India Joint Initiative (via GCRF/IUK)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies by call",
+      "description": "Various UKRI calls explicitly open to India-UK partnerships. Indian partner typically funded by DST/DBT; UK partner by UKRI. Check UKRI opportunity finder filtered by 'India' for current calls.",
+      "url": "https://www.ukri.org/opportunity/?filter_opportunity_location=india",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "UK Co-PI required"
+      ],
+      "disciplines": [
+        "Any — check specific call"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "d951061608",
+      "title": "IUSSTF Joint Research Projects (Indo-US)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "USD 60,000 (US side) + INR equivalent",
+      "description": "Indo-US Science & Technology Forum. Indian PI funded by DST; US PI funded by NSF/NIH/DOE depending on theme. Also includes Virtual Network Centres and Joint Workshops.",
+      "url": "https://www.iusstf.org/program/joint-research-projects",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "US Co-PI required"
+      ],
+      "disciplines": [
+        "Science",
+        "Technology",
+        "Engineering",
+        "Any STEM"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "b989def769",
+      "title": "MeitY-NSF Joint Research Programme",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "INR (MeitY norms) + USD (NSF norms)",
+      "description": "India-US bilateral for semiconductors, next-gen communications, cybersecurity, green tech, intelligent transport. Indian PI applies to MeitY; US PI to NSF. Single joint proposal, reviewed by NSF as coordinating agency.",
+      "url": "https://www.meity.gov.in/content/announcement-1st-joint-call-porposal-under--research-colaboration",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "US Co-PI (NSF-eligible)"
+      ],
+      "disciplines": [
+        "Semiconductors",
+        "AI/ML",
+        "Cybersecurity",
+        "Green Tech",
+        "IT"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "1c97a53494",
+      "title": "DST-MOST Indo-Israel Joint Research (S&T)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies (DST norms)",
+      "description": "Bilateral programme between DST (India) and Ministry of Science & Technology (Israel). Joint research in all S&T areas. Proposals submitted in parallel. Annual calls typically open Oct-Dec.",
+      "url": "https://dst.gov.in/international-cooperation/bilateral/israel",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "Israeli Co-PI required"
+      ],
+      "disciplines": [
+        "Science",
+        "Technology",
+        "Agriculture",
+        "Water",
+        "Health"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "56b7f20b66",
+      "title": "DST-NRF Indo-Korea Joint Research Programme",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies (DST norms)",
+      "description": "Joint research between Indian (DST) and Korean (NRF) researchers. Covers joint R&D projects and bilateral visits. Annual call.",
+      "url": "https://dst.gov.in/international-cooperation/bilateral/south-korea",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "Korean Co-PI required"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "IT",
+        "Materials",
+        "Biotech"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "00e69da69f",
+      "title": "DST-CSIRO India-Australia Strategic Research Fund",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies (DST norms)",
+      "description": "Joint bilateral fund between DST and CSIRO (Australia). Focus on areas of mutual interest: agriculture, water, clean energy, health. Indian PI funded by DST, Australian by CSIRO.",
+      "url": "https://dst.gov.in/international-cooperation/bilateral/australia",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "Australian Co-PI required"
+      ],
+      "disciplines": [
+        "Agriculture",
+        "Water",
+        "Clean Energy",
+        "Health",
+        "Environment"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "728965bf7c",
+      "title": "Royal Society International Exchanges — Cost Share",
+      "agency": "Royal Society",
+      "country": "International",
+      "grant_type": "Collaborative Grant",
+      "amount": "Up to £12,000",
+      "description": "Seed funding for new collaborations between UK and international researchers. India participates in the Cost Share scheme (funded by both RS and Indian agency). Covers short visits and workshops up to £12,000. Rolling deadline.",
+      "url": "https://royalsociety.org/grants-schemes-awards/grants/international-exchanges/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "with UK collaborator"
+      ],
+      "disciplines": [
+        "Any — STEM focus"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "e53d8bfd9c",
+      "title": "DST-DAAD Personnel Exchange Programme (PPP) — Indo-German",
+      "agency": "DAAD",
+      "country": "International",
+      "grant_type": "Collaborative Grant",
+      "amount": "Travel + per diem (DST norms for Indian side)",
+      "description": "Bilateral MoU between DAAD and DST. Supports researcher exchanges for joint research projects. Indian PI applies to DST; German PI to DAAD. Covers travel + per diem for both teams. Well-established channel.",
+      "url": "https://www.daad.in/en/find-funding/scholarship-database/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Indian PI)",
+        "German Co-PI required"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology",
+        "Any STEM"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    }
+  ]
+}

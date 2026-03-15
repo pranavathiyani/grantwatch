@@ -1,0 +1,4044 @@
+{
+  "category": "research",
+  "generated": "2026-03-15T02:18:47Z",
+  "total": 172,
+  "open": 170,
+  "grants": [
+    {
+      "id": "5688001f61",
+      "title": "HFSP Research Grant — Program Grant",
+      "agency": "HFSP",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Up to USD 450,000/year (3 years)",
+      "description": "High-risk, high-reward basic life science research through international teams. India-based PIs can lead or join. One of the most prestigious international grants for life sciences.",
+      "url": "https://www.hfsp.org/funding/hfsp-funding/research-grants",
+      "deadline": "2026-03-17",
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Independent Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Biophysics",
+        "Neuroscience",
+        "Computational Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f8e8cb30d9",
+      "title": "ICGEB CRP Research Grant 2026",
+      "agency": "ICGEB",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies (project-based, USD)",
+      "description": "ICGEB Collaborative Research Programme (CRP). Supports original research in basic science, human healthcare, industrial/agricultural biotechnology and bioenergy. India is a member state — up to 3 CRP + 2 Early Career Return grants per call. International collaboration mandatory.",
+      "url": "https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/",
+      "deadline": "2026-04-30",
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher at ICGEB Member State institution"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "Life Sciences",
+        "Biomedical",
+        "Agricultural Biotech",
+        "Bioenergy",
+        "AMR"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "d90b01f9d6",
+      "title": "ICGEB Early Career Return Grant (CRP)",
+      "agency": "ICGEB",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Competitive (USD)",
+      "description": "Part of ICGEB CRP call. For young PIs returning to ICGEB Member States after postdoctoral training abroad. Supports setting up independent labs. Up to 2 awards per member country per call.",
+      "url": "https://www.icgeb.org/grants/",
+      "deadline": "2026-04-30",
+      "open_date": null,
+      "eligibility": [
+        "Early Career PI (returning)",
+        "ICGEB Member State"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Biotechnology",
+        "Biomedical"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "8b9073c526",
+      "title": "ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "No upper limit — project-based",
+      "description": "ARG subsumes the Core Research Grant (CRG). Supports frontier research in Science & Engineering. Pre-proposal Apr 1–May 8 2026; Full proposals Sep 15–Oct 15 2026. No upper budget limit.",
+      "url": "https://anrfonline.in/ANRF/arg_anrf",
+      "deadline": "2026-05-08",
+      "open_date": "2026-04-01",
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "982fa7acce",
+      "title": "ANRF MATRICS 2026 (Mathematics Research Grant)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹10 Lakhs (3 years)",
+      "description": "Mathematical Research Impact Centric Support. For active researchers in mathematics. Apr 1 – May 8 2026.",
+      "url": "https://anrfonline.in/ANRF/arg_anrf",
+      "deadline": "2026-05-08",
+      "open_date": "2026-04-01",
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Mathematics",
+        "Statistics",
+        "Theoretical Sciences"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6cf0b5f413",
+      "title": "Request for Information (RFI): Gathering feedback for the National Eye Institute 2026-2031 Strategic Plan.",
+      "agency": "NIH",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies by mechanism",
+      "description": "Notice NOT-EY-26-002 from the NIH Guide for Grants and Contracts",
+      "url": "http://grants.nih.gov/grants/guide/notice-files/NOT-EY-26-002.html",
+      "deadline": "2026-06-09",
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Biomedical",
+        "Life Sciences",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "db9f6f7175",
+      "title": "ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "TBA",
+      "description": "New ANRF scheme 2026. Promotes research inclusion. Oct 1–Nov 3 2026.",
+      "url": "https://anrfonline.in/",
+      "deadline": "2026-11-03",
+      "open_date": "2026-10-01",
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "10c7db5722",
+      "title": "ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "₹60 Lakhs + overheads (3 years)",
+      "description": "One-time career grant for early-career faculty. Subsumes erstwhile SRG. ₹60L + overheads for 3 years. Max 700 grants/year.",
+      "url": "https://anrfonline.in/ANRF/ecrg_anrf",
+      "deadline": "2026-12-02",
+      "open_date": "2026-11-02",
+      "eligibility": [
+        "Early Career Faculty",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "anrf-core001",
+      "title": "ANRF Core Research Grant (CRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹50 Lakhs (3 years)",
+      "description": "Supports research proposals in basic and applied sciences from faculty at Indian academic institutions.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology",
+        "Humanities"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "icmr-adhoc001",
+      "title": "ICMR Ad-hoc Research Projects",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies by project scope",
+      "description": "Extramural funding for biomedical and health research. Open to medical colleges, universities, research institutions.",
+      "url": "https://icmr.gov.in/call-for-applications",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Epidemiology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "gates-gc001",
+      "title": "Grand Challenges Explorations — Open Call",
+      "agency": "Gates Foundation",
+      "country": "International",
+      "grant_type": "Grand Challenge",
+      "amount": "USD 100,000 (Phase 1)",
+      "description": "Supports bold ideas in global health and development. India-based researchers strongly encouraged.",
+      "url": "https://gcgh.grandchallenges.org/challenges",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Faculty",
+        "NGO",
+        "Institution"
+      ],
+      "disciplines": [
+        "Global Health",
+        "Agriculture",
+        "Vaccines",
+        "Nutrition"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "par-amr2026",
+      "title": "PAR Foundation 2026 Grant — Beyond Antibiotics",
+      "agency": "PAR Foundation",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies (project-based)",
+      "description": "2026 theme: 'Beyond Antibiotics: Preventive Strategies That Lower the Need for Antibiotic Use.' Supports research reducing infection risk and improving antimicrobial stewardship. Global applicants welcome including India.",
+      "url": "https://opencalls.parfoundation.org/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Faculty",
+        "Institution",
+        "NGO"
+      ],
+      "disciplines": [
+        "AMR",
+        "Infectious Disease",
+        "Public Health",
+        "Microbiology",
+        "One Health"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "google-india-ra001",
+      "title": "Google India Research Award",
+      "agency": "Google Research",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "USD 20,000 (unrestricted)",
+      "description": "Supports faculty at Indian universities engaged in world-class research relevant to Google. Sub-track for early-career faculty (within 5 years). Annual call.",
+      "url": "https://research.google/programs-and-events/google-india-research-awards/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Assistant Professor (Early Career)"
+      ],
+      "disciplines": [
+        "AI/ML",
+        "Computer Science",
+        "Natural Language Processing",
+        "Systems"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "ncbs-rdo-ref001",
+      "title": "NCBS RDO Funding Database (Reference)",
+      "agency": "NCBS",
+      "country": "India",
+      "grant_type": "Reference Resource",
+      "amount": "See portal",
+      "description": "NCBS Research Development Office maintains a comprehensive, manually-curated database of Indian and international funding opportunities. Excellent supplementary reference.",
+      "url": "https://www.ncbs.res.in/rdo/sponsor-grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Postdoc"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "3fff93349b",
+      "title": "DST-FIST (Fund for Improvement of S&T Infrastructure)",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Infrastructure Grant",
+      "amount": "Up to ₹2 Crores",
+      "description": "Infrastructure grant for upgrading S&T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr).",
+      "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/fist",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "University",
+        "College",
+        "Department"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "0165247ee8",
+      "title": "DST-PURSE (Promotion of University Research and Scientific Excellence)",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Infrastructure Grant",
+      "amount": "Up to ₹5 Crores",
+      "description": "Grants to universities with good research output to strengthen research infrastructure and programs.",
+      "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/purse",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "University with strong research output"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "eac24038d3",
+      "title": "DST Science and Heritage Research Initiative (SHRI)",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Research integrating modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.",
+      "url": "https://dst.gov.in/call-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Heritage Studies",
+        "Traditional Knowledge"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "34cf9949eb",
+      "title": "Schemes/ Programmes",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Schemes/ Programmes RDI Fund S&T Capacity Building Programmes Institutional Capacity Building Programmes Research & Development Programmes Innovation and Technology Development Programmes Science for Society Programmes National Missions International Cooperation & Mega Science S&T Data, Policy and T",
+      "url": "https://dst.gov.in/schemes-programmes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a463ffaa7d",
+      "title": "S&T Capacity Building Programmes",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "S&T Capacity Building Programmes",
+      "url": "https://dst.gov.in/human-capacity-building-programmes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "050a1249f0",
+      "title": "Institutional Capacity Building Programmes",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Institutional Capacity Building Programmes",
+      "url": "https://dst.gov.in/institutional-capacity-building-programmes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "865902f806",
+      "title": "Research & Development Programmes",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Research & Development Programmes",
+      "url": "https://dst.gov.in/research-development-programmes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f1c5ec5e61",
+      "title": "Innovation and Technology Development Programmes",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Innovation and Technology Development Programmes",
+      "url": "https://dst.gov.in/innovation-and-technology-development-programmes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "50daaac1ae",
+      "title": "Science for Society Programmes",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Science for Society Programmes",
+      "url": "https://dst.gov.in/science-society-programmes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "1b3e8a65bb",
+      "title": "Science, Technology & Innovation Policy 2013",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Science, Technology & Innovation Policy 2013",
+      "url": "https://dst.gov.in/st-system-india/science-and-technology-policy-2013",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "5d6d9e96dc",
+      "title": "Awards/Prize/Result",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Awards/Prize/Result",
+      "url": "https://dst.gov.in/whatsnew/prize-awards",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "4c45222709",
+      "title": "Call For Proposals",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Call For Proposals",
+      "url": "https://dst.gov.in/call-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ea5f7f6a82",
+      "title": "International Cooperation Calls/Announcements/Results",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "International Cooperation Calls/Announcements/Results",
+      "url": "https://aistic.gov.in/ASEAN/ICDST",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "61fba2fa2e",
+      "title": "India-France call for proposals in Applied Mathematics and Artificial Intelligence by DST and ANR",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "India-France call for proposals in Applied Mathematics and Artificial Intelligence by DST and ANR",
+      "url": "https://dst.gov.in/callforproposals/india-france-call-proposals-applied-mathematics-and-artificial-intelligence-dst-and",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "83d95c6c82",
+      "title": "India - Netherlands Hydrogen Fellowship Programme",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "India - Netherlands Hydrogen Fellowship Programme",
+      "url": "https://dst.gov.in/callforproposals/india-netherlands-hydrogen-fellowship-programme",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6620065bf4",
+      "title": "Call for proposal of India Science and Research Fellowship (ISRF) 2025-26",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Call for proposal of India Science and Research Fellowship (ISRF) 2025-26",
+      "url": "https://dst.gov.in/callforproposals/call-proposal-india-science-and-research-fellowship-isrf-2025-26",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "903a8f1e3b",
+      "title": "Call for Proposals (CFP) under Scheduled Cast Sub Plan (SCSP)  Mission सह-SANKALP",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Call for Proposals (CFP) under Scheduled Cast Sub Plan (SCSP)  Mission सह-SANKALP",
+      "url": "https://dst.gov.in/callforproposals/call-proposals-cfp-under-scheduled-cast-sub-plan-scsp-mission-%E0%A4%B8%E0%A4%B9-sankalp",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "75226675b5",
+      "title": "Archive Call For Proposals",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Archive Call For Proposals",
+      "url": "https://dst.gov.inarchive-call-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "35d74a8c7a",
+      "title": "UGC Major Research Project (MRP)",
+      "agency": "UGC",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹12 Lakhs (Sciences)",
+      "description": "Major Research Projects in Sciences (up to ₹12L) and Humanities/Social Sciences (up to ₹10L). For permanent faculty at UGC-recognized institutions.",
+      "url": "https://frg.ugc.ac.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (Permanent)",
+        "UGC 2(f)/12B Institution"
+      ],
+      "disciplines": [
+        "Science",
+        "Humanities",
+        "Social Sciences",
+        "Engineering",
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "3862e7c6b3",
+      "title": "Web portal for\r\n                                            Fellowship/Scholarship Legacy Cases",
+      "agency": "UGC",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "UGC scheme: Web portal for\r\n                                            Fellowship/Scholarship Legacy Cases",
+      "url": "https://scholarship.canarabank.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "UGC Institution"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ef0e2d60d8",
+      "title": "MeitY AI Innovation Programme",
+      "agency": "MeitY",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹10 Crores",
+      "description": "Applied Research Track: ₹2–5Cr for AI projects at academic institutions (70% funded). Focus: healthcare, agriculture, education, smart cities.",
+      "url": "https://www.meity.gov.in/content/financial-grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Academic Institution",
+        "Startup",
+        "Company (Indian)"
+      ],
+      "disciplines": [
+        "AI/ML",
+        "Computer Science",
+        "Data Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6bb2566a30",
+      "title": "MeitY Cyber Security Research Grant",
+      "agency": "MeitY",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Research proposals in cybersecurity. Submission by email with subject 'Proposal for Research in Cyber Security'.",
+      "url": "https://www.meity.gov.in/content/financial-grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Cybersecurity",
+        "Computer Science",
+        "Networks"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "92c2add159",
+      "title": "IMPRINT-2 Research Grant (IIT-led)",
+      "agency": "IMPRINT (MoE)",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹3 Crores",
+      "description": "Impacting Research Innovation and Technology. Funds India-centric problems across 10 technology domains. IIT/NIT-led, but any Indian institution can collaborate.",
+      "url": "https://imprint.res.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "IIT/NIT/IISER/University"
+      ],
+      "disciplines": [
+        "Healthcare",
+        "Energy",
+        "Sustainable Habitat",
+        "Water",
+        "Manufacturing",
+        "IT & Communication",
+        "Defence",
+        "Transport",
+        "Aerospace",
+        "Advanced Materials"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "5e621443c4",
+      "title": "SERB-POWER Research Grant (Women Researchers)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹30 Lakhs (Level II — SASTRA eligible) / ₹60L (Level I)",
+      "description": "Promotes women researchers in science and engineering. Two levels: Level I for IITs/IISc/NITs/Central Univ (up to ₹60L, 3yr); Level II for State/Private institutions like SASTRA (up to ₹30L, 3yr). Regular academic/research position required. All S&E frontier areas.",
+      "url": "https://www.indiascienceandtechnology.gov.in/funding-opportunities/research-grants/individual/serb-power-research-grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Women Faculty/Researcher (permanent position)",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology",
+        "Any frontier area"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7f1ffe7ccc",
+      "title": "ANRF Start-up Research Grant (SRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹35 Lakhs (3 years)",
+      "description": "For faculty who obtained PhD ≤5 years ago and are in first faculty position. Supports independent research setup. Rolling applications throughout year. Cannot simultaneously hold NPDF or TARE.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Assistant Professor (PhD ≤5 years)",
+        "First faculty position"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "55e7ab887f",
+      "title": "ANRF Prime Minister Early Career Research Grant (PM-ECRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies (project-based)",
+      "description": "New ANRF scheme replacing SERB-ECRA. Supports early career researchers at Indian institutions. INSPIRE Faculty, Ramanujan, and Ramalingaswami Fellows are explicitly eligible. Budget up to ₹1L/year each for travel and contingency.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Early Career Faculty",
+        "INSPIRE/Ramanujan/Ramalingaswami Fellows"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "e3a62860c6",
+      "title": "DBT-BUILDER Programme",
+      "agency": "DBT",
+      "country": "India",
+      "grant_type": "Infrastructure Grant",
+      "amount": "Up to ₹4 Crores",
+      "description": "Biotechnology/Life Sciences University-Based Interdisciplinary Life Sciences Department and Research (BUILDER). Infrastructure and research support for universities to build interdisciplinary life sciences programs.",
+      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/emerging-technologies/builder",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "University Department",
+        "Institution"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "Life Sciences",
+        "Interdisciplinary"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "3c1e43a4c4",
+      "title": "ICMR ANVESHAN — Small Research Grant (ICMR SMALL)",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹30 Lakhs",
+      "description": "ICMR's new small grant scheme (rebranded). Investigator-initiated research proposals in biomedical and health sciences. Faster turnaround than ad-hoc grants. Follow-on ANVESHAN available for ongoing work.",
+      "url": "https://icmr.gov.in/call-for-applications",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Biomedical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "2cda524f9e",
+      "title": "ICMR NISCHA — Intermediate Research Grant",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "₹30–70 Lakhs",
+      "description": "ICMR intermediate-scale grant for established researchers. Mid-tier between ANVESHAN (small) and full ad-hoc grants. For health research with clear translational potential.",
+      "url": "https://icmr.gov.in/call-for-applications",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Senior Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Biomedical Research",
+        "Public Health",
+        "Translational Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "4a15141679",
+      "title": "DST Young Scientist Award (SERC Fast Track / SRG equivalent)",
+      "agency": "Various",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹35 Lakhs",
+      "description": "ANRF/SERB early career support for young scientists. Fast-track funding mechanism for scientists within 5 years of PhD. Superseded partially by SRG; check ANRF portal for current active scheme name.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty (PhD ≤5 years)"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ff7ee534d9",
+      "title": "PAR Foundation 2026 Grant — Beyond Antibiotics",
+      "agency": "PAR Foundation",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies (project-based)",
+      "description": "2026 theme: 'Beyond Antibiotics: Preventive Strategies That Lower the Need for Antibiotic Use.' Supports AMR prevention research and educational initiatives. Global applicants including India eligible.",
+      "url": "https://opencalls.parfoundation.org/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Faculty",
+        "Institution",
+        "NGO"
+      ],
+      "disciplines": [
+        "AMR",
+        "Infectious Disease",
+        "Public Health",
+        "Microbiology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f5f5f45312",
+      "title": "AICTE Research Promotion Scheme (RPS)",
+      "agency": "AICTE",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹30 Lakhs (Development Research track)",
+      "description": "Promotes research culture in AICTE-approved institutions. Two tracks: Basic/Applied Research (₹20L, 2yr) and Development Research (₹30L, 3yr). Less competitive than DST/DBT — underutilised by faculty at deemed universities. SASTRA is directly eligible. Submit via AICTE web portal.",
+      "url": "https://www.aicte-india.org/bureaus/research/research-promotion-scheme",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty at AICTE-approved Institution",
+        "Regular position"
+      ],
+      "disciplines": [
+        "Engineering",
+        "Technology",
+        "Applied Sciences",
+        "Computer Science",
+        "Biotechnology",
+        "Any AICTE discipline"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "2eb16ffa0d",
+      "title": "AICTE Margdarshan — Faculty Development Grant",
+      "agency": "AICTE",
+      "country": "India",
+      "grant_type": "Faculty Development Grant",
+      "amount": "Varies by programme",
+      "description": "AICTE faculty development and capacity building grants. Covers short-term courses, workshops, and training programmes at premier institutions. Also includes Quality Improvement Programme (QIP) support.",
+      "url": "https://www.aicte-india.org",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty at AICTE-approved Institution"
+      ],
+      "disciplines": [
+        "Engineering",
+        "Technology",
+        "Management"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "16a1988c71",
+      "title": "AICTE-INAE (Indian National Academy of Engineering) Research Grant",
+      "agency": "AICTE",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Joint AICTE-INAE scheme for frontier engineering research. Includes Young Engineer Award track with research support. For engineering disciplines at AICTE institutions.",
+      "url": "https://www.aicte-india.org",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Young Engineer (under 32)",
+        "AICTE Institution"
+      ],
+      "disciplines": [
+        "Engineering",
+        "Technology",
+        "Computer Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "299785b483",
+      "title": "Novo Nordisk Foundation Challenge Programme — Open Call",
+      "agency": "Novo Nordisk Foundation",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies by call (up to DKK millions)",
+      "description": "NNF Challenge Programmes tackle specific global health/life science problems. Some calls explicitly open to international (including Indian) collaborators. Focus areas: infectious disease, antimicrobial resistance, metabolic disease, data science for health. Check current open calls.",
+      "url": "https://novonordiskfonden.dk/en/grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "International Applicant"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "AMR",
+        "Data Science",
+        "Metabolic Disease",
+        "Infectious Disease",
+        "Bioinformatics"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "b6d483505f",
+      "title": "NNF Data Science Research Infrastructure Grant",
+      "agency": "Novo Nordisk Foundation",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Supports computational biology, bioinformatics, and data science research infrastructure. Increasingly open to global collaborations. India-based researchers with Danish collaborators are eligible.",
+      "url": "https://novonordiskfonden.dk/en/grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Faculty",
+        "with Danish collaborator"
+      ],
+      "disciplines": [
+        "Data Science",
+        "Computational Biology",
+        "Bioinformatics",
+        "AI/ML"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "89c8dc9fab",
+      "title": "Advanced Research Grant (ARG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Advanced Research Grant (ARG)",
+      "url": "https://anrfonline.in/ANRF/arg_anrf?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "99a440d996",
+      "title": "Inclusivity Research Grant (IRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Inclusivity Research Grant (IRG)",
+      "url": "https://anrfonline.in/ANRF/inrg_anrf?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6e4cbf16f0",
+      "title": "J. C. Bose Grant (JBG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: J. C. Bose Grant (JBG)",
+      "url": "https://anrfonline.in/ANRF/jcbose_anrf",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a951919afb",
+      "title": "National Post Doctoral Fellowship (N-PDF)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: National Post Doctoral Fellowship (N-PDF)",
+      "url": "https://anrfonline.in/ANRF/npdf?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "77e0eacd12",
+      "title": "Prime Minister Early Career Research Grant (PM ECRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Prime Minister Early Career Research Grant (PM ECRG)",
+      "url": "https://anrfonline.in/ANRF/ecrg_anrf?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a606666ba5",
+      "title": "Ramanujan Fellowship",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Ramanujan Fellowship",
+      "url": "https://anrfonline.in/ANRF/Ramanujan_fellowship?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "50ef17088d",
+      "title": "Erstwhile SERB Schemes",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Erstwhile SERB Schemes",
+      "url": "https://anrfonline.in#",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "9677cd7189",
+      "title": "Core Research Grant",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Core Research Grant",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=OTD_EMR.pdf&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "aa83d5f78e",
+      "title": "Start-up Research Grant (SRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Start-up Research Grant (SRG)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=OTD_SRG.pdf&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "019cbae8ed",
+      "title": "Short-term special call on COVID-19",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Short-term special call on COVID-19",
+      "url": "https://anrfonline.in/ANRF/Covid_19",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f5b451712e",
+      "title": "SERB-POWER Grant",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: SERB-POWER Grant",
+      "url": "https://anrfonline.in/ANRF/serbPowerInstructions",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "8a85a76476",
+      "title": "J.C. Bose Fellowship",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: J.C. Bose Fellowship",
+      "url": "https://anrfonline.in/ANRF/jcbose_fellowship?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "adc3d917d7",
+      "title": "Overseas Visiting Doctoral Fellowship (OVDF)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Overseas Visiting Doctoral Fellowship (OVDF)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=OTD_ODF.docx&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ae6e8dd74d",
+      "title": "SERB Women Excellence Research Grant",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: SERB Women Excellence Research Grant",
+      "url": "https://anrfonline.in/ANRF/Women_excellence?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a8ffd91ad3",
+      "title": "SERB-POWER Fellowship",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: SERB-POWER Fellowship",
+      "url": "https://anrfonline.in/ANRF/serbPowerInstructions?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7d1b4e3ccf",
+      "title": "Core Research Grant(CRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Core Research Grant(CRG)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=Guidelines_for_SSR_EMR.pdf&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "0f2b2cad48",
+      "title": "National Post Doctoral Fellowship(N-PDF)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: National Post Doctoral Fellowship(N-PDF)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=END_PDF.pdf&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7dc8ec5bb4",
+      "title": "CRG Short-term special call on COVID-19",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: CRG Short-term special call on COVID-19",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=OTD_CVD.docx&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6fca2c94b3",
+      "title": "MATRICS Short-term special call on COVID-19",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: MATRICS Short-term special call on COVID-19",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=OTD_MSC.doc&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "29d305b35f",
+      "title": "Start-Up Research Grant (Young Scientists)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Start-Up Research Grant (Young Scientists)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=END_YSS.pdf&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "fe7f5e947b",
+      "title": "J\r\n                                                        C Bose National Fellowship",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: J\r\n                                                        C Bose National Fellowship",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=END_JCB.doc&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "93f2204f02",
+      "title": "For\r\n                                                        SIRE Scheme",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: For\r\n                                                        SIRE Scheme",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=SIRE_PCR.doc&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ade1be59a4",
+      "title": "For SPM Scheme",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: For SPM Scheme",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=SPM_PCR.doc&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "c0800d17c2",
+      "title": "For\r\n                                                        Other\r\n                                                        Schemes",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: For\r\n                                                        Other\r\n                                                        Schemes",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=PCR.pdf&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "d1836ae94d",
+      "title": "For Other Schemes",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: For Other Schemes",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=PSE.pdf&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "8efea56c33",
+      "title": "Endorsement certificate (only fellowship)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Endorsement certificate (only fellowship)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=ENF_DIA.doc&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a5bcc45724",
+      "title": "Certificate from PI (only fellowship)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Certificate from PI (only fellowship)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=CIF_DIA.doc&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "52095572ac",
+      "title": "Endorsement certificate (Project + Fellowship)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Endorsement certificate (Project + Fellowship)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=ENR_DIA.doc&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "801931a406",
+      "title": "Certificate from PI (Project + Fellowship)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: Certificate from PI (Project + Fellowship)",
+      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=CIR_DIA.doc&PathKey=DOCUMENT_TEMPLATE",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "991adf2a2a",
+      "title": "14J. C. Bose Grant (JBG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANRF open call: 14J. C. Bose Grant (JBG)",
+      "url": "https://anrfonline.in/ANRF/jcbose_anrf?HomePage=New",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "2ba73488d5",
+      "title": "भारतीय कृषि अनुसंधान परिषदindian council of agricultural researchMinistry of Agriculture and Farmers Welfare",
+      "agency": "ICAR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "भारतीय कृषि अनुसंधान परिषद indian council of agricultural research Ministry of Agriculture and Farmers Welfare",
+      "url": "https://icar.gov.in/hi",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Agriculture",
+        "Animal Science",
+        "Food Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6f8ce320b2",
+      "title": "Filling up the post of Advisor to the Executive Director (India), International Monetary Fund (IMF)",
+      "agency": "ICAR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Filling up the post of Advisor to the Executive Director (India), International Monetary Fund (IMF)",
+      "url": "https://icar.gov.in/hi/filling-post-advisor-executive-director-india-international-monetary-fund-imf",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Agriculture",
+        "Animal Science",
+        "Food Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "825f444e39",
+      "title": "ICAR–IIMR, Hyderabad Signs Tripartite MoU with VSI Pune and IFGE for Research Collaboration and Promotion of Millets for Bioenergy",
+      "agency": "ICAR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ICAR–IIMR, Hyderabad Signs Tripartite MoU with VSI Pune and IFGE for Research Collaboration and Promotion of Millets for Bioenergy",
+      "url": "https://icar.gov.in/hi/icar-iimr-hyderabad-signs-tripartite-mou-vsi-pune-and-ifge-research-collaboration-and-promotion",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Agriculture",
+        "Animal Science",
+        "Food Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "cec93bc066",
+      "title": "ICAR–SBI, Coimbatore Launches Tribal Training Campaign and DAPSTC Project in Tiruppur District",
+      "agency": "ICAR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ICAR–SBI, Coimbatore Launches Tribal Training Campaign and DAPSTC Project in Tiruppur District",
+      "url": "https://icar.gov.in/hi/icar-sbi-coimbatore-launches-tribal-training-campaign-and-dapstc-project-tiruppur-district",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Agriculture",
+        "Animal Science",
+        "Food Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "755b13560f",
+      "title": "Show — Research Institutes",
+      "agency": "ICAR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Show — Research Institutes Hide — Research Institutes समतुल्य विश्वविद्यालय संस्थान कृषि प्रौद्योगिकी अनुप्रयोग अनुसंधान संस्थान निदेशालय/परियोजना निदेशालय राष्ट्रीय ब्यूरो राष्ट्रीय अनुसंधान केंद्र",
+      "url": "https://icar.gov.in#show-block-icar-researchinstitutes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Agriculture",
+        "Animal Science",
+        "Food Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "35ec82e4ae",
+      "title": "Hide — Research Institutes",
+      "agency": "ICAR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Show — Research Institutes Hide — Research Institutes समतुल्य विश्वविद्यालय संस्थान कृषि प्रौद्योगिकी अनुप्रयोग अनुसंधान संस्थान निदेशालय/परियोजना निदेशालय राष्ट्रीय ब्यूरो राष्ट्रीय अनुसंधान केंद्र",
+      "url": "https://icar.gov.in#hide-block-icar-researchinstitutes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Agriculture",
+        "Animal Science",
+        "Food Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f2506fa14a",
+      "title": "About ICMR",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "About ICMR Vision, Mission & Mandate Organogram History INSTITUTES Ministers ICMR Leadership Scientists Former Director Generals Internal Committees Achievements ICMR Collaborating Centre of Excellence (ICMR-CCoE) Contact Directory",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a498f227c6",
+      "title": "Vision, Mission & Mandate",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Vision, Mission & Mandate",
+      "url": "https://www.icmr.gov.in/vision-mission-mandate",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "64fedececc",
+      "title": "Organogram",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Organogram",
+      "url": "https://www.icmr.gov.in/organogram",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "60a94ef0ec",
+      "title": "INSTITUTES",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "INSTITUTES",
+      "url": "https://www.icmr.gov.in/institutes",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "42318559f7",
+      "title": "Ministers",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Ministers",
+      "url": "https://www.icmr.gov.in/meet-the-ministers",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f7af4b3f8e",
+      "title": "ICMR Leadership",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ICMR Leadership",
+      "url": "https://www.icmr.gov.in/icmr-leadership",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "cde29be79a",
+      "title": "Scientists",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Scientists",
+      "url": "https://www.icmr.gov.in/scientists",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "653c959a89",
+      "title": "Former Director Generals",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Former Director Generals",
+      "url": "https://www.icmr.gov.in/former-director-generals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "814a77f84b",
+      "title": "Internal Committees",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Internal Committees",
+      "url": "https://www.icmr.gov.in/internal-committees",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "8d54e78574",
+      "title": "Achievements",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Achievements",
+      "url": "https://www.icmr.gov.in/achievements",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "c78e465198",
+      "title": "ICMR Collaborating Centre of Excellence (ICMR-CCoE)",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ICMR Collaborating Centre of Excellence (ICMR-CCoE)",
+      "url": "https://www.icmr.gov.in/icmr-collaborating-centre-of-excellence-icmr-ccoe",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "61cae6c216",
+      "title": "Contact Directory",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Contact Directory",
+      "url": "https://www.icmr.gov.in/contact-directory",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "2cf699fe88",
+      "title": "What We Do",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "What We Do",
+      "url": "https://www.icmr.gov.in/overview-of-what-we-do",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7b42f77a21",
+      "title": "Overview of What We Do",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Overview of What We Do",
+      "url": "https://www.icmr.gov.in/overview-of-what-we-do",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a44ffec1c1",
+      "title": "INTERNATIONAL COLLABORATIONS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "INTERNATIONAL COLLABORATIONS International Collaboration of ICMR HMSC Guidance Online Submission of International Collaborative Projects/HMSC HMSC Approved Projects/An Overview Transfer of Human Biological Material IAHSP International Fellowships Consolidated List Of International Scientists Visited",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6a8807232a",
+      "title": "International Collaboration of ICMR",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "International Collaboration of ICMR",
+      "url": "https://www.icmr.gov.in/international-collaboration-of-icmr",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "2798600dcb",
+      "title": "Guidance",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Guidance",
+      "url": "https://www.icmr.gov.in/health-ministry-s-screening-committee-hmsc",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "0f779d9c0f",
+      "title": "Online Submission of International Collaborative Projects/HMSC",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Online Submission of International Collaborative Projects/HMSC",
+      "url": "https://hmsc.dhr.gov.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "c29900746a",
+      "title": "HMSC Approved Projects/An Overview",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "HMSC Approved Projects/An Overview",
+      "url": "https://www.icmr.gov.in/list-of-approved-projects",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ceeb036033",
+      "title": "Transfer of Human Biological Material",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Transfer of Human Biological Material",
+      "url": "https://www.icmr.gov.in/transfer-of-human-biological-material",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "bfcaca51dc",
+      "title": "International Fellowships",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "International Fellowships",
+      "url": "https://www.icmr.gov.in/international-fellowships",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "58d3fb7d9b",
+      "title": "Consolidated List Of International Scientists Visited ICMR Hqrs/Divisons",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Consolidated List Of International Scientists Visited ICMR Hqrs/Divisons",
+      "url": "https://www.icmr.gov.in/list-of-international-scientists-visited-icmr-headquarters-divisions",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "44b68270ef",
+      "title": "An Overview Of International Collaborative Health Research Projects Approved By Health Ministry",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "An Overview Of International Collaborative Health Research Projects Approved By Health Ministry",
+      "url": "https://www.icmr.gov.in/an-overview-of-international-collaborative-health-research-projects-approved-by-health-ministry-s-screening-committee",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "c6ba380960",
+      "title": "EVENTS/TRAININGS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "EVENTS/TRAININGS Courses/Trainings Workshops/Conferences/Seminars Events",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "06a57435af",
+      "title": "Courses/Trainings",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Courses/Trainings",
+      "url": "https://www.icmr.gov.in/courses-trainings",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7ee303a90b",
+      "title": "Workshops/Conferences/Seminars",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Workshops/Conferences/Seminars",
+      "url": "https://www.icmr.gov.in/workshops-conferences-seminars",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "55e46d5971",
+      "title": "RESEARCH",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "RESEARCH",
+      "url": "https://www.icmr.gov.in/research",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "59077fa438",
+      "title": "GOVERNMENT INITIATIVES",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "GOVERNMENT INITIATIVES India International Science Festival (IISF) 2020 Technology For Collaboration Gandhi & Health Swachh Bharat Skill India",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "41a0fc1fc2",
+      "title": "India International Science Festival (IISF) 2020",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "India International Science Festival (IISF) 2020",
+      "url": "https://www.icmr.gov.in/india-international-science-festival-iisf-2020",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "bf69b5117d",
+      "title": "Technology For Collaboration",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Technology For Collaboration",
+      "url": "https://www.icmr.gov.in/technology-for-collaboration",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "317cc9b064",
+      "title": "Gandhi & Health",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Gandhi & Health",
+      "url": "https://www.icmr.gov.in/gandhi-health",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "29ed0150fa",
+      "title": "Swachh Bharat",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Swachh Bharat",
+      "url": "https://www.icmr.gov.in/swachh-bharat",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "98a58f1bc2",
+      "title": "Skill India",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Skill India",
+      "url": "https://www.icmr.gov.in/skill-india",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "4e0c1cbe44",
+      "title": "Memorandums of Understanding",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Memorandums of Understanding National International",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "64f29bbab2",
+      "title": "National",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "National",
+      "url": "https://www.icmr.gov.in/national-mous",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ceba8411a9",
+      "title": "International",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "International",
+      "url": "https://www.icmr.gov.in/international-mous",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "c0acb40f83",
+      "title": "GRANTS & FUNDING",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "GRANTS & FUNDING Grants & Funding Overview Intramural grants Extramural grants National Health Research Programme Fellowships Research Support Call for Proposals",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "35e00488b1",
+      "title": "Grants & Funding Overview",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Grants & Funding Overview",
+      "url": "https://www.icmr.gov.in/grants-funding-overview",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "95db28873e",
+      "title": "Intramural grants",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Intramural grants",
+      "url": "https://www.icmr.gov.in/intramural-grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "bebc3a7f94",
+      "title": "Extramural grants",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Extramural grants",
+      "url": "https://www.icmr.gov.in/extramural-grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "3c7eed0089",
+      "title": "National Health Research Programme",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "National Health Research Programme",
+      "url": "https://www.icmr.gov.in/national-health-research-programme",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ae250f4460",
+      "title": "Fellowships",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Fellowships",
+      "url": "https://www.icmr.gov.in/fellowships",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6e671042e2",
+      "title": "Research Support",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Research Support",
+      "url": "https://www.icmr.gov.in/research-support",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "90c9339c16",
+      "title": "Call for Proposals",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Call for Proposals",
+      "url": "https://www.icmr.gov.in/call-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "29d6bf2b93",
+      "title": "RESOURCES",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "RESOURCES POLICY BRIEFS GUIDELINES PUBLICATIONS Downloadable Books Priced Publications IJMR Archive ICMR Bulletin Hindi Publication ICMR Patrika MERA-India Newsletter Library Bulletin REPORTS PORTALS TENDERS ANNUAL ACCOUNTS ANNUAL REPORTS RTI CORNER Medical Shodhganga Standard Treatment Workflows",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "a88f0d7d70",
+      "title": "POLICY BRIEFS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "POLICY BRIEFS",
+      "url": "https://www.icmr.gov.in/policy-briefs",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "305f611c4e",
+      "title": "GUIDELINES",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "GUIDELINES",
+      "url": "https://www.icmr.gov.in/guidelines",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "9780e5e8a4",
+      "title": "PUBLICATIONS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "PUBLICATIONS Downloadable Books Priced Publications IJMR",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "9bc2e0483d",
+      "title": "Downloadable Books",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Downloadable Books",
+      "url": "https://www.icmr.gov.in/downloadable-books",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "0ac3483148",
+      "title": "Priced Publications",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Priced Publications",
+      "url": "https://www.icmr.gov.in/priced-publications",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "4743048935",
+      "title": "ICMR Bulletin",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ICMR Bulletin",
+      "url": "https://www.icmr.gov.in/icmr-bulletin",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6574d4501f",
+      "title": "Hindi Publication ICMR Patrika",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Hindi Publication ICMR Patrika",
+      "url": "https://www.icmr.gov.in/hindi-publication-icmr-patrika",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "39536148d4",
+      "title": "MERA-India Newsletter",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "MERA-India Newsletter",
+      "url": "https://www.icmr.gov.in/mera-india-newsletter",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "38d3528270",
+      "title": "Library Bulletin",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Library Bulletin",
+      "url": "https://www.icmr.gov.in/library-bulletin",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "3d969f1a4c",
+      "title": "ANNUAL ACCOUNTS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANNUAL ACCOUNTS",
+      "url": "https://www.icmr.gov.in/annual-accounts",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "34379c93ee",
+      "title": "ANNUAL REPORTS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ANNUAL REPORTS",
+      "url": "https://www.icmr.gov.in/annual-reports",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "b0db53d2e0",
+      "title": "RTI CORNER",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "RTI CORNER",
+      "url": "https://www.icmr.gov.in/rti-corner",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "d32537a1a2",
+      "title": "Medical Shodhganga",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Medical Shodhganga",
+      "url": "https://www.icmr.gov.in/medical-shodhganga",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "49ba80fb4a",
+      "title": "Standard Treatment Workflows",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Standard Treatment Workflows",
+      "url": "https://www.icmr.gov.in/standard-treatment-workflows-stws",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "c10cfad4f2",
+      "title": "Press Releases",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Press Releases",
+      "url": "https://www.icmr.gov.in/press-releases",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "273029c42e",
+      "title": "Employment Opportunities",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Employment Opportunities",
+      "url": "https://www.icmr.gov.in/employment-opportunities",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "b8be9ec751",
+      "title": "Recruitment Portal",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Recruitment Portal",
+      "url": "https://recruitment.icmr.org.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "1ae6580457",
+      "title": "EMPLOYEE CENTRE",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "EMPLOYEE CENTRE GENERAL FORMS CIRCULARS ACRS/APARS Employee Links INFORMATION, RULES & MANUALS ASSESSMENT OF ICMR SCIENTISTS IRRAS CONTACT (IT-FMS) E-CONSORTIUM",
+      "url": "https://icmr.gov.injavascript:void(0);",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "9cd66dcc52",
+      "title": "GENERAL FORMS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "GENERAL FORMS",
+      "url": "https://www.icmr.gov.in/general-forms",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "726c35d5b1",
+      "title": "CIRCULARS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "CIRCULARS",
+      "url": "https://www.icmr.gov.in/circulars",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "417a5443d8",
+      "title": "ACRS/APARS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ACRS/APARS",
+      "url": "https://www.icmr.gov.in/acrs-apars",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "8d803fcfce",
+      "title": "Employee Links",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Employee Links",
+      "url": "https://www.icmr.gov.in/employee-links",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "1c252a51b8",
+      "title": "INFORMATION, RULES & MANUALS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "INFORMATION, RULES & MANUALS",
+      "url": "https://www.icmr.gov.in/information-rules-manuals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ffa3ccd3f8",
+      "title": "ASSESSMENT OF ICMR SCIENTISTS",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "ASSESSMENT OF ICMR SCIENTISTS",
+      "url": "https://www.icmr.gov.in/assessment-of-icmr-scientists",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "91e46d8e0b",
+      "title": "CONTACT (IT-FMS)",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "CONTACT (IT-FMS)",
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Documents/1728032222_icmr-bsnl_itfmsteam.pdf",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "cfa9f7476f",
+      "title": "E-CONSORTIUM",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "E-CONSORTIUM",
+      "url": "https://www.icmr.gov.in/e-consortium",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "acd43dcd63",
+      "title": "Facebook",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Facebook",
+      "url": "https://www.facebook.com/ICMROrganisation",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "0dd976abab",
+      "title": "Linkedin",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Linkedin",
+      "url": "https://www.linkedin.com/company/icmrorganization",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "96d60b058d",
+      "title": "Instagram",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Instagram",
+      "url": "https://www.instagram.com/icmrorganisation/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "71bbdc1c1d",
+      "title": "Feedback",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Feedback",
+      "url": "https://www.icmr.gov.in/feedback",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "e52cf78b3e",
+      "title": "Patent Mitra",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Patent Mitra",
+      "url": "https://patentmitra.icmr.org.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "3fd2eb6514",
+      "title": "Vision, Mission, Mandate",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Vision, Mission, Mandate",
+      "url": "https://www.icmr.gov.in/vision-mission-mandate",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "76ab204874",
+      "title": "Vigilance",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Vigilance",
+      "url": "https://www.icmr.gov.in/vigilance",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ecb7bde4b0",
+      "title": "Screen Reader",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Screen Reader",
+      "url": "https://www.icmr.gov.in/screen-reader-access",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "73e89a7244",
+      "title": "Web Information Manager",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Web Information Manager",
+      "url": "https://www.icmr.gov.in/web-information-manager",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "efad57a767",
+      "title": "How to download pdf (Pdf File 300Kb)",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "How to download pdf (Pdf File 300Kb)",
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Documents/1729074329_instructionsforpdfdownloading.pdf",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "0319298dcd",
+      "title": "Term & Conditions",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Term & Conditions",
+      "url": "https://www.icmr.gov.in/terms-conditions",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "b46acf58f8",
+      "title": "Privacy Policy",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Privacy Policy",
+      "url": "https://www.icmr.gov.in/privacy-policy",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "39ed0ef1ed",
+      "title": "Website Policies",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Website Policies",
+      "url": "https://www.icmr.gov.in/website-policies",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Medical Researcher",
+        "Institution"
+      ],
+      "disciplines": [
+        "Medical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "63ff80082f",
+      "title": "ANRF JC Bose Grant 2026",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "₹25 Lakhs/year (5 years)",
+      "description": "For senior researchers (Professor-level). ₹25L/year × 5 years.",
+      "url": "https://anrfonline.in/ANRF/jcbose",
+      "deadline": "2026-02-10",
+      "open_date": "2026-01-01",
+      "eligibility": [
+        "Professor/Senior Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "closed",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7ef3799671",
+      "title": "ANRF-ATRI Scheme 2026",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Call for Proposals Jan 15–Feb 24 2026 (5 PM). See anrf.gov.in.",
+      "url": "https://anrf.gov.in/",
+      "deadline": "2026-02-24",
+      "open_date": "2026-01-15",
+      "eligibility": [
+        "Faculty",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Technology"
+      ],
+      "status": "closed",
+      "last_updated": "2026-03-15"
+    }
+  ]
+}

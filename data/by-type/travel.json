@@ -1,0 +1,514 @@
+{
+  "category": "travel",
+  "generated": "2026-03-15T02:18:47Z",
+  "total": 22,
+  "open": 20,
+  "grants": [
+    {
+      "id": "6a9126b3c6",
+      "title": "ICGEB Arturo Falaschi SMART Fellowship (Mar 2026)",
+      "agency": "ICGEB",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "USD 800–2,000/month + travel + bench fee",
+      "description": "Scientific Mobility for Advanced Research Training. 3–9 months at any ICGEB Member State lab (not home country). Open to PhD students and postdocs (PhD ≤5 years). Stipend USD 800–2,000/month + bench fee + travel.",
+      "url": "https://www.icgeb.org/fellowships/smart-fellowships-2/",
+      "deadline": "2026-03-31",
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc (PhD ≤5 years)",
+        "Indian Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Biotechnology",
+        "Genetic Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "8dc5cbb0f0",
+      "title": "ANRF SIRE — Short-term International Research Experience",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Travel Grant",
+      "amount": "Travel + subsistence (as per norms)",
+      "description": "Supports Indian researchers for short-term research visits (1–6 months) to overseas labs. For PhD students, postdocs, and early career faculty. Rolling applications.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Early Career Faculty"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "d4c6c445fa",
+      "title": "ICMR International Fellowship for Indian Biomedical Scientists",
+      "agency": "ICMR",
+      "country": "India",
+      "grant_type": "Travel Grant",
+      "amount": "Travel + monthly allowance (as per ICMR norms)",
+      "description": "Supports Indian biomedical scientists to work at advanced research labs abroad for 3–6 months. Covers travel, maintenance allowance, and research costs. Annual call. Strong career development opportunity for mid-career researchers.",
+      "url": "https://www.icmr.gov.in/icmr-international-fellowship-programme-for-indian-biomedical-scientists",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty/Researcher (Indian)",
+        "PhD in biomedical field"
+      ],
+      "disciplines": [
+        "Biomedical Research",
+        "Public Health",
+        "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f30b8947df",
+      "title": "ANRF International Travel Support (ITS)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Travel Grant",
+      "amount": "Up to ₹2 Lakhs",
+      "description": "Supports Indian researchers to present papers at international conferences abroad. Rolling applications throughout the year.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "PhD Student"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "987ebe5548",
+      "title": "DBT Overseas Associateship",
+      "agency": "DBT",
+      "country": "India",
+      "grant_type": "Travel Grant",
+      "amount": "As per DBT norms",
+      "description": "Supports Indian scientists with PhDs to work at overseas labs for 6–12 months. Covers travel, subsistence, and research costs.",
+      "url": "https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/overseas-associateship",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Early Career Researcher",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "Life Sciences",
+        "Bioinformatics"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "700ad1ef1b",
+      "title": "DBT-EMBL Short-Term Visit Programme",
+      "agency": "DBT",
+      "country": "India",
+      "grant_type": "Travel Grant",
+      "amount": "Full travel + accommodation",
+      "description": "Joint DBT-EMBL programme supporting short visits by Indian researchers to EMBL labs in Heidelberg and other sites.",
+      "url": "https://dbtindia.gov.in/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Early Career Researcher"
+      ],
+      "disciplines": [
+        "Computational Biology",
+        "Structural Biology",
+        "Genomics"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "dbad972b45",
+      "title": "CSIR Travel Grant for International Conferences",
+      "agency": "CSIR",
+      "country": "India",
+      "grant_type": "Travel Grant",
+      "amount": "Up to ₹1.5 Lakhs",
+      "description": "Financial support for scientists/researchers to attend/present at international conferences. Applications reviewed on a rolling basis.",
+      "url": "https://www.csir.res.in/travel-grant",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "CSIR Scientist"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "d54fcddfdb",
+      "title": "INSA International Bilateral Exchange Programme",
+      "agency": "INSA",
+      "country": "India",
+      "grant_type": "Travel Grant",
+      "amount": "Varies by partner academy",
+      "description": "Exchange visits with foreign academies (Royal Society, NAS, JSPS, CNRS, DFG). For Indian scientists visiting abroad or hosting foreign scientists.",
+      "url": "https://insaindia.res.in/fellowship.php",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Senior Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f5aa8eef44",
+      "title": "EMBL Course and Conference Travel Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Variable cap per event (travel + accommodation + registration)",
+      "description": "EMBL provides travel grants for researchers to attend EMBL/EMBO courses and conferences. Covers airfare, accommodation, visa, registration fees. Apply during abstract/motivation letter submission for each event. Selection based on scientific merit, location, career stage.",
+      "url": "https://www.embl.org/about/info/course-and-conference-office/information-for-participants/financial-assistance/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Early Career Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Bioinformatics",
+        "Computational Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "385b726b4b",
+      "title": "EMBO Scientific Exchange Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Up to €2,500",
+      "description": "Supports short scientific visits to labs in EMBC member/associate countries. Rolling deadline, decisions within 6 weeks.",
+      "url": "https://www.embo.org/funding-awards/scientific-exchange-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ae2c61745a",
+      "title": "EMBO Short-Term Fellowship",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Stipend + travel",
+      "description": "Up to 3 months at EMBC member country lab. For PhD students and postdocs. Rolling applications.",
+      "url": "https://www.embo.org/funding-awards/short-term-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f0280bb8d5",
+      "title": "FEBS Short-Term Fellowship",
+      "agency": "FEBS",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Up to €3,500",
+      "description": "Supports short research visits (1–3 months) to a lab in a different country. Open to researchers from FEBS constituent societies.",
+      "url": "https://www.febs.org/funding/fellowships-and-grants/short-term-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Early Career Researcher"
+      ],
+      "disciplines": [
+        "Biochemistry",
+        "Molecular Biology",
+        "Life Sciences"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "802609d9b2",
+      "title": "FEBS Science for Life Laboratory Prize",
+      "agency": "FEBS",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Prize + travel",
+      "description": "Annual FEBS prize for outstanding contributions to molecular life sciences. Includes travel to FEBS Congress.",
+      "url": "https://www.febs.org/funding/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Early Career"
+      ],
+      "disciplines": [
+        "Molecular Biology",
+        "Life Sciences"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "23a84637ef",
+      "title": "------------------------------------------",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub).",
+      "url": "https://github.com/AdhyaSuman/International_Travel_Grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "27c772e35a",
+      "title": "ACM-India: IARCS Travel Grants",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: travelgrants@iarcs.org.in",
+      "url": "https://www.iarcs.org.in/activities/grants.php",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "61e26af444",
+      "title": "ANRF: International Travel Support",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: ms.its@serb.gov.in",
+      "url": "https://anrfonline.in/ANRF/its",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "06311fd058",
+      "title": "CSIR Travel Grant",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: tgsm@csirhrdg.res.in",
+      "url": "https://csirhrdg.res.in/Home/Index/1/InPage/51/14",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "9c40bc374e",
+      "title": "-----------",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub).",
+      "url": "https://github.com/AdhyaSuman/International_Travel_Grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "38b1f178b4",
+      "title": "ACM-RFG",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: acmirfg@acmindia.org",
+      "url": "https://india.acm.org/research/research-facilitation-grant",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "5f0ed071c4",
+      "title": "DAAD Research Stays for University Academics (India)",
+      "agency": "DAAD",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Monthly allowance + travel (as per DAAD norms)",
+      "description": "Short research stays (1–3 months) at German universities for Indian faculty. Covers travel and accommodation. No age limit. Also includes bilateral exchange for PhD students.",
+      "url": "https://www.daad.in/en/find-funding/scholarship-database/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Senior Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7b94d56173",
+      "title": "Microsoft: MSR India Academic Outreach",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: travelgrants@microsoft.com",
+      "url": "https://www.microsoft.com/en-us/research/academic-program/academic-outreach/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "closed",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    },
+    {
+      "id": "9cfe27dd56",
+      "title": "Google: Conference Scholarships",
+      "agency": "Various (Travel)",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Varies",
+      "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: research-programs-in@google.com",
+      "url": "https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Researcher",
+        "Indian Applicant"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "closed",
+      "last_updated": "2026-03-15",
+      "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+    }
+  ]
+}

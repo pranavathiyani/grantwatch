@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Grant Watch ⌛ — SASTRA Research Funding Portal</title>
+  <subtitle>Curated research funding opportunities for Indian academics. Updated bi-weekly.</subtitle>
+  <link href="https://pranavathiyani.github.io/grantwatch/data/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pranavathiyani.github.io/grantwatch" rel="alternate" type="text/html"/>
+  <id>https://pranavathiyani.github.io/grantwatch/data/feed.xml</id>
+  <updated>2026-03-15T02:18:30Z</updated>
+  <author><name>Grant Watch ⌛ · SASTRA University</name><email>pranavathiyani@scbt.sastra.edu</email></author>
+  <rights>Data is publicly sourced. Grant Watch aggregates for SASTRA researchers.</rights>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-5688001f61</id>
+    <title>[2026-03-17] HFSP Research Grant — Program Grant — HFSP</title>
+    <link href="https://www.hfsp.org/funding/hfsp-funding/research-grants" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: HFSP (International) | Type: Research Grant | Amount: Up to USD 450,000/year (3 years) | Deadline: 2026-03-17 | Status: OPEN | Disciplines: Life Sciences, Biophysics, Neuroscience, Computational Biology | Eligibility: Faculty, Independent Researcher. High-risk, high-reward basic life science research through international teams. India-based PIs can lead or join. One of the most prestigious international grants for life sciences.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-a852a06380</id>
+    <title>[2026-03-31] IGSTC WISER — Women in Science &amp; Engineering Research (Indo-German) — DST (Bilateral)</title>
+    <link href="https://www.igstc.org/programme/wiser" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: ₹39 Lakhs (Indian side) + €48,000 (German side) — 3 years | Deadline: 2026-03-31 | Status: OPEN | Disciplines: STEM — any, Life Sciences, Engineering, Technology | Eligibility: Women Faculty/Researcher (Indian PI), German Woman Co-PI required, Min 5 years research experience. Promotes collaboration between women researchers in India and Germany. Paired mode only — one Indian woman PI + one German woman PI required. Covers rese</summary>
+    <category term="Collaborative Grant" label="Collaborative Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-6a9126b3c6</id>
+    <title>[2026-03-31] ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) — ICGEB</title>
+    <link href="https://www.icgeb.org/fellowships/smart-fellowships-2/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ICGEB (International) | Type: Travel Grant | Amount: USD 800–2,000/month + travel + bench fee | Deadline: 2026-03-31 | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering | Eligibility: PhD Student, Postdoc (PhD ≤5 years), Indian Researcher. Scientific Mobility for Advanced Research Training. 3–9 months at any ICGEB Member State lab (not home country). Open to PhD students and postdocs (PhD ≤5 years). Stipend USD 800–2,000/month + bench fee + travel.</summary>
+    <category term="Travel Grant" label="Travel Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-9ef0d6f466</id>
+    <title>[2026-03-31] ICGEB Short-term PhD Fellowship (Mar 2026) — ICGEB</title>
+    <link href="https://www.icgeb.org/fellowships/short-term-phd-fellowships/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: €1,500/month (Trieste) or ZAR 16,500/month (Cape Town) + travel | Deadline: 2026-03-31 | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering | Eligibility: PhD Student (Indian), MSc holder, ICGEB Member State national. 1–12 months at ICGEB labs in Trieste (Italy), New Delhi (India), or Cape Town (SA). For collaborative predoctoral research. Indian applicants may apply to Trieste or Cape Town (not New Delhi — hom</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-9c34a24224</id>
+    <title>[2026-03-31] ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) — ICGEB</title>
+    <link href="https://www.icgeb.org/fellowships/icgeb-fellowships-for-scientists-in-biosecurity-march-2026/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: USD 1,122/month (New Delhi) + travel + insurance | Deadline: 2026-03-31 | Status: OPEN | Disciplines: AMR, Infectious Disease, Biosecurity, Genomic Surveillance, Drug Discovery | Eligibility: Early-career Scientist, OECD/DAC country national. 2–6 months at ICGEB labs (Trieste, New Delhi, Cape Town). Focus: molecular detection of biological threats, epidemiology, genomic surveillance, drug discovery, vaccine development, diagnostics. Co-f</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f8e8cb30d9</id>
+    <title>[2026-04-30] ICGEB CRP Research Grant 2026 — ICGEB</title>
+    <link href="https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ICGEB (International) | Type: Research Grant | Amount: Varies (project-based, USD) | Deadline: 2026-04-30 | Status: OPEN | Disciplines: Biotechnology, Life Sciences, Biomedical, Agricultural Biotech, Bioenergy, AMR | Eligibility: Faculty, Researcher at ICGEB Member State institution. ICGEB Collaborative Research Programme (CRP). Supports original research in basic science, human healthcare, industrial/agricultural biotechnology and bioenergy. India is a member state — up to 3 CRP + 2 Ear</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-d90b01f9d6</id>
+    <title>[2026-04-30] ICGEB Early Career Return Grant (CRP) — ICGEB</title>
+    <link href="https://www.icgeb.org/grants/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ICGEB (International) | Type: Research Grant | Amount: Competitive (USD) | Deadline: 2026-04-30 | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Biomedical | Eligibility: Early Career PI (returning), ICGEB Member State. Part of ICGEB CRP call. For young PIs returning to ICGEB Member States after postdoctoral training abroad. Supports setting up independent labs. Up to 2 awards per member country per call.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-5e7229a8b0</id>
+    <title>[2026-05-05] Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF — DST (Bilateral)</title>
+    <link href="https://www.icmr.gov.in/international-fellowships" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Varies per ICMR/DBT norms | Deadline: 2026-05-05 | Status: OPEN | Disciplines: Biomedical Research, Public Health, Life Sciences, Biotechnology | Eligibility: Faculty/Researcher (Indian PI), Swiss Co-PI (SNSF-eligible). Joint call by ICMR + DBT (India) and Swiss National Science Foundation (SNSF). Indian PI funded by ICMR/DBT; Swiss PI funded by SNSF. Focus: biomedical, health, and life sciences research. Live deadline: May 5,</summary>
+    <category term="Collaborative Grant" label="Collaborative Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-8b9073c526</id>
+    <title>[2026-05-08] ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026 — ANRF</title>
+    <link href="https://anrfonline.in/ANRF/arg_anrf" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: No upper limit — project-based | Deadline: 2026-05-08 | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Faculty, Researcher, Indian Institution. ARG subsumes the Core Research Grant (CRG). Supports frontier research in Science &amp;amp; Engineering. Pre-proposal Apr 1–May 8 2026; Full proposals Sep 15–Oct 15 2026. No upper budget limit.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-982fa7acce</id>
+    <title>[2026-05-08] ANRF MATRICS 2026 (Mathematics Research Grant) — ANRF</title>
+    <link href="https://anrfonline.in/ANRF/arg_anrf" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: Up to ₹10 Lakhs (3 years) | Deadline: 2026-05-08 | Status: OPEN | Disciplines: Mathematics, Statistics, Theoretical Sciences | Eligibility: Faculty, Researcher. Mathematical Research Impact Centric Support. For active researchers in mathematics. Apr 1 – May 8 2026.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-62ef0b36ac</id>
+    <title>[2026-06-08] Notice of Early Expiration PA-23-291 -- AHRQ Understanding and Improving Diagnostic Safety in Ambulatory Care: Incidence and Contributing Factors (R01). — NIH</title>
+    <link href="http://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-005.html" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: NIH (International) | Type: R01 | Amount: Varies by mechanism | Deadline: 2026-06-08 | Status: OPEN | Disciplines: Biomedical, Life Sciences, Clinical Research | Eligibility: Faculty, Researcher, Institution. Notice NOT-HS-26-005 from the NIH Guide for Grants and Contracts</summary>
+    <category term="R01" label="R01"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-d103616d82</id>
+    <title>[2026-06-08] Notice of Early Expiration PA-24-154 -- AHRQ Health Services Research Projects (R01) is expired. — NIH</title>
+    <link href="http://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-006.html" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: NIH (International) | Type: R01 | Amount: Varies by mechanism | Deadline: 2026-06-08 | Status: OPEN | Disciplines: Biomedical, Life Sciences, Clinical Research | Eligibility: Faculty, Researcher, Institution. Notice NOT-HS-26-006 from the NIH Guide for Grants and Contracts</summary>
+    <category term="R01" label="R01"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f0d1f7dde8</id>
+    <title>[2026-06-08] Notice of Early Expiration PA-24-155 -- AHRQ Small Health Services Research Grant Program (R03). — NIH</title>
+    <link href="http://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-007.html" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: NIH (International) | Type: R03 | Amount: Varies by mechanism | Deadline: 2026-06-08 | Status: OPEN | Disciplines: Biomedical, Life Sciences, Clinical Research | Eligibility: Faculty, Researcher, Institution. Notice NOT-HS-26-007 from the NIH Guide for Grants and Contracts</summary>
+    <category term="R03" label="R03"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-8bea80d2d4</id>
+    <title>[2026-06-08] Notice of Early Expiration PA-24-266 -- Using Innovative Digital Healthcare Solutions to Improve Quality at the Point of Care (R21/R33 - Clinical Trial Optional). — NIH</title>
+    <link href="http://grants.nih.gov/grants/guide/notice-files/NOT-HS-26-008.html" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: NIH (International) | Type: R21 | Amount: Varies by mechanism | Deadline: 2026-06-08 | Status: OPEN | Disciplines: Biomedical, Life Sciences, Clinical Research | Eligibility: Faculty, Researcher, Institution. Notice NOT-HS-26-008 from the NIH Guide for Grants and Contracts</summary>
+    <category term="R21" label="R21"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-1a6e8a3c72</id>
+    <title>[2026-06-09] Notice to Expire PAR-24-298, "Mechanism for Time-Sensitive Substance Use Research (R21 Clinical Trial Optional)" — NIH</title>
+    <link href="http://grants.nih.gov/grants/guide/notice-files/NOT-DA-26-010.html" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: NIH (International) | Type: PAR | Amount: Varies by mechanism | Deadline: 2026-06-09 | Status: OPEN | Disciplines: Biomedical, Life Sciences, Clinical Research | Eligibility: Faculty, Researcher, Institution. Notice NOT-DA-26-010 from the NIH Guide for Grants and Contracts</summary>
+    <category term="PAR" label="PAR"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-6cf0b5f413</id>
+    <title>[2026-06-09] Request for Information (RFI): Gathering feedback for the National Eye Institute 2026-2031 Strategic Plan. — NIH</title>
+    <link href="http://grants.nih.gov/grants/guide/notice-files/NOT-EY-26-002.html" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: NIH (International) | Type: Research Grant | Amount: Varies by mechanism | Deadline: 2026-06-09 | Status: OPEN | Disciplines: Biomedical, Life Sciences, Clinical Research | Eligibility: Faculty, Researcher, Institution. Notice NOT-EY-26-002 from the NIH Guide for Grants and Contracts</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-1132c85ea4</id>
+    <title>[2026-06-10] Notice of Change: Early Expiration of PAR-25-326 Ultra-Rare Gene-based Therapy (URGenT) Network Resource Access (X01, Clinical Trial Not Allowed) — NIH</title>
+    <link href="http://grants.nih.gov/grants/guide/notice-files/NOT-NS-26-032.html" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: NIH (International) | Type: PAR | Amount: Varies by mechanism | Deadline: 2026-06-10 | Status: OPEN | Disciplines: Biomedical, Life Sciences, Clinical Research | Eligibility: Faculty, Researcher, Institution. Notice NOT-NS-26-032 from the NIH Guide for Grants and Contracts</summary>
+    <category term="PAR" label="PAR"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-a1737cb79b</id>
+    <title>[2026-06-30] DBT-BIRAC Joint Call for Proposals on ‘Bio AI’ for Fostering High Performance Biomanufacturing under BioE3 Policy Last Date :30th June,2026... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=114&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: 2026-06-30 | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 2 DBT-BIRAC Joint Call for Proposals on ‘Bio AI’ for Fostering High Performance Biomanufacturing under BioE3 Policy Last Date :30th June,2026... Opens on 24th November 2025 Last Date of Submission 30-06-2026</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-2dbae4ca46</id>
+    <title>[2026-07-01] Fulbright-Nehru Doctoral Research Fellowship — Fulbright-Nehru</title>
+    <link href="https://www.usief.org.in/Fellowships.aspx" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: Fulbright-Nehru (International) | Type: Fellowship | Amount: Full support (stipend, housing, travel) | Deadline: 2026-07-01 | Status: OPEN | Disciplines: AI/ML, Energy, Space Science, Defense, Any | Eligibility: PhD Student (registered in India). 6–9 months dissertation research in the United States. Priority: AI, energy, space science, defense.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-1eff94a553</id>
+    <title>[2026-07-15] Fulbright-Nehru Postdoctoral Research Fellowship — Fulbright-Nehru</title>
+    <link href="https://www.usief.org.in/Fellowships.aspx" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: Fulbright-Nehru (International) | Type: Fellowship | Amount: Living allowance + travel + health insurance | Deadline: 2026-07-15 | Status: OPEN | Disciplines: Science, Technology, Public Policy, Any | Eligibility: Early Career Researcher, PhD Holder (≤5 years). 8–24 months at a US institution. For Indian early career researchers in science, technology, and innovation fields.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-c6c6ffc0d7</id>
+    <title>[2026-07-31] ANRF National Science Chair (NSC) 2026 — ANRF</title>
+    <link href="https://anrfonline.in/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: TBA | Deadline: 2026-07-31 | Status: OPEN | Disciplines: Any | Eligibility: Senior Researcher, Professor. Prestigious chair for exceptional senior researchers. Jul 2026.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-db9f6f7175</id>
+    <title>[2026-11-03] ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme — ANRF</title>
+    <link href="https://anrfonline.in/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: TBA | Deadline: 2026-11-03 | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Researcher, Indian Institution. New ANRF scheme 2026. Promotes research inclusion. Oct 1–Nov 3 2026.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-ebeea1e700</id>
+    <title>[2026-11-15] EMBL Predoctoral Fellowship (PhD Programme) — EMBL</title>
+    <link href="https://www.embl.org/about/info/international-phd-programme/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBL (International) | Type: Fellowship | Amount: Full stipend + benefits | Deadline: 2026-11-15 | Status: OPEN | Disciplines: Computational Biology, Genomics, Structural Biology, Cell Biology | Eligibility: MSc Graduate, BTech Graduate (Research experience). Fully funded PhD positions at EMBL sites across Europe. Annual intake. Indian applicants eligible and encouraged.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-10c7db5722</id>
+    <title>[2026-12-02] ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026 — ANRF</title>
+    <link href="https://anrfonline.in/ANRF/ecrg_anrf" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: ₹60 Lakhs + overheads (3 years) | Deadline: 2026-12-02 | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Early Career Faculty, Indian Institution. One-time career grant for early-career faculty. Subsumes erstwhile SRG. ₹60L + overheads for 3 years. Max 700 grants/year.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-72b93ecd8e</id>
+    <title>[2026-12-31] ANRF Ramanujan Fellowship 2026 — ANRF</title>
+    <link href="https://anrfonline.in/ANRF/Ramanujan_fellowship" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: ₹1,35,000/month + research grant (5 years) | Deadline: 2026-12-31 | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Indian Scientist (Overseas/Diaspora). For exceptional Indian scientists returning from abroad. Open throughout 2026. Decisions announced twice yearly.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-anrf-core001</id>
+    <title>[Rolling / TBA] ANRF Core Research Grant (CRG) — ANRF</title>
+    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: Up to ₹50 Lakhs (3 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology, Humanities | Eligibility: Faculty, Researcher, Indian Institution. Supports research proposals in basic and applied sciences from faculty at Indian academic institutions.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-dbt-bnc001</id>
+    <title>[Rolling / TBA] DBT-BioCARe (Biotechnology Career Advancement) — DBT</title>
+    <link href="https://dbtindia.gov.in/schemes-programmes/research-development/human-resource-development/biocare" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: DBT (India) | Type: Fellowship | Amount: Up to ₹55 Lakhs (3 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Life Sciences | Eligibility: Women Scientist, Faculty. Women scientist scheme for re-entry into mainstream S&amp;amp;T. Supports biotechnology research.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-csir-symp001</id>
+    <title>[Rolling / TBA] CSIR Symposia/Conference Grant — CSIR</title>
+    <link href="https://www.csir.res.in/funding" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: CSIR (India) | Type: Conference Grant | Amount: Up to ₹2 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Researcher, Indian Institution. Supports organization of national/international conferences and symposia at Indian institutions.</summary>
+    <category term="Conference Grant" label="Conference Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-icmr-adhoc001</id>
+    <title>[Rolling / TBA] ICMR Ad-hoc Research Projects — ICMR</title>
+    <link href="https://icmr.gov.in/call-for-applications" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: ICMR (India) | Type: Research Grant | Amount: Varies by project scope | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Medical Research, Public Health, Epidemiology | Eligibility: Faculty, Medical Researcher, Institution. Extramural funding for biomedical and health research. Open to medical colleges, universities, research institutions.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-birac-bionest001</id>
+    <title>[Rolling / TBA] BIRAC BIONEST (Bioincubator Nurturing Entrepreneurship) — BIRAC</title>
+    <link href="https://birac.nic.in/cfp.php" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Up to ₹10 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech | Eligibility: Institution, University, Research Park. Supports establishment of biotech incubators at academic institutions and research parks.</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-wellcome-ia001</id>
+    <title>[Rolling / TBA] Wellcome India Alliance — Intermediate Fellowship — Wellcome DBT India Alliance</title>
+    <link href="https://indiaalliance.org/apply-for-a-grant/intermediate-fellowship" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: Wellcome DBT India Alliance (International) | Type: Fellowship | Amount: Up to ₹3.25 Crores (5 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biomedical, Life Sciences, Public Health | Eligibility: Early Career Researcher, Faculty. For Indian researchers with a strong track record seeking independence. Covers salary, research costs, training.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-embo-ig001</id>
+    <title>[Rolling / TBA] EMBO Installation Grant — EMBO</title>
+    <link href="https://www.embo.org/funding-awards/installation-grants/" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Installation Grant | Amount: €50,000/year (up to 5 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Early Career Researcher, Faculty. Supports researchers returning to or establishing labs in EMBC member states and associate member countries including India.</summary>
+    <category term="Installation Grant" label="Installation Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-gates-gc001</id>
+    <title>[Rolling / TBA] Grand Challenges Explorations — Open Call — Gates Foundation</title>
+    <link href="https://gcgh.grandchallenges.org/challenges" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: Gates Foundation (International) | Type: Grand Challenge | Amount: USD 100,000 (Phase 1) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Global Health, Agriculture, Vaccines, Nutrition | Eligibility: Researcher, Faculty, NGO, Institution. Supports bold ideas in global health and development. India-based researchers strongly encouraged.</summary>
+    <category term="Grand Challenge" label="Grand Challenge"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-nih-par001</id>
+    <title>[Rolling / TBA] NIH PAR — Exploratory/Developmental Research (R21) — NIH</title>
+    <link href="https://grants.nih.gov/grants/guide/pa-files/" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: NIH (International) | Type: PAR | Amount: Up to USD 275,000 (2 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biomedical, Life Sciences, Clinical Research | Eligibility: Faculty, Researcher, Institution. Supports new, untested ideas and approaches. Collaborative grants with US PI may include Indian co-investigators.</summary>
+    <category term="PAR" label="PAR"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-iusstf-001</id>
+    <title>[Rolling / TBA] IUSSTF Indo-US Joint Research Program — IUSSTF</title>
+    <link href="https://www.iusstf.org/program/joint-research-projects" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: IUSSTF (International) | Type: Collaborative Grant | Amount: USD 60,000 (US side) + INR equivalent (India side) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Technology, Engineering | Eligibility: Faculty, Researcher. Joint research grants for Indian and US researchers. Covers exchanges, workshops, and collaborative projects.</summary>
+    <category term="Collaborative Grant" label="Collaborative Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-par-amr2026</id>
+    <title>[Rolling / TBA] PAR Foundation 2026 Grant — Beyond Antibiotics — PAR Foundation</title>
+    <link href="https://opencalls.parfoundation.org/" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: PAR Foundation (International) | Type: Research Grant | Amount: Varies (project-based) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: AMR, Infectious Disease, Public Health, Microbiology, One Health | Eligibility: Researcher, Faculty, Institution, NGO. 2026 theme: 'Beyond Antibiotics: Preventive Strategies That Lower the Need for Antibiotic Use.' Supports research reducing infection risk and improving antimicrobial stewardship. Global applicants welcome including India.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-google-india-ra001</id>
+    <title>[Rolling / TBA] Google India Research Award — Google Research</title>
+    <link href="https://research.google/programs-and-events/google-india-research-awards/" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: Google Research (International) | Type: Research Grant | Amount: USD 20,000 (unrestricted) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: AI/ML, Computer Science, Natural Language Processing, Systems | Eligibility: Faculty, Assistant Professor (Early Career). Supports faculty at Indian universities engaged in world-class research relevant to Google. Sub-track for early-career faculty (within 5 years). Annual call.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-ncbs-rdo-ref001</id>
+    <title>[Rolling / TBA] NCBS RDO Funding Database (Reference) — NCBS</title>
+    <link href="https://www.ncbs.res.in/rdo/sponsor-grants" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: NCBS (India) | Type: Reference Resource | Amount: See portal | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Any | Eligibility: Faculty, Researcher, Postdoc. NCBS Research Development Office maintains a comprehensive, manually-curated database of Indian and international funding opportunities. Excellent supplementary reference.</summary>
+    <category term="Reference Resource" label="Reference Resource"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-3fff93349b</id>
+    <title>[Rolling / TBA] DST-FIST (Fund for Improvement of S&amp;T Infrastructure) — DST</title>
+    <link href="https://dst.gov.in/scientific-programmes/scientific-engineering-research/fist" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Infrastructure Grant | Amount: Up to ₹2 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: University, College, Department. Infrastructure grant for upgrading S&amp;amp;T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr).</summary>
+    <category term="Infrastructure Grant" label="Infrastructure Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-0165247ee8</id>
+    <title>[Rolling / TBA] DST-PURSE (Promotion of University Research and Scientific Excellence) — DST</title>
+    <link href="https://dst.gov.in/scientific-programmes/scientific-engineering-research/purse" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Infrastructure Grant | Amount: Up to ₹5 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: University with strong research output. Grants to universities with good research output to strengthen research infrastructure and programs.</summary>
+    <category term="Infrastructure Grant" label="Infrastructure Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-eac24038d3</id>
+    <title>[Rolling / TBA] DST Science and Heritage Research Initiative (SHRI) — DST</title>
+    <link href="https://dst.gov.in/call-for-proposals" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Heritage Studies, Traditional Knowledge | Eligibility: Faculty, Researcher. Research integrating modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-34cf9949eb</id>
+    <title>[Rolling / TBA] Schemes/ Programmes — DST</title>
+    <link href="https://dst.gov.in/schemes-programmes" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Schemes/ Programmes RDI Fund S&amp;amp;T Capacity Building Programmes Institutional Capacity Building Programmes Research &amp;amp; Development Programmes Innovation and Technology Development Programmes Science for Society Programmes National Missions International Cooperation &amp;amp; Mega Science S&amp;amp;T Data, Policy and T</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-a463ffaa7d</id>
+    <title>[Rolling / TBA] S&amp;T Capacity Building Programmes — DST</title>
+    <link href="https://dst.gov.in/human-capacity-building-programmes" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. S&amp;amp;T Capacity Building Programmes</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-050a1249f0</id>
+    <title>[Rolling / TBA] Institutional Capacity Building Programmes — DST</title>
+    <link href="https://dst.gov.in/institutional-capacity-building-programmes" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Institutional Capacity Building Programmes</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-865902f806</id>
+    <title>[Rolling / TBA] Research &amp; Development Programmes — DST</title>
+    <link href="https://dst.gov.in/research-development-programmes" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Research &amp;amp; Development Programmes</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f1c5ec5e61</id>
+    <title>[Rolling / TBA] Innovation and Technology Development Programmes — DST</title>
+    <link href="https://dst.gov.in/innovation-and-technology-development-programmes" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Innovation and Technology Development Programmes</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-50daaac1ae</id>
+    <title>[Rolling / TBA] Science for Society Programmes — DST</title>
+    <link href="https://dst.gov.in/science-society-programmes" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Science for Society Programmes</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-1b3e8a65bb</id>
+    <title>[Rolling / TBA] Science, Technology &amp; Innovation Policy 2013 — DST</title>
+    <link href="https://dst.gov.in/st-system-india/science-and-technology-policy-2013" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Science, Technology &amp;amp; Innovation Policy 2013</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-5d6d9e96dc</id>
+    <title>[Rolling / TBA] Awards/Prize/Result — DST</title>
+    <link href="https://dst.gov.in/whatsnew/prize-awards" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Awards/Prize/Result</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-4c45222709</id>
+    <title>[Rolling / TBA] Call For Proposals — DST</title>
+    <link href="https://dst.gov.in/call-for-proposals" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Call For Proposals</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-ea5f7f6a82</id>
+    <title>[Rolling / TBA] International Cooperation Calls/Announcements/Results — DST</title>
+    <link href="https://aistic.gov.in/ASEAN/ICDST" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. International Cooperation Calls/Announcements/Results</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-61fba2fa2e</id>
+    <title>[Rolling / TBA] India-France call for proposals in Applied Mathematics and Artificial Intelligence by DST and ANR — DST</title>
+    <link href="https://dst.gov.in/callforproposals/india-france-call-proposals-applied-mathematics-and-artificial-intelligence-dst-and" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. India-France call for proposals in Applied Mathematics and Artificial Intelligence by DST and ANR</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-83d95c6c82</id>
+    <title>[Rolling / TBA] India - Netherlands Hydrogen Fellowship Programme — DST</title>
+    <link href="https://dst.gov.in/callforproposals/india-netherlands-hydrogen-fellowship-programme" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. India - Netherlands Hydrogen Fellowship Programme</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-6620065bf4</id>
+    <title>[Rolling / TBA] Call for proposal of India Science and Research Fellowship (ISRF) 2025-26 — DST</title>
+    <link href="https://dst.gov.in/callforproposals/call-proposal-india-science-and-research-fellowship-isrf-2025-26" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Call for proposal of India Science and Research Fellowship (ISRF) 2025-26</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-903a8f1e3b</id>
+    <title>[Rolling / TBA] Call for Proposals (CFP) under Scheduled Cast Sub Plan (SCSP)  Mission सह-SANKALP — DST</title>
+    <link href="https://dst.gov.in/callforproposals/call-proposals-cfp-under-scheduled-cast-sub-plan-scsp-mission-%E0%A4%B8%E0%A4%B9-sankalp" rel="alternate"/>
+    <updated>2026-03-14T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Call for Proposals (CFP) under Scheduled Cast Sub Plan (SCSP)  Mission सह-SANKALP</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-75226675b5</id>
+    <title>[Rolling / TBA] Archive Call For Proposals — DST</title>
+    <link href="https://dst.gov.inarchive-call-for-proposals" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Archive Call For Proposals</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-35d74a8c7a</id>
+    <title>[Rolling / TBA] UGC Major Research Project (MRP) — UGC</title>
+    <link href="https://frg.ugc.ac.in/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: UGC (India) | Type: Research Grant | Amount: Up to ₹12 Lakhs (Sciences) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Humanities, Social Sciences, Engineering, Any | Eligibility: Faculty (Permanent), UGC 2(f)/12B Institution. Major Research Projects in Sciences (up to ₹12L) and Humanities/Social Sciences (up to ₹10L). For permanent faculty at UGC-recognized institutions.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-e7a3e7de71</id>
+    <title>[Rolling / TBA] UGC Faculty Recharge Programme (FRP) — UGC</title>
+    <link href="https://frg.ugc.ac.in/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: UGC (India) | Type: Fellowship | Amount: ₹50,000/month + research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: PhD Holder, Postdoc. Post-doctoral fellowship at Indian universities. Addresses shortage of quality faculty. Provides salary + research grant.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-e3a6d28e87</id>
+    <title>[Rolling / TBA] UGC Basic Scientific Research (BSR) Fellowship — UGC</title>
+    <link href="https://frg.ugc.ac.in/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: UGC (India) | Type: Fellowship | Amount: ₹25,000–28,000/month | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Basic Sciences, Mathematics, Life Sciences | Eligibility: PhD Student, UGC-recognized University. Research fellowships for meritorious students pursuing PhD in basic sciences at universities.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-3862e7c6b3</id>
+    <title>[Rolling / TBA] Web portal for
+                                            Fellowship/Scholarship Legacy Cases — UGC</title>
+    <link href="https://scholarship.canarabank.in/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: UGC (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Faculty, UGC Institution. UGC scheme: Web portal for
+                                            Fellowship/Scholarship Legacy Cases</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-d254870177</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for under Proposal Product Commercialization Program Fund... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=39&amp;scheme_type=29" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 122 BIRAC Announces Call for under Proposal Product Commercialization Program Fund... Opens on 01st January 2020 Last Date of Submission 31-Dec-2020</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-6fc2aa42cb</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposal under the National Green Hydrogen Mission  Extended Last date to apply – 05th February 2026... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=116&amp;scheme_type=52" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 1 BIRAC Announces Call for Proposal under the National Green Hydrogen Mission  Extended Last date to apply – 05th February 2026... Opens on 26th December 2025 Last Date of Submission 05-Feb-2026</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-49f6e658e1</id>
+    <title>[Rolling / TBA] GCI ANNOUNCES CALL FOR WOMEN’S LEADERSHIP IN STEM ENTREPRENEURSHIP... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=115&amp;scheme_type=6" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 2 GCI ANNOUNCES CALL FOR WOMEN’S LEADERSHIP IN STEM ENTREPRENEURSHIP... Opens on 18th December 2025 Last Date of Submission 23-Jan-2026</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-1c00193df1</id>
+    <title>[Rolling / TBA] BIRAC Announces 25th Call for Proposal under BIG Scheme  Last date to apply - 30th November, 2025 Midnight... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=32&amp;scheme_type=5" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 3 BIRAC Announces 25th Call for Proposal under BIG Scheme  Last date to apply - 30th November, 2025 Midnight... Opens on 01st November 2025 Last Date of Submission 30-Nov-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-94aa076544</id>
+    <title>[Rolling / TBA] Accelerating Innovation in Vaginal Formulations in Support of Women’s Health... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=113&amp;scheme_type=6" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 4 Accelerating Innovation in Vaginal Formulations in Support of Women’s Health... Opens on 28th October 2025 Last Date of Submission 16-Dec-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-dba848483d</id>
+    <title>[Rolling / TBA] BIRAC Announces 3rd Call for Proposal Under E-Yuva Scheme for BIRACs E-Yuva Fellows... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=112&amp;scheme_type=41" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 5 BIRAC Announces 3rd Call for Proposal Under E-Yuva Scheme for BIRACs E-Yuva Fellows... Opens on 15th October 2025 Last Date of Submission 15-Dec-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-a17329f63f</id>
+    <title>[Rolling / TBA] GRAND CHALLENGES INDIA CALL ON THE TRANSFORMATIVE SANITATION TECHNOLOGIES -TST... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=111&amp;scheme_type=6" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 6 GRAND CHALLENGES INDIA CALL ON THE TRANSFORMATIVE SANITATION TECHNOLOGIES -TST... Opens on 25th August 2025 Last Date of Submission 17-Nov-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-4c213d843e</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call For Proposals on Futuristic Marine Research For Fostering High Performance Biomanufacturing under BioE3 policy.... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=110&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 7 DBT-BIRAC Joint Call For Proposals on Futuristic Marine Research For Fostering High Performance Biomanufacturing under BioE3 policy.... Opens on 16th July 2025 Last Date of Submission 25-Aug-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-646a237c70</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call For Proposals on Biomanufacturing of Bio-Based Chemicals, Biopolymers and  APIs in Production Strains For Fostering High Performa... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=108&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 8 DBT-BIRAC Joint Call For Proposals on Biomanufacturing of Bio-Based Chemicals, Biopolymers and  APIs in Production Strains For Fostering High Performa... Opens on 12th June 2025 Last Date of Submission 14-Aug-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-513f6378cf</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on Functional Foods for Fostering High Performance Biomanufacturing under BioE3 Policy : Last Date : 10 July,2025... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=107&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 9 DBT-BIRAC Joint Call for Proposals on Functional Foods for Fostering High Performance Biomanufacturing under BioE3 Policy : Last Date : 10 July,2025... Opens on 02nd June 2025 Last Date of Submission 10-Jul-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-6d1584e234</id>
+    <title>[Rolling / TBA] DBT BIRAC Joint Call for Proposals on मूलांकुर Bioenablers: Biofoundries and Biomanufacturing hubs under BioE3 : Extended Date 15th Ju... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=106&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 10 DBT BIRAC Joint Call for Proposals on मूलांकुर Bioenablers: Biofoundries and Biomanufacturing hubs under BioE3 : Extended Date 15th Ju... Opens on 13th May 2025 Last Date of Submission 15-Jul-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-9ce616bba6</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on ‘Bio AI’ for Fostering High Performance Biomanufacturing under BioE3 Policy Extended Last Date :20th May,202... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=105&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 11 DBT-BIRAC Joint Call for Proposals on ‘Bio AI’ for Fostering High Performance Biomanufacturing under BioE3 Policy Extended Last Date :20th May,202... Opens on 22nd April 2025 Last Date of Submission 20-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-3e6ee14e86</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on Precision Biotherapeutics-monoclonal antibodies for Fostering High Performance Biomanufacturing under BioE3 Poli... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=103&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 12 DBT-BIRAC Joint Call for Proposals on Precision Biotherapeutics-monoclonal antibodies for Fostering High Performance Biomanufacturing under BioE3 Poli... Opens on 11th April 2025 Last Date of Submission 31-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-8c4faaa07c</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on Precision Biotherapeutics-mRNA Therapeutics for Fostering High Performance Biomanufacturing under BioE3 Policy :... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=104&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 13 DBT-BIRAC Joint Call for Proposals on Precision Biotherapeutics-mRNA Therapeutics for Fostering High Performance Biomanufacturing under BioE3 Policy :... Opens on 11th April 2025 Last Date of Submission 31-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f98574ca64</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under BIPP Last Date : 30th May, 2025... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=99&amp;scheme_type=1" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 14 BIRAC Announces Call for Proposals under BIPP Last Date : 30th May, 2025... Opens on 01st April 2025 Last Date of Submission 30-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-ef7a8f9fa8</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under PACE 01st April, 2025- 30th May,2025... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=100&amp;scheme_type=3" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 15 BIRAC Announces Call for Proposals under PACE 01st April, 2025- 30th May,2025... Opens on 01st April 2025 Last Date of Submission 30-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-b86d949f56</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under SBIRI Last Date : 30th May, 2025... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=57&amp;scheme_type=2" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 16 BIRAC Announces Call for Proposals under SBIRI Last Date : 30th May, 2025... Opens on 01st April 2025 Last Date of Submission 30-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-74f37c6172</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on Enzymes for Fostering High Performance Biomanufacturing under BioE3 Policy : Last Date : 10th May,2025... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=102&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 17 DBT-BIRAC Joint Call for Proposals on Enzymes for Fostering High Performance Biomanufacturing under BioE3 Policy : Last Date : 10th May,2025... Opens on 01st April 2025 Last Date of Submission 10-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-0243a5f957</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on Climate Resilient Agriculture for Fostering High Performance Biomanufacturing under BioE3 Policy Last Date : 15t... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=101&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 18 DBT-BIRAC Joint Call for Proposals on Climate Resilient Agriculture for Fostering High Performance Biomanufacturing under BioE3 Policy Last Date : 15t... Opens on 28th March 2025 Last Date of Submission 15-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-5c8ee62c57</id>
+    <title>[Rolling / TBA] Grand Challenges India Call on Enhanced TB Diagnostics and Adjunct Technologies for Sample Collection and Processing... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=100&amp;scheme_type=6" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 19 Grand Challenges India Call on Enhanced TB Diagnostics and Adjunct Technologies for Sample Collection and Processing... Opens on 03rd March 2025 Last Date of Submission 15-May-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-17877d95bf</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on Carbon Capture and its Utilization’ for Fostering High Performance Biomanufacturing under BioE3 Policy. Last D... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=99&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 20 DBT-BIRAC Joint Call for Proposals on Carbon Capture and its Utilization’ for Fostering High Performance Biomanufacturing under BioE3 Policy. Last D... Opens on 25th February 2025 Last Date of Submission 10-Apr-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-286847194f</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on ‘Smart Proteins’ for Fostering High Performance Biomanufacturing under BioE3 Policy Extended Date : 05th Apr... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=98&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 21 DBT-BIRAC Joint Call for Proposals on ‘Smart Proteins’ for Fostering High Performance Biomanufacturing under BioE3 Policy Extended Date : 05th Apr... Opens on 22nd February 2025 Last Date of Submission 05-Apr-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-a63f3f9165</id>
+    <title>[Rolling / TBA] DBT-BIRAC Joint Call for Proposals on ‘Precision Biotherapeutics-Cell and Gene Therapy’ for Fostering High Performance Biomanufacturing under BioE... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=97&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 22 DBT-BIRAC Joint Call for Proposals on ‘Precision Biotherapeutics-Cell and Gene Therapy’ for Fostering High Performance Biomanufacturing under BioE... Opens on 15th February 2025 Last Date of Submission 20-Mar-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-9ad6086b04</id>
+    <title>[Rolling / TBA] BIRAC ANNOUNCES CALL FOR PROPOSAL FOR BIRAC ENABLING DEVELOPMENT AND GROWTH OF ENTERPRISES  EDGE  CENTERS Last Date has been extended till 28th Februa... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=96&amp;scheme_type=49" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 23 BIRAC ANNOUNCES CALL FOR PROPOSAL FOR BIRAC ENABLING DEVELOPMENT AND GROWTH OF ENTERPRISES  EDGE  CENTERS Last Date has been extended till 28th Februa... Opens on 16th January 2025 Last Date of Submission 28-Feb-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-66947203e2</id>
+    <title>[Rolling / TBA] NBM and BIRAC announces request for expression of interest from eligible organizations on conductance of ISO 13485:2016 and Clinical Trials Training... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=95&amp;scheme_type=38" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 24 NBM and BIRAC announces request for expression of interest from eligible organizations on conductance of ISO 13485:2016 and Clinical Trials Training... Opens on 11th December 2024 Last Date of Submission 07-Jan-2025</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-37dc5c8ae7</id>
+    <title>[Rolling / TBA] DBT-BIRAC First Call for Proposals for AMRIT Team Grants... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=94&amp;scheme_type=47" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 25 DBT-BIRAC First Call for Proposals for AMRIT Team Grants... Opens on 28th October 2024 Last Date of Submission 27-Nov-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-e9a17cd22c</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under PACE 15th September, 2024- 30th November, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=97&amp;scheme_type=3" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 26 BIRAC Announces Call for Proposals under PACE 15th September, 2024- 30th November, 2024... Opens on 15th September 2024 Last Date of Submission 30-Nov-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-d0a3664e5e</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under BIPP Last Date : 30th Nov, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=98&amp;scheme_type=1" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 27 BIRAC Announces Call for Proposals under BIPP Last Date : 30th Nov, 2024... Opens on 15th September 2024 Last Date of Submission 30-Nov-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-8fe5748c42</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under SBIRI Last Date : 30th Nov, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=56&amp;scheme_type=2" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 28 BIRAC Announces Call for Proposals under SBIRI Last Date : 30th Nov, 2024... Opens on 15th September 2024 Last Date of Submission 30-Nov-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-6068aab648</id>
+    <title>[Rolling / TBA] BIRAC Announces 24th Call for Proposals under the Biotechnology Ignition Grant  BIG  Scheme - Last Date is extended till 10th June 2024 05:30 PM... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=31&amp;scheme_type=5" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 29 BIRAC Announces 24th Call for Proposals under the Biotechnology Ignition Grant  BIG  Scheme - Last Date is extended till 10th June 2024 05:30 PM... Opens on 15th April 2024 Last Date of Submission 14-Jun-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-3b0ad9b1f2</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under BIPP 01st April-15th May, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=95&amp;scheme_type=1" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 30 BIRAC Announces Call for Proposals under BIPP 01st April-15th May, 2024... Opens on 01st April 2024 Last Date of Submission 15-May-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-6e6a9f85de</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under PACE 01st April, 2024- 15th May, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=96&amp;scheme_type=3" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 31 BIRAC Announces Call for Proposals under PACE 01st April, 2024- 15th May, 2024... Opens on 01st April 2024 Last Date of Submission 15-May-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-fb747ee00d</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under SBIRI 01st April, 2024- 15th May, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=55&amp;scheme_type=2" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 32 BIRAC Announces Call for Proposals under SBIRI 01st April, 2024- 15th May, 2024... Opens on 01st April 2024 Last Date of Submission 15-May-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-80ccc5cd4c</id>
+    <title>[Rolling / TBA] Bio-Enabler: Biomanufacturing Hubs -  Call for proposals Extended till 14th November,2024 5:30 pm... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=93&amp;scheme_type=46" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 33 Bio-Enabler: Biomanufacturing Hubs -  Call for proposals Extended till 14th November,2024 5:30 pm... Opens on 25th February 2024 Last Date of Submission 14-Nov-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-4ed680e24e</id>
+    <title>[Rolling / TBA] BIRAC Announces National Call For Proposal under BioNEST Scheme  Last Date - 31st March, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=92&amp;scheme_type=9" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 34 BIRAC Announces National Call For Proposal under BioNEST Scheme  Last Date - 31st March, 2024... Opens on 15th February 2024 Last Date of Submission 31-Mar-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-402457dd1f</id>
+    <title>[Rolling / TBA] BIRAC announces call for proposal under Eyuva Fellow Scheme  Last Date - 15th March, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=90&amp;scheme_type=41" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 35 BIRAC announces call for proposal under Eyuva Fellow Scheme  Last Date - 15th March, 2024... Opens on 10th February 2024 Last Date of Submission 15-Mar-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-98c0358c3a</id>
+    <title>[Rolling / TBA] GCI ANNOUNCES CALL ON PROF. M. K. BHAN MID-CAREER RESEARCH FELLOWSHIP PROGRAM  Last Date - 30th April, 2024 05:00 PM... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=91&amp;scheme_type=6" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 36 GCI ANNOUNCES CALL ON PROF. M. K. BHAN MID-CAREER RESEARCH FELLOWSHIP PROGRAM  Last Date - 30th April, 2024 05:00 PM... Opens on 02nd February 2024 Last Date of Submission 30-Apr-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-2522d38e9a</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under BIPP 07th December, 2023-20th January, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=93&amp;scheme_type=1" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 37 BIRAC Announces Call for Proposals under BIPP 07th December, 2023-20th January, 2024... Opens on 07th December 2023 Last Date of Submission 20-Jan-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-dc74260ff0</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under PACE 07th December, 2023- 20th January, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=94&amp;scheme_type=3" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 38 BIRAC Announces Call for Proposals under PACE 07th December, 2023- 20th January, 2024... Opens on 07th December 2023 Last Date of Submission 20-Jan-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-75cf7232dc</id>
+    <title>[Rolling / TBA] BIRAC Announces Call for Proposals under SBIRI 07th December, 2023- 20th January, 2024... — BIRAC</title>
+    <link href="https://birac.nic.in/cfp_view.php?id=54&amp;scheme_type=2" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: BIRAC (India) | Type: Innovation Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biotechnology, Biopharma, MedTech, AgriTech | Eligibility: Startup, Faculty, Researcher, Industry. 39 BIRAC Announces Call for Proposals under SBIRI 07th December, 2023- 20th January, 2024... Opens on 07th December 2023 Last Date of Submission 20-Jan-2024</summary>
+    <category term="Innovation Grant" label="Innovation Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+</feed>

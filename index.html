@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grant Watch ⌛ — SASTRA</title>
+<style>
+  :root {
+    --bg: #f6f8fa;
+    --bg2: #ffffff;
+    --bg3: #f0f2f5;
+    --border: #d0d7de;
+    --text: #1a1f2e;
+    --text2: #57606a;
+    --text3: #8c959f;
+    --accent: #b45309;
+    --accent2: #92400e;
+    --india: #c0392b;
+    --intl: #0369a1;
+    --open: #16a34a;
+    --closed: #dc2626;
+    --font: 'DM Sans', system-ui, sans-serif;
+    --mono: 'JetBrains Mono', monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font);
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  /* HEADER */
+  header {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .logo {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    color: var(--text);
+  }
+  .logo span { color: var(--accent); }
+  .logo-sub {
+    font-size: 12px;
+    color: var(--text3);
+    font-family: var(--mono);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .header-right {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .meta-badge {
+    font-size: 12px;
+    font-family: var(--mono);
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 4px 12px;
+    color: var(--text2);
+  }
+  .meta-badge b { color: var(--accent); }
+  .sastra-badge {
+    font-size: 11px;
+    font-family: var(--mono);
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 20px;
+    padding: 4px 12px;
+    color: #1d4ed8;
+  }
+
+  /* STATS BAR */
+  .stats-bar {
+    display: flex;
+    gap: 1px;
+    background: var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .stat {
+    flex: 1;
+    background: var(--bg2);
+    padding: 14px 20px;
+    text-align: center;
+  }
+  .stat-n {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: var(--mono);
+    color: var(--accent);
+    display: block;
+  }
+  .stat-label {
+    font-size: 11px;
+    color: var(--text3);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+
+  /* CONTROLS */
+  .controls {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 24px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+  .search-wrap {
+    flex: 1;
+    min-width: 200px;
+    position: relative;
+  }
+  .search-wrap input {
+    width: 100%;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px 8px 36px;
+    color: var(--text);
+    font-size: 14px;
+    font-family: var(--font);
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .search-wrap input:focus { border-color: var(--accent); }
+  .search-wrap input::placeholder { color: var(--text3); }
+  .search-icon {
+    position: absolute;
+    left: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text3);
+    font-size: 14px;
+    pointer-events: none;
+  }
+  select {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    color: var(--text);
+    font-size: 13px;
+    font-family: var(--font);
+    outline: none;
+    cursor: pointer;
+    transition: border-color 0.15s;
+  }
+  select:focus { border-color: var(--accent); }
+
+  /* TAG FILTERS */
+  .tag-row {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 24px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: center;
+  }
+  .tag-label { font-size: 11px; color: var(--text3); margin-right: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .tag {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px 12px;
+    font-size: 12px;
+    color: var(--text2);
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: var(--mono);
+    user-select: none;
+  }
+  .tag:hover { border-color: var(--accent); color: var(--accent); }
+  .tag.active { background: #fef3c7; border-color: var(--accent); color: var(--accent); }
+  .tag.india.active { background: #fee2e2; border-color: var(--india); color: var(--india); }
+  .tag.intl.active  { background: #e0f2fe; border-color: var(--intl); color: var(--intl); }
+
+  /* GRID */
+  .grid-wrap {
+    padding: 20px 24px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  .grid-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+  .grid-count {
+    font-size: 13px;
+    font-family: var(--mono);
+    color: var(--text3);
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 12px;
+  }
+
+  /* GRANT CARD */
+  .card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+    transition: border-color 0.15s, transform 0.1s;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .card:hover {
+    border-color: #8b949e;
+    transform: translateY(-1px);
+  }
+  .card-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .card-agency {
+    font-size: 11px;
+    font-family: var(--mono);
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .card-agency.india { color: var(--india); }
+  .card-agency.intl  { color: var(--intl); }
+  .badge {
+    font-size: 10px;
+    font-family: var(--mono);
+    border-radius: 20px;
+    padding: 2px 8px;
+    white-space: nowrap;
+    border: 1px solid;
+  }
+  .badge-open   { color: var(--open);   border-color: var(--open);   background: #dcfce7; }
+  .badge-closed { color: var(--closed); border-color: var(--closed); background: #fee2e2; }
+  .card-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.4;
+  }
+  .card-desc {
+    font-size: 13px;
+    color: var(--text2);
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 2px;
+  }
+  .meta-chip {
+    font-size: 11px;
+    font-family: var(--mono);
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 7px;
+    color: var(--text3);
+  }
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid var(--border);
+    padding-top: 10px;
+    margin-top: 2px;
+  }
+  .deadline {
+    font-size: 12px;
+    font-family: var(--mono);
+  }
+  .deadline.soon   { color: #f0b429; }
+  .deadline.urgent { color: #f85149; }
+  .deadline.none   { color: var(--text3); }
+  .deadline.ok     { color: var(--text2); }
+  .amount {
+    font-size: 12px;
+    color: var(--text2);
+    font-family: var(--mono);
+    text-align: right;
+  }
+  .card-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    color: var(--accent);
+    text-decoration: none;
+    margin-top: 4px;
+  }
+  .card-link:hover { text-decoration: underline; }
+
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text3);
+    font-size: 14px;
+    grid-column: 1/-1;
+  }
+  .empty-icon { font-size: 40px; margin-bottom: 12px; }
+
+  /* FOOTER */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 16px 24px;
+    text-align: center;
+    font-size: 12px;
+    color: var(--text3);
+    font-family: var(--mono);
+    margin-top: 40px;
+  }
+  footer b { color: var(--accent); }
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 18px 24px;
+    text-align: center;
+    font-size: 12px;
+    color: var(--text3);
+    font-family: var(--mono);
+    margin-top: 40px;
+    line-height: 1.8;
+  }
+
+  @media (max-width: 600px) {
+    .stats-bar { flex-wrap: wrap; }
+    .grid { grid-template-columns: 1fr; }
+    header { flex-wrap: wrap; }
+  }
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <div style="display:flex;align-items:center;gap:14px;">
+    <!-- Grant Watch Logo — hourglass with grant-flow motif -->
+    <svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg" style="flex-shrink:0;">
+      <rect width="38" height="38" rx="10" fill="#b45309"/>
+      <!-- Hourglass outer shape -->
+      <path d="M10 7h18M10 31h18" stroke="#fef3c7" stroke-width="2.5" stroke-linecap="round"/>
+      <!-- Top triangle (sand falling) -->
+      <path d="M11 8.5 L19 19 L27 8.5Z" fill="#fef3c7" opacity="0.9"/>
+      <!-- Bottom triangle (collecting) -->
+      <path d="M11 29.5 L19 19 L27 29.5Z" fill="#fef3c7" opacity="0.5"/>
+      <!-- Center dot — the grant opportunity -->
+      <circle cx="19" cy="19" r="2.2" fill="#b45309"/>
+      <!-- Small dots ascending = opportunities found -->
+      <circle cx="16" cy="25.5" r="1.1" fill="#fef3c7" opacity="0.8"/>
+      <circle cx="19" cy="27" r="1.1" fill="#fef3c7" opacity="0.9"/>
+      <circle cx="22" cy="25.5" r="1.1" fill="#fef3c7" opacity="0.8"/>
+    </svg>
+    <div>
+      <div class="logo">Grant Watch <span>⌛</span></div>
+      <div class="logo-sub">SASTRA Deemed University · Research Funding Portal · Refreshed bi-weekly</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="sastra-badge">Made for SASTRA</div>
+    <div class="meta-badge">Updated <b id="last-updated">—</b></div>
+  </div>
+</header>
+
+<div class="stats-bar">
+  <div class="stat"><span class="stat-n" id="s-total">—</span><span class="stat-label">Total Grants</span></div>
+  <div class="stat"><span class="stat-n" id="s-open" style="color:var(--open)">—</span><span class="stat-label">Open Calls</span></div>
+  <div class="stat"><span class="stat-n" id="s-india" style="color:var(--india)">—</span><span class="stat-label">Indian Agencies</span></div>
+  <div class="stat"><span class="stat-n" id="s-intl" style="color:var(--intl)">—</span><span class="stat-label">International</span></div>
+  <div class="stat"><span class="stat-n" id="s-deadline" style="color:#f0b429">—</span><span class="stat-label">Closing in 30d</span></div>
+</div>
+
+<div class="controls">
+  <div class="search-wrap">
+    <span class="search-icon">⌕</span>
+    <input type="text" id="search" placeholder="Search grants, agencies, disciplines…">
+  </div>
+  <select id="filter-agency">
+    <option value="">All Agencies</option>
+  </select>
+  <select id="filter-discipline">
+    <option value="">All Disciplines</option>
+  </select>
+  <select id="sort-by">
+    <option value="deadline">Sort: Deadline</option>
+    <option value="agency">Sort: Agency</option>
+    <option value="title">Sort: Title</option>
+  </select>
+</div>
+
+<div id="urgency-banner" style="display:none; background:#fef3c7; border-bottom:1px solid #fcd34d; padding:10px 24px; font-size:13px; font-family:var(--mono); color:#92400e; align-items:center; gap:10px; flex-wrap:wrap;"></div>
+
+<div class="tag-row">
+  <span class="tag-label">Filter:</span>
+  <span class="tag active" data-group="reset" data-filter="all">All</span>
+  <span class="tag india" data-group="country" data-filter="India">Indian</span>
+  <span class="tag intl"  data-group="country" data-filter="International">International</span>
+  <span class="tag" data-group="status" data-filter="open">Open only</span>
+  <span class="tag" data-group="type" data-filter="Fellowship">Fellowships</span>
+  <span class="tag" data-group="type" data-filter="Travel Grant">Travel Grants</span>
+  <span class="tag" data-group="type" data-filter="Conference Grant">Conference Grants</span>
+  <span class="tag" data-group="type" data-filter="Collaborative Grant">Bilateral</span>
+  <span class="tag" data-group="type" data-filter="Startup Grant">Startup</span>
+  <span class="tag" data-group="type" data-filter="Innovation Grant">Innovation</span>
+</div>
+
+<div id="active-chips" style="display:none; padding:8px 24px; background:var(--bg2); border-bottom:1px solid var(--border); flex-wrap:wrap; gap:6px; align-items:center;"></div>
+
+<div class="grid-wrap">
+  <div class="grid-header">
+    <span class="grid-count" id="result-count">Loading grants…</span>
+  </div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<footer>
+  <div style="display:flex;flex-direction:column;align-items:center;gap:5px;">
+    <div>Grant Watch ⏳ · Data refreshed bi-weekly via GitHub Actions</div>
+    <div style="font-size:11px;opacity:0.8;">
+      Developed for <b>SASTRA University</b> by <b>Pranavathiyani G</b> ☮️
+      &nbsp;·&nbsp; Co-developed with <b>Claude</b> 💜
+    </div>
+  </div>
+</footer>
+
+<script>
+const GRANTS_URL = "data/grants.json";
+let allGrants = [];
+
+const activeFilters = {
+  country: new Set(),
+  status:  new Set(),
+  type:    new Set(),
+};
+
+const SEED = [
+  {id:"anrf-core001",title:"ANRF Core Research Grant (CRG)",agency:"ANRF",country:"India",grant_type:"Research Grant",amount:"Up to \u20b950 Lakhs (3 years)",description:"Supports research proposals in basic and applied sciences from faculty at Indian academic institutions.",url:"https://anrf.gov.in/en/calls-for-proposals",deadline:null,eligibility:["Faculty","Researcher"],disciplines:["Science","Engineering","Technology"],status:"open",last_updated:"2026-03-14"},
+  {id:"dbt-bnc001",title:"DBT-BioCARe",agency:"DBT",country:"India",grant_type:"Fellowship",amount:"Up to \u20b955 Lakhs",description:"Women scientist scheme for re-entry into mainstream S&T.",url:"https://dbtindia.gov.in",deadline:null,eligibility:["Women Scientist","Faculty"],disciplines:["Biotechnology","Life Sciences"],status:"open",last_updated:"2026-03-14"},
+  {id:"wellcome-ia001",title:"Wellcome India Alliance \u2014 Intermediate Fellowship",agency:"Wellcome DBT India Alliance",country:"International",grant_type:"Fellowship",amount:"Up to \u20b93.25 Crores (5 years)",description:"For Indian researchers with a strong track record seeking independence.",url:"https://indiaalliance.org/apply-for-a-grant/intermediate-fellowship",deadline:"2026-06-15",eligibility:["Early Career Researcher","Faculty"],disciplines:["Biomedical","Life Sciences"],status:"open",last_updated:"2026-03-14"},
+  {id:"icgeb-crp2026",title:"ICGEB CRP Research Grant 2026",agency:"ICGEB",country:"International",grant_type:"Research Grant",amount:"Varies (USD)",description:"Collaborative Research Programme. India is a member state. Deadline April 30 2026.",url:"https://www.icgeb.org/grants/",deadline:"2026-04-30",eligibility:["Faculty"],disciplines:["Biotechnology","Life Sciences","AMR"],status:"open",last_updated:"2026-03-14"},
+  {id:"igstc-wiser001",title:"IGSTC WISER \u2014 Indo-German Women in STEM",agency:"DST (Bilateral)",country:"India",grant_type:"Collaborative Grant",amount:"\u20b939 Lakhs + \u20ac48,000",description:"Paired mode: Indian woman PI + German woman PI. Deadline March 31 2026.",url:"https://www.igstc.org/programme/wiser",deadline:"2026-03-31",eligibility:["Women Faculty"],disciplines:["STEM","Life Sciences"],status:"open",last_updated:"2026-03-14"},
+];
+
+function daysUntil(d) {
+  if (!d) return null;
+  return Math.ceil((new Date(d) - new Date()) / 86400000);
+}
+
+function deadlineDisplay(d) {
+  const n = daysUntil(d);
+  if (n === null)  return { text: "Rolling / TBA", cls: "none" };
+  if (n < 0)       return { text: "Closed",        cls: "none" };
+  if (n <= 7)      return { text: "\u26a0 " + n + "d left", cls: "urgent" };
+  if (n <= 30)     return { text: n + "d left",     cls: "soon" };
+  return {
+    text: new Date(d).toLocaleDateString("en-IN", { day:"numeric", month:"short", year:"numeric" }),
+    cls: "ok"
+  };
+}
+
+function buildCard(g) {
+  const dl   = deadlineDisplay(g.deadline);
+  const isIn = g.country === "India";
+  const chips = (g.disciplines||[]).slice(0,3).map(d => `<span class="meta-chip">${d}</span>`).join("");
+  return `<div class="card" onclick="window.open('${g.url}','_blank')">
+    <div class="card-top">
+      <span class="card-agency ${isIn?'india':'intl'}">${g.agency}</span>
+      <span class="badge badge-${g.status==='open'?'open':'closed'}">${g.status.toUpperCase()}</span>
+    </div>
+    <div class="card-title">${g.title}</div>
+    ${g.description?`<div class="card-desc">${g.description}</div>`:""}
+    <div class="card-meta">${chips}<span class="meta-chip">${g.grant_type}</span></div>
+    <div class="card-footer">
+      <span class="deadline ${dl.cls}">⌛ ${dl.text}</span>
+      <span class="amount">${g.amount}</span>
+    </div>
+  </div>`;
+}
+
+async function renderUrgencyBanner(grants) {
+  // Try urgent.json first (updated daily by GitHub Actions)
+  // Falls back to computing from grants array
+  let urgent = [];
+  try {
+    const u = await fetch("data/urgent.json").then(r => r.json());
+    urgent = (u.closing_7d || []).map(g => ({...g, d: g.days_left}));
+  } catch {
+    urgent = grants
+      .filter(g => g.status === "open")
+      .map(g => ({...g, d: daysUntil(g.deadline)}))
+      .filter(g => g.d !== null && g.d >= 0 && g.d <= 7)
+      .sort((a,b) => a.d - b.d);
+  }
+  const banner = document.getElementById("urgency-banner");
+  if (!urgent.length) { banner.style.display = "none"; return; }
+  banner.style.display = "flex";
+  banner.innerHTML = "<span>\u26a0 Closing within 7 days:</span>" +
+    urgent.map(g =>
+      `<a href="${g.url}" target="_blank" style="color:#92400e;font-weight:600;text-decoration:none;border:1px solid #fcd34d;border-radius:20px;padding:2px 10px;background:#fef9ee;">${(g.title||"").length>42?(g.title||"").slice(0,40)+"\u2026":(g.title||"")} (${g.d}d)</a>`
+    ).join("") +
+    `<span onclick="document.getElementById('urgency-banner').style.display='none'" style="margin-left:auto;cursor:pointer;font-size:11px;opacity:0.5;">dismiss</span>`;
+}
+
+function renderActiveChips() {
+  const all = [
+    ...[...activeFilters.country].map(f => ({f, group:"country"})),
+    ...[...activeFilters.status].map(f  => ({f, group:"status"})),
+    ...[...activeFilters.type].map(f    => ({f, group:"type"})),
+  ];
+  const bar = document.getElementById("active-chips");
+  if (!all.length) { bar.style.display = "none"; return; }
+  bar.style.display = "flex";
+  bar.innerHTML =
+    `<span style="font-size:11px;color:var(--text3);font-family:var(--mono);text-transform:uppercase;letter-spacing:0.5px;">Active:</span>` +
+    all.map(({f,group}) =>
+      `<span onclick="removeFilter('${group}','${f}')" style="cursor:pointer;font-size:12px;font-family:var(--mono);background:var(--bg3);border:1px solid var(--border);border-radius:20px;padding:3px 10px;color:var(--text2);">${f} \u2715</span>`
+    ).join("") +
+    `<span onclick="clearAllFilters()" style="cursor:pointer;font-size:11px;color:var(--text3);font-family:var(--mono);text-decoration:underline;margin-left:4px;">Clear all</span>`;
+}
+
+function removeFilter(group, value) {
+  activeFilters[group].delete(value);
+  syncTagHighlights();
+  filterAndRender();
+}
+
+function clearAllFilters() {
+  activeFilters.country.clear();
+  activeFilters.status.clear();
+  activeFilters.type.clear();
+  document.querySelectorAll(".tag").forEach(t => t.classList.remove("active"));
+  document.querySelector("[data-filter=\"all\"]").classList.add("active");
+  filterAndRender();
+}
+
+function syncTagHighlights() {
+  const allEmpty = !activeFilters.country.size && !activeFilters.status.size && !activeFilters.type.size;
+  document.querySelectorAll(".tag").forEach(tag => {
+    const f = tag.dataset.filter;
+    const g = tag.dataset.group;
+    if (f === "all") tag.classList.toggle("active", allEmpty);
+    else tag.classList.toggle("active", activeFilters[g]?.has(f) ?? false);
+  });
+}
+
+function renderStats(grants) {
+  const open  = grants.filter(g => g.status === "open");
+  const india = grants.filter(g => g.country === "India");
+  const intl  = grants.filter(g => g.country === "International");
+  const soon  = grants.filter(g => { const d = daysUntil(g.deadline); return d !== null && d >= 0 && d <= 30; });
+  document.getElementById("s-total").textContent    = grants.length;
+  document.getElementById("s-open").textContent     = open.length;
+  document.getElementById("s-india").textContent    = india.length;
+  document.getElementById("s-intl").textContent     = intl.length;
+  document.getElementById("s-deadline").textContent = soon.length;
+}
+
+function populateFilters(grants) {
+  const agencies    = [...new Set(grants.map(g => g.agency))].sort();
+  const disciplines = [...new Set(grants.flatMap(g => g.disciplines||[]))].sort();
+  const aS = document.getElementById("filter-agency");
+  agencies.forEach(a => { const o = document.createElement("option"); o.value=a; o.textContent=a; aS.appendChild(o); });
+  const dS = document.getElementById("filter-discipline");
+  disciplines.forEach(d => { const o = document.createElement("option"); o.value=d; o.textContent=d; dS.appendChild(o); });
+}
+
+function filterAndRender() {
+  const q   = document.getElementById("search").value.toLowerCase();
+  const ag  = document.getElementById("filter-agency").value;
+  const dis = document.getElementById("filter-discipline").value;
+  const srt = document.getElementById("sort-by").value;
+  let grants = [...allGrants];
+
+  if (activeFilters.country.size) grants = grants.filter(g => activeFilters.country.has(g.country));
+  if (activeFilters.status.has("open")) grants = grants.filter(g => g.status === "open");
+  if (activeFilters.type.size)    grants = grants.filter(g => activeFilters.type.has(g.grant_type));
+  if (ag)  grants = grants.filter(g => g.agency === ag);
+  if (dis) grants = grants.filter(g => (g.disciplines||[]).includes(dis));
+  if (q)   grants = grants.filter(g =>
+    (g.title+g.agency+g.description+(g.disciplines||[]).join(" ")).toLowerCase().includes(q)
+  );
+
+  if (srt === "deadline") {
+    grants.sort((a,b) => (a.deadline||"9999-12-31").localeCompare(b.deadline||"9999-12-31"));
+  } else if (srt === "agency") {
+    grants.sort((a,b) => a.agency.localeCompare(b.agency));
+  } else {
+    grants.sort((a,b) => a.title.localeCompare(b.title));
+  }
+
+  const totalActive = activeFilters.country.size + activeFilters.status.size + activeFilters.type.size;
+  const filterLabel = totalActive ? ` \u00b7 ${totalActive} filter${totalActive>1?"s":""} active` : "";
+  document.getElementById("result-count").textContent =
+    `Showing ${grants.length} of ${allGrants.length} grants${filterLabel}`;
+
+  renderActiveChips();
+
+  const grid = document.getElementById("grid");
+  if (!grants.length) {
+    grid.innerHTML = `<div class="empty-state"><div class="empty-icon">\ud83d\udd0d</div>No grants match your filters.<br><span onclick="clearAllFilters()" style="cursor:pointer;text-decoration:underline;">Clear all filters</span></div>`;
+    return;
+  }
+  grid.innerHTML = grants.map(buildCard).join("");
+}
+
+async function init() {  // async throughout for urgent.json fetch
+  try {
+    const resp = await fetch(GRANTS_URL);
+    if (!resp.ok) throw new Error();
+    allGrants = await resp.json();
+  } catch { allGrants = SEED; }
+
+  try {
+    const meta = await fetch("data/meta.json").then(r => r.json());
+    document.getElementById("last-updated").textContent =
+      new Date(meta.last_updated).toLocaleDateString("en-IN", {day:"numeric",month:"short",year:"numeric"});
+  } catch {
+    document.getElementById("last-updated").textContent =
+      new Date().toLocaleDateString("en-IN", {day:"numeric",month:"short"});
+  }
+
+  renderStats(allGrants);
+  populateFilters(allGrants);
+  await renderUrgencyBanner(allGrants);  // reads urgent.json (daily updated)
+  filterAndRender();
+
+  document.getElementById("search").addEventListener("input", filterAndRender);
+  document.getElementById("filter-agency").addEventListener("change", filterAndRender);
+  document.getElementById("filter-discipline").addEventListener("change", filterAndRender);
+  document.getElementById("sort-by").addEventListener("change", filterAndRender);
+
+  document.querySelectorAll(".tag").forEach(tag => {
+    tag.addEventListener("click", () => {
+      const filter = tag.dataset.filter;
+      const group  = tag.dataset.group;
+      if (filter === "all") { clearAllFilters(); return; }
+      if (activeFilters[group].has(filter)) activeFilters[group].delete(filter);
+      else activeFilters[group].add(filter);
+      syncTagHighlights();
+      filterAndRender();
+    });
+  });
+}
+
+init();
+</script>
+</body>
+</html>

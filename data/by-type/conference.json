@@ -1,0 +1,79 @@
+{
+  "category": "conference",
+  "generated": "2026-03-15T02:18:47Z",
+  "total": 3,
+  "open": 3,
+  "grants": [
+    {
+      "id": "csir-symp001",
+      "title": "CSIR Symposia/Conference Grant",
+      "agency": "CSIR",
+      "country": "India",
+      "grant_type": "Conference Grant",
+      "amount": "Up to ₹2 Lakhs",
+      "description": "Supports organization of national/international conferences and symposia at Indian institutions.",
+      "url": "https://www.csir.res.in/funding",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-14"
+    },
+    {
+      "id": "3c685a91fa",
+      "title": "EMBO Workshop Organizing Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Conference Grant",
+      "amount": "Up to €42,500 per workshop",
+      "description": "Scientists can apply to organize an EMBO Workshop anywhere in the world, including India. Core funding up to €35,000 + €5,500 for participant travel grants + €1,000 childcare + €1,000 accessibility = up to €42,500. EMBO handles registration, abstract submission, and workshop webpage. Highly relevant for faculty hosting life science conferences.",
+      "url": "https://www.embo.org/funding/funding-for-conferences-and-training/workshops/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Senior Researcher",
+        "Any EMBO Member State or beyond"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology",
+        "Computational Biology",
+        "Bioinformatics",
+        "Any life science"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "19b8303732",
+      "title": "EMBO Lecture Course Organizing Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Conference Grant",
+      "amount": "Up to €30,000 per course",
+      "description": "EMBO funds practical lecture courses in life sciences. Organisers apply to run intensive training courses. Supports curriculum, invited speakers, and participant scholarships. Can be hosted in India.",
+      "url": "https://www.embo.org/funding/funding-for-conferences-and-training/lecture-courses/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Senior Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology",
+        "Bioinformatics"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    }
+  ]
+}
