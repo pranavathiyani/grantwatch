@@ -1,6 +1,6 @@
 {
   "category": "travel",
-  "generated": "2026-03-15T06:33:28Z",
+  "generated": "2026-03-15T07:42:10Z",
   "total": 22,
   "open": 20,
   "grants": [
@@ -24,30 +24,6 @@
         "Life Sciences",
         "Biotechnology",
         "Genetic Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "8dc5cbb0f0",
-      "title": "ANRF SIRE — Short-term International Research Experience",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Travel Grant",
-      "amount": "Travel + subsistence (as per norms)",
-      "description": "Supports Indian researchers for short-term research visits (1–6 months) to overseas labs. For PhD students, postdocs, and early career faculty. Rolling applications.",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Postdoc",
-        "Early Career Faculty"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering",
-        "Technology"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
@@ -114,76 +90,6 @@
       "disciplines": [
         "Science",
         "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f5aa8eef44",
-      "title": "EMBL Course and Conference Travel Grant",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Variable cap per event (travel + accommodation + registration)",
-      "description": "EMBL provides travel grants for researchers to attend EMBL/EMBO courses and conferences. Covers airfare, accommodation, visa, registration fees. Apply during abstract/motivation letter submission for each event. Selection based on scientific merit, location, career stage.",
-      "url": "https://www.embl.org/about/info/course-and-conference-office/information-for-participants/financial-assistance/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Postdoc",
-        "Early Career Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Bioinformatics",
-        "Computational Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "385b726b4b",
-      "title": "EMBO Scientific Exchange Grant",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Up to €2,500",
-      "description": "Supports short scientific visits to labs in EMBC member/associate countries. Rolling deadline, decisions within 6 weeks.",
-      "url": "https://www.embo.org/funding-awards/scientific-exchange-grants/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Postdoc",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "ae2c61745a",
-      "title": "EMBO Short-Term Fellowship",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Travel Grant",
-      "amount": "Stipend + travel",
-      "description": "Up to 3 months at EMBC member country lab. For PhD students and postdocs. Rolling applications.",
-      "url": "https://www.embo.org/funding-awards/short-term-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Student",
-        "Postdoc",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
@@ -368,6 +274,100 @@
         "Biomedical Research",
         "Public Health",
         "Clinical Research"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "8dc5cbb0f0",
+      "title": "ANRF SIRE — Short-term International Research Experience",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Travel Grant",
+      "amount": "Travel + subsistence (as per norms)",
+      "description": "Supports Indian researchers for short-term research visits (1–6 months) to overseas labs. For PhD students, postdocs, and early career faculty. Rolling applications.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Early Career Faculty"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f5aa8eef44",
+      "title": "EMBL Course and Conference Travel Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Variable cap per event (travel + accommodation + registration)",
+      "description": "EMBL provides travel grants for researchers to attend EMBL/EMBO courses and conferences. Covers airfare, accommodation, visa, registration fees. Apply during abstract/motivation letter submission for each event. Selection based on scientific merit, location, career stage.",
+      "url": "https://www.embl.org/about/info/course-and-conference-office/information-for-participants/financial-assistance/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Early Career Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Bioinformatics",
+        "Computational Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "385b726b4b",
+      "title": "EMBO Scientific Exchange Grant",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Up to €2,500",
+      "description": "Supports short scientific visits to labs in EMBC member/associate countries. Rolling deadline, decisions within 6 weeks.",
+      "url": "https://www.embo.org/funding-awards/scientific-exchange-grants/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "ae2c61745a",
+      "title": "EMBO Short-Term Fellowship",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Travel Grant",
+      "amount": "Stipend + travel",
+      "description": "Up to 3 months at EMBC member country lab. For PhD students and postdocs. Rolling applications.",
+      "url": "https://www.embo.org/funding-awards/short-term-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Student",
+        "Postdoc",
+        "Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology"
       ],
       "status": "open",
       "last_updated": "2026-03-15"

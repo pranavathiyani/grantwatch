@@ -1,8 +1,8 @@
 {
   "category": "startup",
-  "generated": "2026-03-15T06:33:28Z",
-  "total": 11,
-  "open": 11,
+  "generated": "2026-03-15T07:42:10Z",
+  "total": 12,
+  "open": 12,
   "grants": [
     {
       "id": "0a1b8f8afa",
@@ -225,6 +225,31 @@
         "Biotechnology",
         "Life Sciences",
         "MedTech"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "f4a3ac0efb",
+      "title": "DST-NIDHI PRAYAS Grant (Proof of Concept)",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Startup Grant",
+      "amount": "Up to ₹10 Lakhs",
+      "description": "Seed funding for proof-of-concept for technology startups. Part of DST's NIDHI (National Initiative for Developing and Harnessing Innovations) programme.",
+      "url": "https://nidhi.dst.gov.in/prayas",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Startup",
+        "Innovator",
+        "Faculty Entrepreneur"
+      ],
+      "disciplines": [
+        "Technology",
+        "Engineering",
+        "Biotechnology",
+        "Any"
       ],
       "status": "open",
       "last_updated": "2026-03-15"

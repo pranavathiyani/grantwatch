@@ -5,7 +5,7 @@
   <link href="https://pranavathiyani.github.io/grantwatch/data/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pranavathiyani.github.io/grantwatch" rel="alternate" type="text/html"/>
   <id>https://pranavathiyani.github.io/grantwatch/data/feed.xml</id>
-  <updated>2026-03-15T06:33:28Z</updated>
+  <updated>2026-03-15T07:42:10Z</updated>
   <author><name>Grant Watch ⌛ · SASTRA University</name><email>pranavathiyani@scbt.sastra.edu</email></author>
   <rights>Data is publicly sourced. Grant Watch aggregates for SASTRA researchers.</rights>
 
@@ -210,16 +210,6 @@
   </entry>
 
   <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-anrf-core001</id>
-    <title>[Rolling / TBA] ANRF Core Research Grant (CRG) — ANRF</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-14T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: Up to ₹50 Lakhs (3 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology, Humanities | Eligibility: Faculty, Researcher, Indian Institution. Supports research proposals in basic and applied sciences from faculty at Indian academic institutions.</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
     <id>https://pranavathiyani.github.io/grantwatch#grant-csir-symp001</id>
     <title>[Rolling / TBA] CSIR Symposia/Conference Grant — CSIR</title>
     <link href="https://www.csir.res.in/funding" rel="alternate"/>
@@ -294,7 +284,7 @@
     <title>[Rolling / TBA] DST-FIST (Fund for Improvement of S&amp;T Infrastructure) — DST</title>
     <link href="https://dst.gov.in/scientific-programmes/scientific-engineering-research/fist" rel="alternate"/>
     <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Infrastructure Grant | Amount: Up to ₹2 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: University, College, Department. Infrastructure grant for upgrading S&amp;amp;T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr).</summary>
+    <summary type="text">Agency: DST (India) | Type: Infrastructure Grant | Amount: Up to ₹2 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: University, College, Department. Infrastructure grant for upgrading S&amp;amp;T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr). Rolling applications.</summary>
     <category term="Infrastructure Grant" label="Infrastructure Grant"/>
     <category term="India" label="India"/>
   </entry>
@@ -304,7 +294,7 @@
     <title>[Rolling / TBA] DST-PURSE (Promotion of University Research and Scientific Excellence) — DST</title>
     <link href="https://dst.gov.in/scientific-programmes/scientific-engineering-research/purse" rel="alternate"/>
     <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Infrastructure Grant | Amount: Up to ₹5 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: University with strong research output. Grants to universities with good research output to strengthen research infrastructure and programs.</summary>
+    <summary type="text">Agency: DST (India) | Type: Infrastructure Grant | Amount: Up to ₹5 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: University with strong research output. Grants to universities with strong research output to strengthen research infrastructure. Based on publication metrics.</summary>
     <category term="Infrastructure Grant" label="Infrastructure Grant"/>
     <category term="India" label="India"/>
   </entry>
@@ -314,107 +304,7 @@
     <title>[Rolling / TBA] DST Science and Heritage Research Initiative (SHRI) — DST</title>
     <link href="https://dst.gov.in/call-for-proposals" rel="alternate"/>
     <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Heritage Studies, Traditional Knowledge | Eligibility: Faculty, Researcher. Research integrating modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-34cf9949eb</id>
-    <title>[Rolling / TBA] Schemes/ Programmes — DST</title>
-    <link href="https://dst.gov.in/schemes-programmes" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Schemes/ Programmes RDI Fund S&amp;amp;T Capacity Building Programmes Institutional Capacity Building Programmes Research &amp;amp; Development Programmes Innovation and Technology Development Programmes Science for Society Programmes National Missions International Cooperation &amp;amp; Mega Science S&amp;amp;T Data, Policy and T</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-a463ffaa7d</id>
-    <title>[Rolling / TBA] S&amp;T Capacity Building Programmes — DST</title>
-    <link href="https://dst.gov.in/human-capacity-building-programmes" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. S&amp;amp;T Capacity Building Programmes</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-050a1249f0</id>
-    <title>[Rolling / TBA] Institutional Capacity Building Programmes — DST</title>
-    <link href="https://dst.gov.in/institutional-capacity-building-programmes" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Institutional Capacity Building Programmes</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-865902f806</id>
-    <title>[Rolling / TBA] Research &amp; Development Programmes — DST</title>
-    <link href="https://dst.gov.in/research-development-programmes" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Research &amp;amp; Development Programmes</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-f1c5ec5e61</id>
-    <title>[Rolling / TBA] Innovation and Technology Development Programmes — DST</title>
-    <link href="https://dst.gov.in/innovation-and-technology-development-programmes" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Innovation and Technology Development Programmes</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-50daaac1ae</id>
-    <title>[Rolling / TBA] Science for Society Programmes — DST</title>
-    <link href="https://dst.gov.in/science-society-programmes" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Science for Society Programmes</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-1b3e8a65bb</id>
-    <title>[Rolling / TBA] Science, Technology &amp; Innovation Policy 2013 — DST</title>
-    <link href="https://dst.gov.in/st-system-india/science-and-technology-policy-2013" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Science, Technology &amp;amp; Innovation Policy 2013</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-5d6d9e96dc</id>
-    <title>[Rolling / TBA] Awards/Prize/Result — DST</title>
-    <link href="https://dst.gov.in/whatsnew/prize-awards" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Awards/Prize/Result</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-4c45222709</id>
-    <title>[Rolling / TBA] Call For Proposals — DST</title>
-    <link href="https://dst.gov.in/call-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Call For Proposals</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-ea5f7f6a82</id>
-    <title>[Rolling / TBA] International Cooperation Calls/Announcements/Results — DST</title>
-    <link href="https://aistic.gov.in/ASEAN/ICDST" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. International Cooperation Calls/Announcements/Results</summary>
+    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Heritage Studies, Traditional Knowledge | Eligibility: Faculty, Researcher. Integrates modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
   </entry>
@@ -455,16 +345,6 @@
     <link href="https://dst.gov.in/callforproposals/call-proposals-cfp-under-scheduled-cast-sub-plan-scsp-mission-%E0%A4%B8%E0%A4%B9-sankalp" rel="alternate"/>
     <updated>2026-03-14T00:00:00Z</updated>
     <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Call for Proposals (CFP) under Scheduled Cast Sub Plan (SCSP)  Mission सह-SANKALP</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-75226675b5</id>
-    <title>[Rolling / TBA] Archive Call For Proposals — DST</title>
-    <link href="https://dst.gov.inarchive-call-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Researcher. Archive Call For Proposals</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
   </entry>
@@ -582,81 +462,11 @@
   </entry>
 
   <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-5e621443c4</id>
-    <title>[Rolling / TBA] SERB-POWER Research Grant (Women Researchers) — ANRF</title>
-    <link href="https://www.indiascienceandtechnology.gov.in/funding-opportunities/research-grants/individual/serb-power-research-grants" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: Up to ₹30 Lakhs (Level II — SASTRA eligible) / ₹60L (Level I) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology, Any frontier area | Eligibility: Women Faculty/Researcher (permanent position), Indian Institution. Promotes women researchers in science and engineering. Two levels: Level I for IITs/IISc/NITs/Central Univ (up to ₹60L, 3yr); Level II for State/Private institutions like SASTRA (up to ₹30L, 3yr</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-812a4c34df</id>
-    <title>[Rolling / TBA] ANRF National Post Doctoral Fellowship (N-PDF) — ANRF</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: ₹55,000/month + HRA + research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: PhD Holder, Early Career Researcher. Postdoctoral fellowship for Indian researchers. Provides mentor support at premier Indian institutes. Rolling applications.</summary>
-    <category term="Fellowship" label="Fellowship"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-6a26e2f731</id>
-    <title>[Rolling / TBA] SERB/ANRF Ramanujan Fellowship — ANRF</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: ₹1,35,000/month + research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Indian Scientist (Diaspora/Overseas), Faculty. For Indian scientists returning from abroad or working overseas to take up research positions in India. 5-year fellowship.</summary>
-    <category term="Fellowship" label="Fellowship"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
     <id>https://pranavathiyani.github.io/grantwatch#grant-437f0e1709</id>
     <title>[Rolling / TBA] ANRF TARE (Teachers Associateship for Research Excellence) — ANRF</title>
     <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
     <updated>2026-03-15T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: ₹10,000/month + research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: College Teacher, Assistant Professor. Allows college teachers to work in nearby IITs/IISc labs. Bridges teaching and research, supports ≤3 years.</summary>
-    <category term="Fellowship" label="Fellowship"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-7f1ffe7ccc</id>
-    <title>[Rolling / TBA] ANRF Start-up Research Grant (SRG) — ANRF</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: Up to ₹35 Lakhs (3 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Assistant Professor (PhD ≤5 years), First faculty position. For faculty who obtained PhD ≤5 years ago and are in first faculty position. Supports independent research setup. Rolling applications throughout year. Cannot simultaneously hold NPDF or TARE.</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-55e7ab887f</id>
-    <title>[Rolling / TBA] ANRF Prime Minister Early Career Research Grant (PM-ECRG) — ANRF</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: Varies (project-based) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Early Career Faculty, INSPIRE/Ramanujan/Ramalingaswami Fellows. New ANRF scheme replacing SERB-ECRA. Supports early career researchers at Indian institutions. INSPIRE Faculty, Ramanujan, and Ramalingaswami Fellows are explicitly eligible. Budget up to ₹1L/year each for travel and contingency.</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-8dc5cbb0f0</id>
-    <title>[Rolling / TBA] ANRF SIRE — Short-term International Research Experience — ANRF</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Travel Grant | Amount: Travel + subsistence (as per norms) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: PhD Student, Postdoc, Early Career Faculty. Supports Indian researchers for short-term research visits (1–6 months) to overseas labs. For PhD students, postdocs, and early career faculty. Rolling applications.</summary>
-    <category term="Travel Grant" label="Travel Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-2c461f4bc6</id>
-    <title>[Rolling / TBA] ANRF Swarnajayanti Fellowship — ANRF</title>
-    <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: ₹25,000/month supplement + ₹5 Lakhs/year research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Basic Sciences, Engineering | Eligibility: Faculty/Researcher (under 45), Strong publication record. Prestigious DST/ANRF fellowship for scientists below 45 years with exceptional track record. 5-year fellowship with complete academic freedom. Annual call; highly competitive (~15 awarded/year).</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
   </entry>
@@ -1009,6 +819,196 @@
     <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: Full PhD stipend (ICGEB norms) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering, Computational Biology | Eligibility: Indian National, Category-I NET/JRF holder, MSc Graduate. PhD positions at ICGEB New Delhi in collaboration with JNU. Requires valid CSIR/UGC/ICMR/DBT/DST-INSPIRE/BINC JRF. Annual intake. Full stipend + world-class research environment.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-51af8aeed3</id>
+    <title>[Rolling / TBA] Wellcome India Alliance — Early Career Fellowship — Wellcome DBT India Alliance</title>
+    <link href="https://indiaalliance.org/apply-for-a-grant/early-career-fellowships" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: Wellcome DBT India Alliance (International) | Type: Fellowship | Amount: Up to ₹2.4 Crores (5 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biomedical, Life Sciences, Public Health | Eligibility: Early Career Researcher (PhD ≤5 years). 5-year fellowship for researchers who have completed PhD ≤ 5 years ago. Covers salary, research costs, and training. Highly competitive.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-ded4f0913e</id>
+    <title>[Rolling / TBA] Wellcome India Alliance — Senior Fellowship — Wellcome DBT India Alliance</title>
+    <link href="https://indiaalliance.org/apply-for-a-grant/senior-fellowships" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: Wellcome DBT India Alliance (International) | Type: Fellowship | Amount: Up to ₹5.5 Crores (5 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biomedical, Life Sciences | Eligibility: Senior Faculty, Independent Researcher. 5-year award for researchers with strong independent track record. Covers full research program costs.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-2961a29306</id>
+    <title>[Rolling / TBA] Find a Young Investigator, Installation Grantee or Global Investigator — EMBO</title>
+    <link href="https://www.embo.org/the-embo-communities/embo-young-investigator-network/find-a-young-investigator-installation-grantee-or-global-investigator/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Find a Young Investigator, Installation Grantee or Global Investigator</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-974d3d13c6</id>
+    <title>[Rolling / TBA] FEBS|EMBO Women in Science Awardees — EMBO</title>
+    <link href="https://www.embo.org/the-embo-communities/febsembo-women-in-science-awardees/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: FEBS|EMBO Women in Science Awardees</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-6e5388d826</id>
+    <title>[Rolling / TBA] Nominate for the Women in Science Award — EMBO</title>
+    <link href="https://www.embo.org/the-embo-communities/febsembo-women-in-science-awardees/nominate-for-the-women-in-science-award/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Nominate for the Women in Science Award</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-90a32a92cf</id>
+    <title>[Rolling / TBA] EMBO Lab Sustainability Award — EMBO</title>
+    <link href="https://www.embo.org/the-embo-communities/embo-lab-sustainability-award/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: EMBO Lab Sustainability Award</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f3dae28a6a</id>
+    <title>[Rolling / TBA] Fellowships, grants and career support — EMBO</title>
+    <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Fellowships, grants and career support</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-41ea8bb73b</id>
+    <title>[Rolling / TBA] Postdoctoral Fellowships — EMBO</title>
+    <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Postdoctoral Fellowships</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-aab3e8db4b</id>
+    <title>[Rolling / TBA] Scientific Exchange Grants — EMBO</title>
+    <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Scientific Exchange Grants</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-e051acebd7</id>
+    <title>[Rolling / TBA] Installation Grants — EMBO</title>
+    <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/installation-grants/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Installation Grants</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f386f1a208</id>
+    <title>[Rolling / TBA] Maria Leptin | EMBO Science Journalism Fellowships — EMBO</title>
+    <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/maria-leptin-embo-science-journalism-fellowships/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Maria Leptin | EMBO Science Journalism Fellowships</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-8967823a53</id>
+    <title>[Rolling / TBA] Funding for conferences and training — EMBO</title>
+    <link href="https://www.embo.org/funding/funding-for-conferences-and-training/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Funding for conferences and training</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f4e61225a6</id>
+    <title>[Rolling / TBA] Lecture, travel and childcare grants — EMBO</title>
+    <link href="https://www.embo.org/funding/lecture-travel-and-childcare-grants/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Lecture, travel and childcare grants</summary>
+    <category term="Fellowship / Award" label="Fellowship / Award"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-7b10de2dc8</id>
+    <title>[Rolling / TBA] EMBL Postdoctoral Fellowship (EIPOD) — EMBL</title>
+    <link href="https://www.embl.org/about/info/postdoctoral-programme/eipod-linc-programme/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: EMBL (International) | Type: Fellowship | Amount: EMBL salary scale + benefits | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Structural Biology, Computational Biology, Genomics, Cell Biology | Eligibility: PhD Holder (≤2 years), International Applicant. EMBL Interdisciplinary Postdoctoral (EIPOD) programme at Heidelberg and other sites. Interdisciplinary life science research. Biannual calls.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f0280bb8d5</id>
+    <title>[Rolling / TBA] FEBS Short-Term Fellowship — FEBS</title>
+    <link href="https://www.febs.org/funding/fellowships-and-grants/short-term-fellowships/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: FEBS (International) | Type: Travel Grant | Amount: Up to €3,500 | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biochemistry, Molecular Biology, Life Sciences | Eligibility: PhD Student, Postdoc, Early Career Researcher. Supports short research visits (1–3 months) to a lab in a different country. Open to researchers from FEBS constituent societies.</summary>
+    <category term="Travel Grant" label="Travel Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-802609d9b2</id>
+    <title>[Rolling / TBA] FEBS Science for Life Laboratory Prize — FEBS</title>
+    <link href="https://www.febs.org/funding/" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: FEBS (International) | Type: Travel Grant | Amount: Prize + travel | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Molecular Biology, Life Sciences | Eligibility: Researcher, Early Career. Annual FEBS prize for outstanding contributions to molecular life sciences. Includes travel to FEBS Congress.</summary>
+    <category term="Travel Grant" label="Travel Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-27c772e35a</id>
+    <title>[Rolling / TBA] ACM-India: IARCS Travel Grants — Various (Travel)</title>
+    <link href="https://www.iarcs.org.in/activities/grants.php" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: Various (Travel) (International) | Type: Travel Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: PhD Student, Researcher, Indian Applicant. Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: travelgrants@iarcs.org.in</summary>
+    <category term="Travel Grant" label="Travel Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-38b1f178b4</id>
+    <title>[Rolling / TBA] ACM-RFG — Various (Travel)</title>
+    <link href="https://india.acm.org/research/research-facilitation-grant" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: Various (Travel) (International) | Type: Travel Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: PhD Student, Researcher, Indian Applicant. Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: acmirfg@acmindia.org</summary>
+    <category term="Travel Grant" label="Travel Grant"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-f5f5f45312</id>
+    <title>[Rolling / TBA] AICTE Research Promotion Scheme (RPS) — AICTE</title>
+    <link href="https://www.aicte-india.org/bureaus/research/research-promotion-scheme" rel="alternate"/>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary type="text">Agency: AICTE (India) | Type: Research Grant | Amount: Up to ₹30 Lakhs (Development Research track) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Engineering, Technology, Applied Sciences, Computer Science, Biotechnology, Any AICTE discipline | Eligibility: Faculty at AICTE-approved Institution, Regular position. Promotes research culture in AICTE-approved institutions. Two tracks: Basic/Applied Research (₹20L, 2yr) and Development Research (₹30L, 3yr). Less competitive than DST/DBT — </summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
   </entry>
 
 </feed>

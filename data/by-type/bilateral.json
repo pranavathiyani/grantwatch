@@ -1,8 +1,8 @@
 {
   "category": "bilateral",
-  "generated": "2026-03-15T06:33:28Z",
-  "total": 23,
-  "open": 23,
+  "generated": "2026-03-15T07:42:10Z",
+  "total": 25,
+  "open": 25,
   "grants": [
     {
       "id": "a852a06380",
@@ -517,6 +517,52 @@
         "Engineering",
         "Technology",
         "Any STEM"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "nih-fogarty-firca-2026",
+      "title": "NIH Fogarty FIRCA — International Research Collaboration Award",
+      "agency": "NIH Fogarty",
+      "agency_country": "International",
+      "url": "https://www.fic.nih.gov/Funding/Pages/default.aspx",
+      "deadline": null,
+      "open_date": null,
+      "status": "open",
+      "description": "Designed specifically for researchers in LMICs including India. Indian PI collaborates with NIH-funded US researcher. Indian PI applies directly — best NIH entry point for Indian researchers.",
+      "grant_type": "Collaborative Grant",
+      "eligibility": [
+        "Faculty",
+        "Researcher at Indian Institution"
+      ],
+      "disciplines": [
+        "Global Health",
+        "Biomedical",
+        "Infectious Disease"
+      ],
+      "amount": "Up to USD 50,000/year (3 years)"
+    },
+    {
+      "id": "9b2782feba",
+      "title": "DST India-France Call for Proposals (Applied Mathematics & AI)",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "Varies (DST norms for Indian side)",
+      "description": "Joint Indo-French call in Applied Mathematics and Artificial Intelligence. Coordinated by DST (India) and ANR (France). Annual call.",
+      "url": "https://dst.gov.in/international-cooperation/bilateral/france",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "French Co-PI required"
+      ],
+      "disciplines": [
+        "Applied Mathematics",
+        "AI/ML",
+        "Computer Science"
       ],
       "status": "open",
       "last_updated": "2026-03-15"

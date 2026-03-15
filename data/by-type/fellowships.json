@@ -1,8 +1,8 @@
 {
   "category": "fellowships",
-  "generated": "2026-03-15T06:33:28Z",
-  "total": 47,
-  "open": 46,
+  "generated": "2026-03-15T07:42:10Z",
+  "total": 49,
+  "open": 48,
   "grants": [
     {
       "id": "9ef0d6f466",
@@ -235,52 +235,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "812a4c34df",
-      "title": "ANRF National Post Doctoral Fellowship (N-PDF)",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Fellowship",
-      "amount": "₹55,000/month + HRA + research grant",
-      "description": "Postdoctoral fellowship for Indian researchers. Provides mentor support at premier Indian institutes. Rolling applications.",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Holder",
-        "Early Career Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering",
-        "Technology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "6a26e2f731",
-      "title": "SERB/ANRF Ramanujan Fellowship",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Fellowship",
-      "amount": "₹1,35,000/month + research grant",
-      "description": "For Indian scientists returning from abroad or working overseas to take up research positions in India. 5-year fellowship.",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Indian Scientist (Diaspora/Overseas)",
-        "Faculty"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering",
-        "Technology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "437f0e1709",
       "title": "ANRF TARE (Teachers Associateship for Research Excellence)",
       "agency": "ANRF",
@@ -297,28 +251,6 @@
       ],
       "disciplines": [
         "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "2c461f4bc6",
-      "title": "ANRF Swarnajayanti Fellowship",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Fellowship",
-      "amount": "₹25,000/month supplement + ₹5 Lakhs/year research grant",
-      "description": "Prestigious DST/ANRF fellowship for scientists below 45 years with exceptional track record. 5-year fellowship with complete academic freedom. Annual call; highly competitive (~15 awarded/year).",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty/Researcher (under 45)",
-        "Strong publication record"
-      ],
-      "disciplines": [
-        "Basic Sciences",
         "Engineering"
       ],
       "status": "open",
@@ -711,29 +643,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "7e094abcd1",
-      "title": "EMBO Postdoctoral Fellowship (Spring/Autumn Rounds)",
-      "agency": "EMBO",
-      "country": "International",
-      "grant_type": "Fellowship",
-      "amount": "Competitive stipend + relocation + benefits",
-      "description": "Supports excellent postdocs for up to 2 years at labs in EMBC member states. International mobility required. Includes salary/stipend, relocation allowance, childcare support. From 2026: Spring round deadline = 4th Friday of January.",
-      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "PhD Holder",
-        "International mobility required"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Molecular Biology",
-        "Computational Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
       "id": "53d5c0df0a",
       "title": "Georg Forster Research Fellowship (AvH) — India-eligible",
       "agency": "Alexander von Humboldt Foundation",
@@ -1026,6 +935,120 @@
       "last_updated": "2026-03-15"
     },
     {
+      "id": "91d9218b00",
+      "title": "India-Netherlands Hydrogen Fellowship Programme",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "Varies",
+      "description": "DST-NWO joint programme for researchers working on hydrogen energy technology. India-Netherlands bilateral.",
+      "url": "https://dst.gov.in/international-cooperation",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher",
+        "Faculty",
+        "Dutch Co-PI required"
+      ],
+      "disciplines": [
+        "Energy",
+        "Chemistry",
+        "Chemical Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "25bdc86eaf",
+      "title": "India Science and Research Fellowship (ISRF) 2025",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "As per DST norms",
+      "description": "Supports researchers from neighbouring countries (Bangladesh, Nepal, Sri Lanka etc) to visit Indian labs. DST-funded. Annual call.",
+      "url": "https://dst.gov.in/call-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Researcher from SAARC/neighbouring country"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "812a4c34df",
+      "title": "ANRF National Post Doctoral Fellowship (N-PDF)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "₹55,000/month + HRA + research grant",
+      "description": "Postdoctoral fellowship for Indian researchers. Provides mentor support at premier Indian institutes. Rolling applications.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Holder",
+        "Early Career Researcher"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "6a26e2f731",
+      "title": "SERB/ANRF Ramanujan Fellowship",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "₹1,35,000/month + research grant",
+      "description": "For Indian scientists returning from abroad or working overseas to take up research positions in India. 5-year fellowship.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Indian Scientist (Diaspora/Overseas)",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "2c461f4bc6",
+      "title": "ANRF Swarnajayanti Fellowship",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Fellowship",
+      "amount": "₹25,000/month supplement + ₹5 Lakhs/year research grant",
+      "description": "Prestigious DST/ANRF fellowship for scientists below 45 years with exceptional track record. 5-year fellowship with complete academic freedom. Annual call; highly competitive (~15 awarded/year).",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty/Researcher (under 45)",
+        "Strong publication record"
+      ],
+      "disciplines": [
+        "Basic Sciences",
+        "Engineering"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
       "id": "c26ea633bf",
       "title": "Wellcome India Alliance — Intermediate Fellowship",
       "agency": "Wellcome DBT India Alliance",
@@ -1044,6 +1067,29 @@
         "Biomedical",
         "Life Sciences",
         "Public Health"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7e094abcd1",
+      "title": "EMBO Postdoctoral Fellowship (Spring/Autumn Rounds)",
+      "agency": "EMBO",
+      "country": "International",
+      "grant_type": "Fellowship",
+      "amount": "Competitive stipend + relocation + benefits",
+      "description": "Supports excellent postdocs for up to 2 years at labs in EMBC member states. International mobility required. Includes salary/stipend, relocation allowance, childcare support. From 2026: Spring round deadline = 4th Friday of January.",
+      "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "PhD Holder",
+        "International mobility required"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Molecular Biology",
+        "Computational Biology"
       ],
       "status": "open",
       "last_updated": "2026-03-15"

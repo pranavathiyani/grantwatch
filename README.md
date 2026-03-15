@@ -13,13 +13,13 @@
 
 | Metric | Count |
 |--------|-------|
-| 📋 Total grants indexed | **192** |
-| ✅ Open calls | **187** |
-| 🇮🇳 Indian agency grants | **124** |
-| 🌍 International grants | **68** |
-| 🎓 Fellowships | **59** |
+| 📋 Total grants indexed | **187** |
+| ✅ Open calls | **182** |
+| 🇮🇳 Indian agency grants | **0** |
+| 🌍 International grants | **2** |
+| 🎓 Fellowships | **61** |
 | ✈️ Travel grants | **22** |
-| 🤝 Bilateral collaborations | **22** |
+| 🤝 Bilateral collaborations | **24** |
 
 ---
 
@@ -76,7 +76,7 @@ All served from `data/` — no backend, pure JSON over GitHub Pages.
 /data/archive/                # Last 6 bi-weekly snapshots
 ```
 
-## Agencies Covered (34)
+## Agencies Covered (35)
 
 - AICTE
 - ANRF
@@ -102,6 +102,7 @@ All served from `data/` — no backend, pure JSON over GitHub Pages.
 - IUSSTF
 - MeitY
 - NIH
+- NIH Fogarty
 - Novo Nordisk Foundation
 - PAR Foundation
 - PMRF (MoE)

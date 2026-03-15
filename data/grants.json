@@ -646,7 +646,7 @@
     "country": "India",
     "grant_type": "Infrastructure Grant",
     "amount": "Up to ₹2 Crores",
-    "description": "Infrastructure grant for upgrading S&T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr).",
+    "description": "Infrastructure grant for upgrading S&T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr). Rolling applications.",
     "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/fist",
     "deadline": null,
     "open_date": null,
@@ -670,7 +670,7 @@
     "country": "India",
     "grant_type": "Infrastructure Grant",
     "amount": "Up to ₹5 Crores",
-    "description": "Grants to universities with good research output to strengthen research infrastructure and programs.",
+    "description": "Grants to universities with strong research output to strengthen research infrastructure. Based on publication metrics.",
     "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/purse",
     "deadline": null,
     "open_date": null,
@@ -690,7 +690,7 @@
     "country": "India",
     "grant_type": "Research Grant",
     "amount": "Varies",
-    "description": "Research integrating modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.",
+    "description": "Integrates modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.",
     "url": "https://dst.gov.in/call-for-proposals",
     "deadline": null,
     "open_date": null,
@@ -1235,7 +1235,7 @@
   {
     "id": "00d27bbb76",
     "title": "INSA Young Scientist Award",
-    "agency": "INSA/NASI/IASc",
+    "agency": "Various",
     "country": "India",
     "grant_type": "Award + Research Grant",
     "amount": "Medal + research grant",
@@ -1257,7 +1257,7 @@
   {
     "id": "4a15141679",
     "title": "DST Young Scientist Award (SERC Fast Track / SRG equivalent)",
-    "agency": "INSA/NASI/IASc",
+    "agency": "Various",
     "country": "India",
     "grant_type": "Research Grant",
     "amount": "Up to ₹35 Lakhs",
@@ -1279,7 +1279,7 @@
   {
     "id": "22a185c239",
     "title": "NASI Young Scientist Platinum Jubilee Award",
-    "agency": "INSA/NASI/IASc",
+    "agency": "Various",
     "country": "India",
     "grant_type": "Award",
     "amount": "Cash prize + medal",
@@ -1301,7 +1301,7 @@
   {
     "id": "a4fdbd1117",
     "title": "IASc-INSA-NASI Joint Summer Research Fellowship",
-    "agency": "INSA/NASI/IASc",
+    "agency": "Various",
     "country": "India",
     "grant_type": "Fellowship",
     "amount": "₹10,000/month (2 months)",
@@ -1366,7 +1366,7 @@
   {
     "id": "d54fcddfdb",
     "title": "INSA International Bilateral Exchange Programme",
-    "agency": "INSA/NASI/IASc",
+    "agency": "INSA",
     "country": "India",
     "grant_type": "Travel Grant",
     "amount": "Varies by partner academy",
@@ -1388,7 +1388,7 @@
   {
     "id": "f8fb89779e",
     "title": "INSA Senior Scientist Fellowship",
-    "agency": "INSA/NASI/IASc",
+    "agency": "INSA",
     "country": "India",
     "grant_type": "Fellowship",
     "amount": "₹15,000/month + contingency",
@@ -1410,7 +1410,7 @@
   {
     "id": "23bcbe0ecf",
     "title": "DST-NIDHI PRAYAS Grant (Proof of Concept)",
-    "agency": "DST",
+    "agency": "Various (Startup)",
     "country": "India",
     "grant_type": "Startup Grant",
     "amount": "Up to ₹10 Lakhs",
@@ -1437,7 +1437,7 @@
   {
     "id": "fb82409801",
     "title": "DST-NIDHI Technology Business Incubator (TBI)",
-    "agency": "DST",
+    "agency": "Various (Startup)",
     "country": "India",
     "grant_type": "Startup Grant",
     "amount": "Up to ₹3.75 Crores (phased)",
@@ -1462,7 +1462,7 @@
   {
     "id": "c7ac737b5b",
     "title": "BIRAC-SPARSH (Social Innovation Grant)",
-    "agency": "BIRAC",
+    "agency": "Various (Startup)",
     "country": "India",
     "grant_type": "Startup Grant",
     "amount": "Up to ₹50 Lakhs",
@@ -1487,7 +1487,7 @@
   {
     "id": "b83e584a58",
     "title": "Startup India Seed Fund Scheme (SISFS)",
-    "agency": "DPIIT",
+    "agency": "Various (Startup)",
     "country": "India",
     "grant_type": "Startup Grant",
     "amount": "Up to ₹20 Lakhs (grant) + ₹50 Lakhs (debenture)",
@@ -1512,7 +1512,7 @@
   {
     "id": "7a89781625",
     "title": "MeitY TIDE 2.0 (Technology Incubation & Development)",
-    "agency": "MeitY",
+    "agency": "Various (Startup)",
     "country": "India",
     "grant_type": "Startup Grant",
     "amount": "Up to ₹25 Lakhs per startup",
@@ -2263,7 +2263,7 @@
   {
     "id": "27c772e35a",
     "title": "ACM-India: IARCS Travel Grants",
-    "agency": "ACM-India",
+    "agency": "Various (Travel)",
     "country": "International",
     "grant_type": "Travel Grant",
     "amount": "Varies",
@@ -2286,7 +2286,7 @@
   {
     "id": "38b1f178b4",
     "title": "ACM-RFG",
-    "agency": "ACM-India",
+    "agency": "Various (Travel)",
     "country": "International",
     "grant_type": "Travel Grant",
     "amount": "Varies",
@@ -3458,6 +3458,804 @@
     "amount": "Varies by specific FOA"
   },
   {
+    "id": "9b2782feba",
+    "title": "DST India-France Call for Proposals (Applied Mathematics & AI)",
+    "agency": "DST",
+    "country": "India",
+    "grant_type": "Collaborative Grant",
+    "amount": "Varies (DST norms for Indian side)",
+    "description": "Joint Indo-French call in Applied Mathematics and Artificial Intelligence. Coordinated by DST (India) and ANR (France). Annual call.",
+    "url": "https://dst.gov.in/international-cooperation/bilateral/france",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty",
+      "Researcher",
+      "French Co-PI required"
+    ],
+    "disciplines": [
+      "Applied Mathematics",
+      "AI/ML",
+      "Computer Science"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "91d9218b00",
+    "title": "India-Netherlands Hydrogen Fellowship Programme",
+    "agency": "DST",
+    "country": "India",
+    "grant_type": "Fellowship",
+    "amount": "Varies",
+    "description": "DST-NWO joint programme for researchers working on hydrogen energy technology. India-Netherlands bilateral.",
+    "url": "https://dst.gov.in/international-cooperation",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Researcher",
+      "Faculty",
+      "Dutch Co-PI required"
+    ],
+    "disciplines": [
+      "Energy",
+      "Chemistry",
+      "Chemical Engineering"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "25bdc86eaf",
+    "title": "India Science and Research Fellowship (ISRF) 2025",
+    "agency": "DST",
+    "country": "India",
+    "grant_type": "Fellowship",
+    "amount": "As per DST norms",
+    "description": "Supports researchers from neighbouring countries (Bangladesh, Nepal, Sri Lanka etc) to visit Indian labs. DST-funded. Annual call.",
+    "url": "https://dst.gov.in/call-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Researcher from SAARC/neighbouring country"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "f4a3ac0efb",
+    "title": "DST-NIDHI PRAYAS Grant (Proof of Concept)",
+    "agency": "DST",
+    "country": "India",
+    "grant_type": "Startup Grant",
+    "amount": "Up to ₹10 Lakhs",
+    "description": "Seed funding for proof-of-concept for technology startups. Part of DST's NIDHI (National Initiative for Developing and Harnessing Innovations) programme.",
+    "url": "https://nidhi.dst.gov.in/prayas",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Startup",
+      "Innovator",
+      "Faculty Entrepreneur"
+    ],
+    "disciplines": [
+      "Technology",
+      "Engineering",
+      "Biotechnology",
+      "Any"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "0f2198abea",
+    "title": "DST-NIDHI Technology Business Incubator (TBI) Support",
+    "agency": "DST",
+    "country": "India",
+    "grant_type": "Infrastructure Grant",
+    "amount": "Up to ₹3.75 Crores",
+    "description": "Supports setting up and strengthening Technology Business Incubators at academic institutions. Funding + mentorship ecosystem.",
+    "url": "https://nidhi.dst.gov.in/tbi",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "University",
+      "Academic Institution"
+    ],
+    "disciplines": [
+      "Technology",
+      "Entrepreneurship",
+      "Any"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "b78925d18f",
+    "title": "DST SERB-POWER (Promoting Opportunities for Women in Exploratory Research)",
+    "agency": "DST",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "₹35–60 Lakhs (3 years)",
+    "description": "Research grants for women scientists at Fellow and Accelerate levels. Addresses gender disparity in STEM. Annual call via ANRF/SERB.",
+    "url": "https://serb.gov.in/power",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Women Researcher",
+      "Faculty"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "4741ab25ae",
+    "title": "DST Scheduled Caste Sub Plan (SCSP) — Mission Projects",
+    "agency": "DST",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "Varies",
+    "description": "S&T interventions for SC communities. Research and technology projects that directly benefit scheduled castes.",
+    "url": "https://dst.gov.in/call-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty",
+      "Researcher",
+      "NGO"
+    ],
+    "disciplines": [
+      "Science",
+      "Technology",
+      "Social Development"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "5e621443c4",
+    "title": "SERB-POWER Research Grant (Women Researchers)",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "Up to ₹30 Lakhs (Level II — SASTRA eligible) / ₹60L (Level I)",
+    "description": "Promotes women researchers in science and engineering. Two levels: Level I for IITs/IISc/NITs/Central Univ (up to ₹60L, 3yr); Level II for State/Private institutions like SASTRA (up to ₹30L, 3yr). Regular academic/research position required. All S&E frontier areas.",
+    "url": "https://www.indiascienceandtechnology.gov.in/funding-opportunities/research-grants/individual/serb-power-research-grants",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Women Faculty/Researcher (permanent position)",
+      "Indian Institution"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology",
+      "Any frontier area"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "812a4c34df",
+    "title": "ANRF National Post Doctoral Fellowship (N-PDF)",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Fellowship",
+    "amount": "₹55,000/month + HRA + research grant",
+    "description": "Postdoctoral fellowship for Indian researchers. Provides mentor support at premier Indian institutes. Rolling applications.",
+    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Holder",
+      "Early Career Researcher"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "6a26e2f731",
+    "title": "SERB/ANRF Ramanujan Fellowship",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Fellowship",
+    "amount": "₹1,35,000/month + research grant",
+    "description": "For Indian scientists returning from abroad or working overseas to take up research positions in India. 5-year fellowship.",
+    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Indian Scientist (Diaspora/Overseas)",
+      "Faculty"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "7f1ffe7ccc",
+    "title": "ANRF Start-up Research Grant (SRG)",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "Up to ₹35 Lakhs (3 years)",
+    "description": "For faculty who obtained PhD ≤5 years ago and are in first faculty position. Supports independent research setup. Rolling applications throughout year. Cannot simultaneously hold NPDF or TARE.",
+    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Assistant Professor (PhD ≤5 years)",
+      "First faculty position"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "55e7ab887f",
+    "title": "ANRF Prime Minister Early Career Research Grant (PM-ECRG)",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "Varies (project-based)",
+    "description": "New ANRF scheme replacing SERB-ECRA. Supports early career researchers at Indian institutions. INSPIRE Faculty, Ramanujan, and Ramalingaswami Fellows are explicitly eligible. Budget up to ₹1L/year each for travel and contingency.",
+    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Early Career Faculty",
+      "INSPIRE/Ramanujan/Ramalingaswami Fellows"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "8dc5cbb0f0",
+    "title": "ANRF SIRE — Short-term International Research Experience",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Travel Grant",
+    "amount": "Travel + subsistence (as per norms)",
+    "description": "Supports Indian researchers for short-term research visits (1–6 months) to overseas labs. For PhD students, postdocs, and early career faculty. Rolling applications.",
+    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Postdoc",
+      "Early Career Faculty"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "2c461f4bc6",
+    "title": "ANRF Swarnajayanti Fellowship",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Fellowship",
+    "amount": "₹25,000/month supplement + ₹5 Lakhs/year research grant",
+    "description": "Prestigious DST/ANRF fellowship for scientists below 45 years with exceptional track record. 5-year fellowship with complete academic freedom. Annual call; highly competitive (~15 awarded/year).",
+    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty/Researcher (under 45)",
+      "Strong publication record"
+    ],
+    "disciplines": [
+      "Basic Sciences",
+      "Engineering"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "a0f60ba3e3",
+    "title": "BIRAC Biotechnology Ignition Grant (BIG)",
+    "agency": "Various (Startup)",
+    "country": "India",
+    "grant_type": "Startup Grant",
+    "amount": "Up to ₹50 Lakhs",
+    "description": "BIRAC's flagship early-stage support for biotech startups. Proof-of-concept funding for innovative biotech ideas. Open to individuals and companies. One of the most competitive biotech startup grants in India.",
+    "url": "https://birac.nic.in/cfp.php",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Startup",
+      "Individual Innovator",
+      "Faculty Entrepreneur"
+    ],
+    "disciplines": [
+      "Biotechnology",
+      "MedTech",
+      "AgriTech",
+      "Biopharma"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "539504119e",
+    "title": "ANRF PM Early Career Research Grant — Startup Research",
+    "agency": "Various (Startup)",
+    "country": "India",
+    "grant_type": "Startup Grant",
+    "amount": "Up to ₹10 Lakhs",
+    "description": "UGC Start-up Research Grant for newly appointed faculty (within 3 years of joining). Available at UGC 2(f)/12B institutions. Covers basic sciences, medical sciences, engineering. For establishing independent research.",
+    "url": "https://anrf.gov.in/en/calls-for-proposals",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Newly appointed Faculty (≤3 years)",
+      "UGC-recognized institution"
+    ],
+    "disciplines": [
+      "Basic Sciences",
+      "Medical Sciences",
+      "Engineering"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "b989def769",
+    "title": "MeitY-NSF Joint Research Programme",
+    "agency": "DST (Bilateral)",
+    "country": "India",
+    "grant_type": "Collaborative Grant",
+    "amount": "INR (MeitY norms) + USD (NSF norms)",
+    "description": "India-US bilateral for semiconductors, next-gen communications, cybersecurity, green tech, intelligent transport. Indian PI applies to MeitY; US PI to NSF. Single joint proposal, reviewed by NSF as coordinating agency.",
+    "url": "https://www.meity.gov.in/content/announcement-1st-joint-call-porposal-under--research-colaboration",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty (Indian PI)",
+      "US Co-PI (NSF-eligible)"
+    ],
+    "disciplines": [
+      "Semiconductors",
+      "AI/ML",
+      "Cybersecurity",
+      "Green Tech",
+      "IT"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "ff7ee534d9",
+    "title": "PAR Foundation 2026 Grant — Beyond Antibiotics",
+    "agency": "PAR Foundation",
+    "country": "International",
+    "grant_type": "Research Grant",
+    "amount": "Varies (project-based)",
+    "description": "2026 theme: 'Beyond Antibiotics: Preventive Strategies That Lower the Need for Antibiotic Use.' Supports AMR prevention research and educational initiatives. Global applicants including India eligible.",
+    "url": "https://opencalls.parfoundation.org/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Researcher",
+      "Faculty",
+      "Institution",
+      "NGO"
+    ],
+    "disciplines": [
+      "AMR",
+      "Infectious Disease",
+      "Public Health",
+      "Microbiology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "c26ea633bf",
+    "title": "Wellcome India Alliance — Intermediate Fellowship",
+    "agency": "Wellcome DBT India Alliance",
+    "country": "International",
+    "grant_type": "Fellowship",
+    "amount": "Up to ₹3.25 Crores (5 years)",
+    "description": "For established Indian researchers seeking independence. 5-year award with salary and substantial research budget.",
+    "url": "https://indiaalliance.org/apply-for-a-grant/intermediate-fellowship",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty",
+      "Researcher (PhD ≤12 years)"
+    ],
+    "disciplines": [
+      "Biomedical",
+      "Life Sciences",
+      "Public Health"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "ccc8ca7205",
+    "title": "Travel grants and registration fee waivers",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Fellowship / Award",
+    "amount": "Varies",
+    "description": "EMBO funding opportunity: Travel grants and registration fee waivers",
+    "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/travel-grants/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Researcher",
+      "Postdoc",
+      "Faculty"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "5aa99086b7",
+    "title": "Childcare grants",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Fellowship / Award",
+    "amount": "Varies",
+    "description": "EMBO funding opportunity: Childcare grants",
+    "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/childcare-grants/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Researcher",
+      "Postdoc",
+      "Faculty"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "9b0d1a50dc",
+    "title": "Accessibility grants",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Fellowship / Award",
+    "amount": "Varies",
+    "description": "EMBO funding opportunity: Accessibility grants",
+    "url": "https://www.embo.org/funding/lecture-travel-and-childcare-grants/accessibility-grants/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Researcher",
+      "Postdoc",
+      "Faculty"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "f17069df5d",
+    "title": "EMBCFunding for EMBO",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Fellowship / Award",
+    "amount": "Varies",
+    "description": "EMBO funding opportunity: EMBCFunding for EMBO",
+    "url": "https://www.embo.org/about-embo/embc/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Researcher",
+      "Postdoc",
+      "Faculty"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "54d54e0c76",
+    "title": "Travel to EMBO officeTravel directions to the EMBO Offices in Heidelberg",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Fellowship / Award",
+    "amount": "Varies",
+    "description": "EMBO funding opportunity: Travel to EMBO officeTravel directions to the EMBO Offices in Heidelberg",
+    "url": "https://www.embo.org/about-embo/travel-to-embo-office/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Researcher",
+      "Postdoc",
+      "Faculty"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "3c685a91fa",
+    "title": "EMBO Workshop Organizing Grant",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Conference Grant",
+    "amount": "Up to €42,500 per workshop",
+    "description": "Scientists can apply to organize an EMBO Workshop anywhere in the world, including India. Core funding up to €35,000 + €5,500 for participant travel grants + €1,000 childcare + €1,000 accessibility = up to €42,500. EMBO handles registration, abstract submission, and workshop webpage. Highly relevant for faculty hosting life science conferences.",
+    "url": "https://www.embo.org/funding/funding-for-conferences-and-training/workshops/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty",
+      "Senior Researcher",
+      "Any EMBO Member State or beyond"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology",
+      "Computational Biology",
+      "Bioinformatics",
+      "Any life science"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "19b8303732",
+    "title": "EMBO Lecture Course Organizing Grant",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Conference Grant",
+    "amount": "Up to €30,000 per course",
+    "description": "EMBO funds practical lecture courses in life sciences. Organisers apply to run intensive training courses. Supports curriculum, invited speakers, and participant scholarships. Can be hosted in India.",
+    "url": "https://www.embo.org/funding/funding-for-conferences-and-training/lecture-courses/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty",
+      "Senior Researcher"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology",
+      "Bioinformatics"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "f5aa8eef44",
+    "title": "EMBL Course and Conference Travel Grant",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Variable cap per event (travel + accommodation + registration)",
+    "description": "EMBL provides travel grants for researchers to attend EMBL/EMBO courses and conferences. Covers airfare, accommodation, visa, registration fees. Apply during abstract/motivation letter submission for each event. Selection based on scientific merit, location, career stage.",
+    "url": "https://www.embl.org/about/info/course-and-conference-office/information-for-participants/financial-assistance/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Postdoc",
+      "Early Career Researcher"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Bioinformatics",
+      "Computational Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "7e094abcd1",
+    "title": "EMBO Postdoctoral Fellowship (Spring/Autumn Rounds)",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Fellowship",
+    "amount": "Competitive stipend + relocation + benefits",
+    "description": "Supports excellent postdocs for up to 2 years at labs in EMBC member states. International mobility required. Includes salary/stipend, relocation allowance, childcare support. From 2026: Spring round deadline = 4th Friday of January.",
+    "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Holder",
+      "International mobility required"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology",
+      "Computational Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "385b726b4b",
+    "title": "EMBO Scientific Exchange Grant",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Up to €2,500",
+    "description": "Supports short scientific visits to labs in EMBC member/associate countries. Rolling deadline, decisions within 6 weeks.",
+    "url": "https://www.embo.org/funding-awards/scientific-exchange-grants/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Postdoc",
+      "Researcher"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "ae2c61745a",
+    "title": "EMBO Short-Term Fellowship",
+    "agency": "EMBO",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Stipend + travel",
+    "description": "Up to 3 months at EMBC member country lab. For PhD students and postdocs. Rolling applications.",
+    "url": "https://www.embo.org/funding-awards/short-term-fellowships/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Postdoc",
+      "Researcher"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Molecular Biology"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "23a84637ef",
+    "title": "------------------------------------------",
+    "agency": "Various (Travel)",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Varies",
+    "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub).",
+    "url": "https://github.com/AdhyaSuman/International_Travel_Grants",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Researcher",
+      "Indian Applicant"
+    ],
+    "disciplines": [
+      "Any"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15",
+    "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+  },
+  {
+    "id": "61e26af444",
+    "title": "ANRF: International Travel Support",
+    "agency": "Various (Travel)",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Varies",
+    "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: ms.its@serb.gov.in",
+    "url": "https://anrfonline.in/ANRF/its",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Researcher",
+      "Indian Applicant"
+    ],
+    "disciplines": [
+      "Any"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15",
+    "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+  },
+  {
+    "id": "06311fd058",
+    "title": "CSIR Travel Grant",
+    "agency": "Various (Travel)",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Varies",
+    "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: tgsm@csirhrdg.res.in",
+    "url": "https://csirhrdg.res.in/Home/Index/1/InPage/51/14",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Researcher",
+      "Indian Applicant"
+    ],
+    "disciplines": [
+      "Any"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15",
+    "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+  },
+  {
+    "id": "9c40bc374e",
+    "title": "-----------",
+    "agency": "Various (Travel)",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Varies",
+    "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub).",
+    "url": "https://github.com/AdhyaSuman/International_Travel_Grants",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Researcher",
+      "Indian Applicant"
+    ],
+    "disciplines": [
+      "Any"
+    ],
+    "status": "open",
+    "last_updated": "2026-03-15",
+    "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+  },
+  {
     "id": "63ff80082f",
     "title": "ANRF JC Bose Grant 2026",
     "agency": "ANRF",
@@ -3522,5 +4320,51 @@
     ],
     "status": "closed",
     "last_updated": "2026-03-15"
+  },
+  {
+    "id": "7b94d56173",
+    "title": "Microsoft: MSR India Academic Outreach",
+    "agency": "Various (Travel)",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Varies",
+    "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: travelgrants@microsoft.com",
+    "url": "https://www.microsoft.com/en-us/research/academic-program/academic-outreach/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Researcher",
+      "Indian Applicant"
+    ],
+    "disciplines": [
+      "Any"
+    ],
+    "status": "closed",
+    "last_updated": "2026-03-15",
+    "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
+  },
+  {
+    "id": "9cfe27dd56",
+    "title": "Google: Conference Scholarships",
+    "agency": "Various (Travel)",
+    "country": "International",
+    "grant_type": "Travel Grant",
+    "amount": "Varies",
+    "description": "Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: research-programs-in@google.com",
+    "url": "https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "PhD Student",
+      "Researcher",
+      "Indian Applicant"
+    ],
+    "disciplines": [
+      "Any"
+    ],
+    "status": "closed",
+    "last_updated": "2026-03-15",
+    "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   }
 ]

@@ -1,8 +1,8 @@
 {
   "category": "research",
-  "generated": "2026-03-15T06:33:28Z",
-  "total": 69,
-  "open": 67,
+  "generated": "2026-03-15T07:42:10Z",
+  "total": 59,
+  "open": 57,
   "grants": [
     {
       "id": "5688001f61",
@@ -170,31 +170,6 @@
       "last_updated": "2026-03-15"
     },
     {
-      "id": "anrf-core001",
-      "title": "ANRF Core Research Grant (CRG)",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Up to ₹50 Lakhs (3 years)",
-      "description": "Supports research proposals in basic and applied sciences from faculty at Indian academic institutions.",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher",
-        "Indian Institution"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering",
-        "Technology",
-        "Humanities"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-14"
-    },
-    {
       "id": "gates-gc001",
       "title": "Grand Challenges Explorations — Open Call",
       "agency": "Gates Foundation",
@@ -278,7 +253,7 @@
       "country": "India",
       "grant_type": "Infrastructure Grant",
       "amount": "Up to ₹2 Crores",
-      "description": "Infrastructure grant for upgrading S&T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr).",
+      "description": "Infrastructure grant for upgrading S&T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr). Rolling applications.",
       "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/fist",
       "deadline": null,
       "open_date": null,
@@ -302,7 +277,7 @@
       "country": "India",
       "grant_type": "Infrastructure Grant",
       "amount": "Up to ₹5 Crores",
-      "description": "Grants to universities with good research output to strengthen research infrastructure and programs.",
+      "description": "Grants to universities with strong research output to strengthen research infrastructure. Based on publication metrics.",
       "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/purse",
       "deadline": null,
       "open_date": null,
@@ -322,7 +297,7 @@
       "country": "India",
       "grant_type": "Research Grant",
       "amount": "Varies",
-      "description": "Research integrating modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.",
+      "description": "Integrates modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.",
       "url": "https://dst.gov.in/call-for-proposals",
       "deadline": null,
       "open_date": null,
@@ -334,226 +309,6 @@
         "Science",
         "Heritage Studies",
         "Traditional Knowledge"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "34cf9949eb",
-      "title": "Schemes/ Programmes",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Schemes/ Programmes RDI Fund S&T Capacity Building Programmes Institutional Capacity Building Programmes Research & Development Programmes Innovation and Technology Development Programmes Science for Society Programmes National Missions International Cooperation & Mega Science S&T Data, Policy and T",
-      "url": "https://dst.gov.in/schemes-programmes",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "a463ffaa7d",
-      "title": "S&T Capacity Building Programmes",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "S&T Capacity Building Programmes",
-      "url": "https://dst.gov.in/human-capacity-building-programmes",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "050a1249f0",
-      "title": "Institutional Capacity Building Programmes",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Institutional Capacity Building Programmes",
-      "url": "https://dst.gov.in/institutional-capacity-building-programmes",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "865902f806",
-      "title": "Research & Development Programmes",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Research & Development Programmes",
-      "url": "https://dst.gov.in/research-development-programmes",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "f1c5ec5e61",
-      "title": "Innovation and Technology Development Programmes",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Innovation and Technology Development Programmes",
-      "url": "https://dst.gov.in/innovation-and-technology-development-programmes",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "50daaac1ae",
-      "title": "Science for Society Programmes",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Science for Society Programmes",
-      "url": "https://dst.gov.in/science-society-programmes",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "1b3e8a65bb",
-      "title": "Science, Technology & Innovation Policy 2013",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Science, Technology & Innovation Policy 2013",
-      "url": "https://dst.gov.in/st-system-india/science-and-technology-policy-2013",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "5d6d9e96dc",
-      "title": "Awards/Prize/Result",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Awards/Prize/Result",
-      "url": "https://dst.gov.in/whatsnew/prize-awards",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "4c45222709",
-      "title": "Call For Proposals",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Call For Proposals",
-      "url": "https://dst.gov.in/call-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "ea5f7f6a82",
-      "title": "International Cooperation Calls/Announcements/Results",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "International Cooperation Calls/Announcements/Results",
-      "url": "https://aistic.gov.in/ASEAN/ICDST",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
@@ -645,28 +400,6 @@
       ],
       "status": "open",
       "last_updated": "2026-03-14"
-    },
-    {
-      "id": "75226675b5",
-      "title": "Archive Call For Proposals",
-      "agency": "DST",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "Archive Call For Proposals",
-      "url": "https://dst.gov.inarchive-call-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
     },
     {
       "id": "35d74a8c7a",
@@ -788,76 +521,6 @@
         "Transport",
         "Aerospace",
         "Advanced Materials"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "5e621443c4",
-      "title": "SERB-POWER Research Grant (Women Researchers)",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Up to ₹30 Lakhs (Level II — SASTRA eligible) / ₹60L (Level I)",
-      "description": "Promotes women researchers in science and engineering. Two levels: Level I for IITs/IISc/NITs/Central Univ (up to ₹60L, 3yr); Level II for State/Private institutions like SASTRA (up to ₹30L, 3yr). Regular academic/research position required. All S&E frontier areas.",
-      "url": "https://www.indiascienceandtechnology.gov.in/funding-opportunities/research-grants/individual/serb-power-research-grants",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Women Faculty/Researcher (permanent position)",
-        "Indian Institution"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering",
-        "Technology",
-        "Any frontier area"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "7f1ffe7ccc",
-      "title": "ANRF Start-up Research Grant (SRG)",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Up to ₹35 Lakhs (3 years)",
-      "description": "For faculty who obtained PhD ≤5 years ago and are in first faculty position. Supports independent research setup. Rolling applications throughout year. Cannot simultaneously hold NPDF or TARE.",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Assistant Professor (PhD ≤5 years)",
-        "First faculty position"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering",
-        "Technology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "55e7ab887f",
-      "title": "ANRF Prime Minister Early Career Research Grant (PM-ECRG)",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies (project-based)",
-      "description": "New ANRF scheme replacing SERB-ECRA. Supports early career researchers at Indian institutions. INSPIRE Faculty, Ramanujan, and Ramalingaswami Fellows are explicitly eligible. Budget up to ₹1L/year each for travel and contingency.",
-      "url": "https://anrf.gov.in/en/calls-for-proposals",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Early Career Faculty",
-        "INSPIRE/Ramanujan/Ramalingaswami Fellows"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering",
-        "Technology"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
@@ -1004,50 +667,6 @@
         "Computational Biology",
         "Bioinformatics",
         "AI/ML"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "fe7f5e947b",
-      "title": "J\r\n                                                        C Bose National Fellowship",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "ANRF open call: J\r\n                                                        C Bose National Fellowship",
-      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=END_JCB.doc&PathKey=DOCUMENT_TEMPLATE",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
-    {
-      "id": "c0800d17c2",
-      "title": "For\r\n                                                        Other\r\n                                                        Schemes",
-      "agency": "ANRF",
-      "country": "India",
-      "grant_type": "Research Grant",
-      "amount": "Varies",
-      "description": "ANRF open call: For\r\n                                                        Other\r\n                                                        Schemes",
-      "url": "https://anrfonline.in/ANRF/AbstractFilePath?FileType=E&FileName=PCR.pdf&PathKey=DOCUMENT_TEMPLATE",
-      "deadline": null,
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Researcher"
-      ],
-      "disciplines": [
-        "Science",
-        "Engineering"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
@@ -1551,6 +1170,169 @@
         "Biomedical",
         "Life Sciences",
         "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "nih-fogarty-global-health-2026",
+      "title": "NIH Fogarty Global Health Research Training Programs",
+      "agency": "NIH Fogarty",
+      "agency_country": "International",
+      "url": "https://www.fic.nih.gov/Funding/Pages/default.aspx",
+      "deadline": null,
+      "open_date": null,
+      "status": "open",
+      "description": "Portfolio of Fogarty programmes in global health, infectious disease, neuroscience, and bioethics. India consistently a top recipient country.",
+      "grant_type": "Research Grant",
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Global Health",
+        "Infectious Disease",
+        "Neuroscience"
+      ],
+      "amount": "Varies by specific FOA"
+    },
+    {
+      "id": "0f2198abea",
+      "title": "DST-NIDHI Technology Business Incubator (TBI) Support",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Infrastructure Grant",
+      "amount": "Up to ₹3.75 Crores",
+      "description": "Supports setting up and strengthening Technology Business Incubators at academic institutions. Funding + mentorship ecosystem.",
+      "url": "https://nidhi.dst.gov.in/tbi",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "University",
+        "Academic Institution"
+      ],
+      "disciplines": [
+        "Technology",
+        "Entrepreneurship",
+        "Any"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "b78925d18f",
+      "title": "DST SERB-POWER (Promoting Opportunities for Women in Exploratory Research)",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "₹35–60 Lakhs (3 years)",
+      "description": "Research grants for women scientists at Fellow and Accelerate levels. Addresses gender disparity in STEM. Annual call via ANRF/SERB.",
+      "url": "https://serb.gov.in/power",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Women Researcher",
+        "Faculty"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "4741ab25ae",
+      "title": "DST Scheduled Caste Sub Plan (SCSP) — Mission Projects",
+      "agency": "DST",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "S&T interventions for SC communities. Research and technology projects that directly benefit scheduled castes.",
+      "url": "https://dst.gov.in/call-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "NGO"
+      ],
+      "disciplines": [
+        "Science",
+        "Technology",
+        "Social Development"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "5e621443c4",
+      "title": "SERB-POWER Research Grant (Women Researchers)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹30 Lakhs (Level II — SASTRA eligible) / ₹60L (Level I)",
+      "description": "Promotes women researchers in science and engineering. Two levels: Level I for IITs/IISc/NITs/Central Univ (up to ₹60L, 3yr); Level II for State/Private institutions like SASTRA (up to ₹30L, 3yr). Regular academic/research position required. All S&E frontier areas.",
+      "url": "https://www.indiascienceandtechnology.gov.in/funding-opportunities/research-grants/individual/serb-power-research-grants",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Women Faculty/Researcher (permanent position)",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology",
+        "Any frontier area"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "7f1ffe7ccc",
+      "title": "ANRF Start-up Research Grant (SRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Up to ₹35 Lakhs (3 years)",
+      "description": "For faculty who obtained PhD ≤5 years ago and are in first faculty position. Supports independent research setup. Rolling applications throughout year. Cannot simultaneously hold NPDF or TARE.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Assistant Professor (PhD ≤5 years)",
+        "First faculty position"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "open",
+      "last_updated": "2026-03-15"
+    },
+    {
+      "id": "55e7ab887f",
+      "title": "ANRF Prime Minister Early Career Research Grant (PM-ECRG)",
+      "agency": "ANRF",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies (project-based)",
+      "description": "New ANRF scheme replacing SERB-ECRA. Supports early career researchers at Indian institutions. INSPIRE Faculty, Ramanujan, and Ramalingaswami Fellows are explicitly eligible. Budget up to ₹1L/year each for travel and contingency.",
+      "url": "https://anrf.gov.in/en/calls-for-proposals",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Early Career Faculty",
+        "INSPIRE/Ramanujan/Ramalingaswami Fellows"
+      ],
+      "disciplines": [
+        "Science",
+        "Engineering",
+        "Technology"
       ],
       "status": "open",
       "last_updated": "2026-03-15"
