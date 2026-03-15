@@ -1,0 +1,50 @@
+name: "🐛 Bug Report"
+description: "Report a broken scraper, wrong deadline, or portal issue"
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found something wrong? Help us fix it.
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: What kind of bug?
+      options:
+        - "Wrong deadline / date"
+        - "Broken link / URL"
+        - "Missing grant (should be open but not showing)"
+        - "Closed grant still showing as open"
+        - "Portal display issue"
+        - "Scraper returning noise / duplicates"
+        - "Other"
+    validations:
+      required: true
+
+  - type: input
+    id: grant
+    attributes:
+      label: Grant / Agency name
+      placeholder: "e.g. ANRF PM-ECRG / NIH Fogarty"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What's wrong?
+      placeholder: "Be specific — what did you expect vs what you saw?"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Correct URL (if you know it)
+      placeholder: "https://..."
+
+  - type: input
+    id: deadline
+    attributes:
+      label: Correct deadline (if applicable)
+      placeholder: "e.g. 2026-06-30"

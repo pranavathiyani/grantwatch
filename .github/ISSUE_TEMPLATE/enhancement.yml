@@ -1,0 +1,44 @@
+name: "✨ Enhancement / Feature Request"
+description: "Suggest a new feature or improvement for Grant Watch"
+title: "[Enhancement] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Grant Watch ⌛ — a curated research funding portal for SASTRA University.
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - "New grant / agency to add"
+        - "Portal UI / UX improvement"
+        - "Filter / search improvement"
+        - "Scraper fix"
+        - "New feature (alerts, matching, etc)"
+        - "Data quality issue"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like?
+      placeholder: "Describe the enhancement clearly. If suggesting a new grant, include the agency name, scheme name, and URL."
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this useful?
+      placeholder: "Who benefits? What problem does it solve for researchers?"
+
+  - type: input
+    id: contact
+    attributes:
+      label: Your affiliation (optional)
+      placeholder: "e.g. Faculty, SASTRA / PhD Student, IIT Madras"
