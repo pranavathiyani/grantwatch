@@ -707,226 +707,6 @@
     "last_updated": "2026-03-15"
   },
   {
-    "id": "34cf9949eb",
-    "title": "Schemes/ Programmes",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Schemes/ Programmes RDI Fund S&T Capacity Building Programmes Institutional Capacity Building Programmes Research & Development Programmes Innovation and Technology Development Programmes Science for Society Programmes National Missions International Cooperation & Mega Science S&T Data, Policy and T",
-    "url": "https://dst.gov.in/schemes-programmes",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "a463ffaa7d",
-    "title": "S&T Capacity Building Programmes",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "S&T Capacity Building Programmes",
-    "url": "https://dst.gov.in/human-capacity-building-programmes",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "050a1249f0",
-    "title": "Institutional Capacity Building Programmes",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Institutional Capacity Building Programmes",
-    "url": "https://dst.gov.in/institutional-capacity-building-programmes",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "865902f806",
-    "title": "Research & Development Programmes",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Research & Development Programmes",
-    "url": "https://dst.gov.in/research-development-programmes",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "f1c5ec5e61",
-    "title": "Innovation and Technology Development Programmes",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Innovation and Technology Development Programmes",
-    "url": "https://dst.gov.in/innovation-and-technology-development-programmes",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "50daaac1ae",
-    "title": "Science for Society Programmes",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Science for Society Programmes",
-    "url": "https://dst.gov.in/science-society-programmes",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "1b3e8a65bb",
-    "title": "Science, Technology & Innovation Policy 2013",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Science, Technology & Innovation Policy 2013",
-    "url": "https://dst.gov.in/st-system-india/science-and-technology-policy-2013",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "5d6d9e96dc",
-    "title": "Awards/Prize/Result",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Awards/Prize/Result",
-    "url": "https://dst.gov.in/whatsnew/prize-awards",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "4c45222709",
-    "title": "Call For Proposals",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Call For Proposals",
-    "url": "https://dst.gov.in/call-for-proposals",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
-    "id": "ea5f7f6a82",
-    "title": "International Cooperation Calls/Announcements/Results",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "International Cooperation Calls/Announcements/Results",
-    "url": "https://aistic.gov.in/ASEAN/ICDST",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
-  },
-  {
     "id": "61fba2fa2e",
     "title": "India-France call for proposals in Applied Mathematics and Artificial Intelligence by DST and ANR",
     "agency": "DST",
@@ -1013,28 +793,6 @@
     ],
     "status": "open",
     "last_updated": "2026-03-14"
-  },
-  {
-    "id": "75226675b5",
-    "title": "Archive Call For Proposals",
-    "agency": "DST",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Varies",
-    "description": "Archive Call For Proposals",
-    "url": "https://dst.gov.inarchive-call-for-proposals",
-    "deadline": null,
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering"
-    ],
-    "status": "open",
-    "last_updated": "2026-03-15"
   },
   {
     "id": "35d74a8c7a",
@@ -1608,7 +1366,7 @@
   {
     "id": "d54fcddfdb",
     "title": "INSA International Bilateral Exchange Programme",
-    "agency": "INSA",
+    "agency": "INSA/NASI/IASc",
     "country": "India",
     "grant_type": "Travel Grant",
     "amount": "Varies by partner academy",
@@ -1630,7 +1388,7 @@
   {
     "id": "f8fb89779e",
     "title": "INSA Senior Scientist Fellowship",
-    "agency": "INSA",
+    "agency": "INSA/NASI/IASc",
     "country": "India",
     "grant_type": "Fellowship",
     "amount": "₹15,000/month + contingency",
