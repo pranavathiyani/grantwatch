@@ -27,12 +27,12 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **2d** | HFSP Research Grant — Program Grant | HFSP | 2026-03-17 |
-| 🟡 **9d** | BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups | BIRAC | 2026-03-24 |
-| 🟡 **16d** | ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
-| 🟡 **16d** | ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) | ICGEB | 2026-03-31 |
-| 🟡 **16d** | ICGEB Short-term PhD Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
-| 🟡 **16d** | IGSTC WISER — Women in Science & Engineering Research (Indo-German) | DST (Bilateral) | 2026-03-31 |
+| 🔴 **1d** | HFSP Research Grant — Program Grant | HFSP | 2026-03-17 |
+| 🟡 **8d** | BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups | BIRAC | 2026-03-24 |
+| 🟡 **15d** | ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
+| 🟡 **15d** | ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) | ICGEB | 2026-03-31 |
+| 🟡 **15d** | ICGEB Short-term PhD Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
+| 🟡 **15d** | IGSTC WISER — Women in Science & Engineering Research (Indo-German) | DST (Bilateral) | 2026-03-31 |
 
 ---
 
