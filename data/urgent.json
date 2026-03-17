@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-03-16",
+  "checked_on": "2026-03-17",
   "closing_7d": [
     {
       "id": "5688001f61",
@@ -7,31 +7,29 @@
       "agency": "HFSP",
       "url": "https://www.hfsp.org/funding/hfsp-funding/research-grants",
       "deadline": "2026-03-17",
-      "days_left": 1,
+      "days_left": 0,
       "amount": "Up to USD 450,000/year (3 years)",
       "grant_type": "Research Grant"
-    }
-  ],
-  "closing_14d": [
+    },
     {
       "id": "0a1b8f8afa",
       "title": "BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups",
       "agency": "BIRAC",
       "url": "https://birac.nic.in/",
       "deadline": "2026-03-24",
-      "days_left": 8,
+      "days_left": 7,
       "amount": "Mentorship support",
       "grant_type": "Startup Grant"
     }
   ],
-  "closing_30d": [
+  "closing_14d": [
     {
       "id": "a852a06380",
       "title": "IGSTC WISER — Women in Science & Engineering Research (Indo-German)",
       "agency": "DST (Bilateral)",
       "url": "https://www.igstc.org/programme/wiser",
       "deadline": "2026-03-31",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "₹39 Lakhs (Indian side) + €48,000 (German side) — 3 years",
       "grant_type": "Collaborative Grant"
     },
@@ -41,7 +39,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/fellowships/smart-fellowships-2/",
       "deadline": "2026-03-31",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "USD 800–2,000/month + travel + bench fee",
       "grant_type": "Travel Grant"
     },
@@ -51,7 +49,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/fellowships/short-term-phd-fellowships/",
       "deadline": "2026-03-31",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "€1,500/month (Trieste) or ZAR 16,500/month (Cape Town) + travel",
       "grant_type": "Fellowship"
     },
@@ -61,14 +59,15 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/fellowships/icgeb-fellowships-for-scientists-in-biosecurity-march-2026/",
       "deadline": "2026-03-31",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "USD 1,122/month (New Delhi) + travel + insurance",
       "grant_type": "Fellowship"
     }
   ],
+  "closing_30d": [],
   "summary": {
-    "critical": 1,
-    "warning": 1,
-    "upcoming": 4
+    "critical": 2,
+    "warning": 4,
+    "upcoming": 0
   }
 }
