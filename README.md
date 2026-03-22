@@ -27,11 +27,11 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **3d** | BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups | BIRAC | 2026-03-24 |
-| 🟡 **10d** | ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
-| 🟡 **10d** | ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) | ICGEB | 2026-03-31 |
-| 🟡 **10d** | ICGEB Short-term PhD Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
-| 🟡 **10d** | IGSTC WISER — Women in Science & Engineering Research (Indo-German) | DST (Bilateral) | 2026-03-31 |
+| 🔴 **2d** | BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups | BIRAC | 2026-03-24 |
+| 🟡 **9d** | ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
+| 🟡 **9d** | ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) | ICGEB | 2026-03-31 |
+| 🟡 **9d** | ICGEB Short-term PhD Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
+| 🟡 **9d** | IGSTC WISER — Women in Science & Engineering Research (Indo-German) | DST (Bilateral) | 2026-03-31 |
 
 ---
 
