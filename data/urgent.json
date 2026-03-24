@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-03-23",
+  "checked_on": "2026-03-24",
   "closing_7d": [
     {
       "id": "0a1b8f8afa",
@@ -7,19 +7,17 @@
       "agency": "BIRAC",
       "url": "https://birac.nic.in/",
       "deadline": "2026-03-24",
-      "days_left": 1,
+      "days_left": 0,
       "amount": "Mentorship support",
       "grant_type": "Startup Grant"
-    }
-  ],
-  "closing_14d": [
+    },
     {
       "id": "a852a06380",
       "title": "IGSTC WISER — Women in Science & Engineering Research (Indo-German)",
       "agency": "DST (Bilateral)",
       "url": "https://www.igstc.org/programme/wiser",
       "deadline": "2026-03-31",
-      "days_left": 8,
+      "days_left": 7,
       "amount": "₹39 Lakhs (Indian side) + €48,000 (German side) — 3 years",
       "grant_type": "Collaborative Grant"
     },
@@ -29,7 +27,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/fellowships/smart-fellowships-2/",
       "deadline": "2026-03-31",
-      "days_left": 8,
+      "days_left": 7,
       "amount": "USD 800–2,000/month + travel + bench fee",
       "grant_type": "Travel Grant"
     },
@@ -39,7 +37,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/fellowships/short-term-phd-fellowships/",
       "deadline": "2026-03-31",
-      "days_left": 8,
+      "days_left": 7,
       "amount": "€1,500/month (Trieste) or ZAR 16,500/month (Cape Town) + travel",
       "grant_type": "Fellowship"
     },
@@ -49,15 +47,16 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/fellowships/icgeb-fellowships-for-scientists-in-biosecurity-march-2026/",
       "deadline": "2026-03-31",
-      "days_left": 8,
+      "days_left": 7,
       "amount": "USD 1,122/month (New Delhi) + travel + insurance",
       "grant_type": "Fellowship"
     }
   ],
+  "closing_14d": [],
   "closing_30d": [],
   "summary": {
-    "critical": 1,
-    "warning": 4,
+    "critical": 5,
+    "warning": 0,
     "upcoming": 0
   }
 }
