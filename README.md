@@ -27,10 +27,10 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **2d** | ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
-| 🔴 **2d** | ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) | ICGEB | 2026-03-31 |
-| 🔴 **2d** | ICGEB Short-term PhD Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
-| 🔴 **2d** | IGSTC WISER — Women in Science & Engineering Research (Indo-German) | DST (Bilateral) | 2026-03-31 |
+| 🔴 **1d** | ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
+| 🔴 **1d** | ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) | ICGEB | 2026-03-31 |
+| 🔴 **1d** | ICGEB Short-term PhD Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
+| 🔴 **1d** | IGSTC WISER — Women in Science & Engineering Research (Indo-German) | DST (Bilateral) | 2026-03-31 |
 
 ---
 
