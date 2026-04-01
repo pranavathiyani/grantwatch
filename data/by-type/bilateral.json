@@ -1,34 +1,9 @@
 {
   "category": "bilateral",
-  "generated": "2026-03-15T07:42:10Z",
+  "generated": "2026-04-01T07:21:00Z",
   "total": 25,
-  "open": 25,
+  "open": 24,
   "grants": [
-    {
-      "id": "a852a06380",
-      "title": "IGSTC WISER — Women in Science & Engineering Research (Indo-German)",
-      "agency": "DST (Bilateral)",
-      "country": "India",
-      "grant_type": "Collaborative Grant",
-      "amount": "₹39 Lakhs (Indian side) + €48,000 (German side) — 3 years",
-      "description": "Promotes collaboration between women researchers in India and Germany. Paired mode only — one Indian woman PI + one German woman PI required. Covers research staff, consumables, travel, and capacity building.",
-      "url": "https://www.igstc.org/programme/wiser",
-      "deadline": "2026-03-31",
-      "open_date": null,
-      "eligibility": [
-        "Women Faculty/Researcher (Indian PI)",
-        "German Woman Co-PI required",
-        "Min 5 years research experience"
-      ],
-      "disciplines": [
-        "STEM — any",
-        "Life Sciences",
-        "Engineering",
-        "Technology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
     {
       "id": "5e7229a8b0",
       "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF",
@@ -51,7 +26,7 @@
         "Biotechnology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "f9575352e1",
@@ -74,7 +49,7 @@
         "Biotechnology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "iusstf-001",
@@ -122,7 +97,7 @@
         "Green Tech"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "5533b956c0",
@@ -143,7 +118,7 @@
         "Any — interdisciplinary encouraged"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "d25d277a2d",
@@ -164,7 +139,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "f1b71ec223",
@@ -185,7 +160,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "59ccbd1050",
@@ -209,7 +184,7 @@
         "Any STEM"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "879f7089c7",
@@ -234,7 +209,7 @@
         "Cybersecurity"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "d890bd7125",
@@ -259,7 +234,7 @@
         "IT"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "22783e4c2d",
@@ -281,7 +256,7 @@
         "Any STEM"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "11b645df4f",
@@ -304,7 +279,7 @@
         "Technology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "0115f3f0c9",
@@ -329,7 +304,7 @@
         "Materials & Engineering"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "26d3366ab9",
@@ -353,7 +328,7 @@
         "Sustainable Development"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "e6f515d417",
@@ -374,7 +349,7 @@
         "Any — check specific call"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "d951061608",
@@ -398,7 +373,7 @@
         "Any STEM"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "1c97a53494",
@@ -423,7 +398,7 @@
         "Health"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "56b7f20b66",
@@ -448,7 +423,7 @@
         "Biotech"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "00e69da69f",
@@ -473,7 +448,7 @@
         "Environment"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "728965bf7c",
@@ -495,7 +470,7 @@
         "Any — STEM focus"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "e53d8bfd9c",
@@ -519,7 +494,7 @@
         "Any STEM"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "nih-fogarty-firca-2026",
@@ -565,7 +540,7 @@
         "Computer Science"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "b989def769",
@@ -590,7 +565,32 @@
         "IT"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
+    },
+    {
+      "id": "a852a06380",
+      "title": "IGSTC WISER — Women in Science & Engineering Research (Indo-German)",
+      "agency": "DST (Bilateral)",
+      "country": "India",
+      "grant_type": "Collaborative Grant",
+      "amount": "₹39 Lakhs (Indian side) + €48,000 (German side) — 3 years",
+      "description": "Promotes collaboration between women researchers in India and Germany. Paired mode only — one Indian woman PI + one German woman PI required. Covers research staff, consumables, travel, and capacity building.",
+      "url": "https://www.igstc.org/programme/wiser",
+      "deadline": "2026-03-31",
+      "open_date": null,
+      "eligibility": [
+        "Women Faculty/Researcher (Indian PI)",
+        "German Woman Co-PI required",
+        "Min 5 years research experience"
+      ],
+      "disciplines": [
+        "STEM — any",
+        "Life Sciences",
+        "Engineering",
+        "Technology"
+      ],
+      "status": "closed",
+      "last_updated": "2026-04-01"
     }
   ]
 }

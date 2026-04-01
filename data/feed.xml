@@ -5,75 +5,15 @@
   <link href="https://pranavathiyani.github.io/grantwatch/data/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://pranavathiyani.github.io/grantwatch" rel="alternate" type="text/html"/>
   <id>https://pranavathiyani.github.io/grantwatch/data/feed.xml</id>
-  <updated>2026-03-15T07:42:10Z</updated>
+  <updated>2026-04-01T07:21:00Z</updated>
   <author><name>Grant Watch ⌛ · SASTRA University</name><email>pranavathiyani@scbt.sastra.edu</email></author>
   <rights>Data is publicly sourced. Grant Watch aggregates for SASTRA researchers.</rights>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-5688001f61</id>
-    <title>[2026-03-17] HFSP Research Grant — Program Grant — HFSP</title>
-    <link href="https://www.hfsp.org/funding/hfsp-funding/research-grants" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: HFSP (International) | Type: Research Grant | Amount: Up to USD 450,000/year (3 years) | Deadline: 2026-03-17 | Status: OPEN | Disciplines: Life Sciences, Biophysics, Neuroscience, Computational Biology | Eligibility: Faculty, Independent Researcher. High-risk, high-reward basic life science research through international teams. India-based PIs can lead or join. One of the most prestigious international grants for life sciences.</summary>
-    <category term="Research Grant" label="Research Grant"/>
-    <category term="International" label="International"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-0a1b8f8afa</id>
-    <title>[2026-03-24] BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups — BIRAC</title>
-    <link href="https://birac.nic.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: BIRAC (India) | Type: Startup Grant | Amount: Mentorship support | Deadline: 2026-03-24 | Status: OPEN | Disciplines: Biotechnology, MedTech, AgriTech | Eligibility: Startup, Innovator, Early-stage company. Global mentorship connecting Indian biotech startups with international mentors. Call open for mentees till March 24, 2026.</summary>
-    <category term="Startup Grant" label="Startup Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-a852a06380</id>
-    <title>[2026-03-31] IGSTC WISER — Women in Science &amp; Engineering Research (Indo-German) — DST (Bilateral)</title>
-    <link href="https://www.igstc.org/programme/wiser" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: ₹39 Lakhs (Indian side) + €48,000 (German side) — 3 years | Deadline: 2026-03-31 | Status: OPEN | Disciplines: STEM — any, Life Sciences, Engineering, Technology | Eligibility: Women Faculty/Researcher (Indian PI), German Woman Co-PI required, Min 5 years research experience. Promotes collaboration between women researchers in India and Germany. Paired mode only — one Indian woman PI + one German woman PI required. Covers rese</summary>
-    <category term="Collaborative Grant" label="Collaborative Grant"/>
-    <category term="India" label="India"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-6a9126b3c6</id>
-    <title>[2026-03-31] ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) — ICGEB</title>
-    <link href="https://www.icgeb.org/fellowships/smart-fellowships-2/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ICGEB (International) | Type: Travel Grant | Amount: USD 800–2,000/month + travel + bench fee | Deadline: 2026-03-31 | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering | Eligibility: PhD Student, Postdoc (PhD ≤5 years), Indian Researcher. Scientific Mobility for Advanced Research Training. 3–9 months at any ICGEB Member State lab (not home country). Open to PhD students and postdocs (PhD ≤5 years). Stipend USD 800–2,000/month + bench fee + travel.</summary>
-    <category term="Travel Grant" label="Travel Grant"/>
-    <category term="International" label="International"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-9ef0d6f466</id>
-    <title>[2026-03-31] ICGEB Short-term PhD Fellowship (Mar 2026) — ICGEB</title>
-    <link href="https://www.icgeb.org/fellowships/short-term-phd-fellowships/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: €1,500/month (Trieste) or ZAR 16,500/month (Cape Town) + travel | Deadline: 2026-03-31 | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering | Eligibility: PhD Student (Indian), MSc holder, ICGEB Member State national. 1–12 months at ICGEB labs in Trieste (Italy), New Delhi (India), or Cape Town (SA). For collaborative predoctoral research. Indian applicants may apply to Trieste or Cape Town (not New Delhi — hom</summary>
-    <category term="Fellowship" label="Fellowship"/>
-    <category term="International" label="International"/>
-  </entry>
-
-  <entry>
-    <id>https://pranavathiyani.github.io/grantwatch#grant-9c34a24224</id>
-    <title>[2026-03-31] ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) — ICGEB</title>
-    <link href="https://www.icgeb.org/fellowships/icgeb-fellowships-for-scientists-in-biosecurity-march-2026/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
-    <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: USD 1,122/month (New Delhi) + travel + insurance | Deadline: 2026-03-31 | Status: OPEN | Disciplines: AMR, Infectious Disease, Biosecurity, Genomic Surveillance, Drug Discovery | Eligibility: Early-career Scientist, OECD/DAC country national. 2–6 months at ICGEB labs (Trieste, New Delhi, Cape Town). Focus: molecular detection of biological threats, epidemiology, genomic surveillance, drug discovery, vaccine development, diagnostics. Co-f</summary>
-    <category term="Fellowship" label="Fellowship"/>
-    <category term="International" label="International"/>
-  </entry>
 
   <entry>
     <id>https://pranavathiyani.github.io/grantwatch#grant-f8e8cb30d9</id>
     <title>[2026-04-30] ICGEB CRP Research Grant 2026 — ICGEB</title>
     <link href="https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ICGEB (International) | Type: Research Grant | Amount: Varies (project-based, USD) | Deadline: 2026-04-30 | Status: OPEN | Disciplines: Biotechnology, Life Sciences, Biomedical, Agricultural Biotech, Bioenergy, AMR | Eligibility: Faculty, Researcher at ICGEB Member State institution. ICGEB Collaborative Research Programme (CRP). Supports original research in basic science, human healthcare, industrial/agricultural biotechnology and bioenergy. India is a member state — up to 3 CRP + 2 Ear</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="International" label="International"/>
@@ -83,7 +23,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-d90b01f9d6</id>
     <title>[2026-04-30] ICGEB Early Career Return Grant (CRP) — ICGEB</title>
     <link href="https://www.icgeb.org/grants/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ICGEB (International) | Type: Research Grant | Amount: Competitive (USD) | Deadline: 2026-04-30 | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Biomedical | Eligibility: Early Career PI (returning), ICGEB Member State. Part of ICGEB CRP call. For young PIs returning to ICGEB Member States after postdoctoral training abroad. Supports setting up independent labs. Up to 2 awards per member country per call.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="International" label="International"/>
@@ -93,7 +33,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-5e7229a8b0</id>
     <title>[2026-05-05] Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF — DST (Bilateral)</title>
     <link href="https://www.icmr.gov.in/international-fellowships" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Varies per ICMR/DBT norms | Deadline: 2026-05-05 | Status: OPEN | Disciplines: Biomedical Research, Public Health, Life Sciences, Biotechnology | Eligibility: Faculty/Researcher (Indian PI), Swiss Co-PI (SNSF-eligible). Joint call by ICMR + DBT (India) and Swiss National Science Foundation (SNSF). Indian PI funded by ICMR/DBT; Swiss PI funded by SNSF. Focus: biomedical, health, and life sciences research. Live deadline: May 5,</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -103,7 +43,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f9575352e1</id>
     <title>[2026-05-05] Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026 — ICMR</title>
     <link href="https://icmr.gov.in/international-fellowships" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ICMR (India) | Type: Collaborative Grant | Amount: Varies (ICMR/DBT norms for Indian side) | Deadline: 2026-05-05 | Status: OPEN | Disciplines: Biomedical Research, Life Sciences, Biotechnology | Eligibility: Faculty (Indian PI), Swiss Co-PI required. Joint call: ICMR + DBT (India) + Swiss NSF. Indian PI funded by ICMR/DBT; Swiss PI by SNSF. Deadline May 5, 2026.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -113,7 +53,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-8b9073c526</id>
     <title>[2026-05-08] ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026 — ANRF</title>
     <link href="https://anrfonline.in/ANRF/arg_anrf" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: No upper limit — project-based | Deadline: 2026-05-08 | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Faculty, Researcher, Indian Institution. ARG subsumes the Core Research Grant (CRG). Supports frontier research in Science &amp;amp; Engineering. Pre-proposal Apr 1–May 8 2026; Full proposals Sep 15–Oct 15 2026. No upper budget limit.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -123,7 +63,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-982fa7acce</id>
     <title>[2026-05-08] ANRF MATRICS 2026 (Mathematics Research Grant) — ANRF</title>
     <link href="https://anrfonline.in/ANRF/arg_anrf" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: Up to ₹10 Lakhs (3 years) | Deadline: 2026-05-08 | Status: OPEN | Disciplines: Mathematics, Statistics, Theoretical Sciences | Eligibility: Faculty, Researcher. Mathematical Research Impact Centric Support. For active researchers in mathematics. Apr 1 – May 8 2026.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -133,7 +73,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-2dbae4ca46</id>
     <title>[2026-07-01] Fulbright-Nehru Doctoral Research Fellowship — Fulbright-Nehru</title>
     <link href="https://www.usief.org.in/Fellowships.aspx" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Fulbright-Nehru (International) | Type: Fellowship | Amount: Full support (stipend, housing, travel) | Deadline: 2026-07-01 | Status: OPEN | Disciplines: AI/ML, Energy, Space Science, Defense, Any | Eligibility: PhD Student (registered in India). 6–9 months dissertation research in the United States. Priority: AI, energy, space science, defense.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -143,7 +83,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-a7cdbb55f9</id>
     <title>[2026-07-01] BIRAC Biotechnology Ignition Grant (BIG) — BIRAC</title>
     <link href="https://birac.nic.in/big.php" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: BIRAC (India) | Type: Startup Grant | Amount: Up to ₹50 Lakhs (18 months) | Deadline: 2026-07-01 | Status: OPEN | Disciplines: Biotechnology, MedTech, AgriTech, Biopharma | Eligibility: Startup, Individual Innovator, Faculty Entrepreneur. Flagship early-stage biotech funding. Up to ₹50L for proof-of-concept. Opens TWICE yearly: Jan 1 and Jul 1. Largest early-stage biotech funding programme in India.</summary>
     <category term="Startup Grant" label="Startup Grant"/>
     <category term="India" label="India"/>
@@ -153,7 +93,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-1eff94a553</id>
     <title>[2026-07-15] Fulbright-Nehru Postdoctoral Research Fellowship — Fulbright-Nehru</title>
     <link href="https://www.usief.org.in/Fellowships.aspx" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Fulbright-Nehru (International) | Type: Fellowship | Amount: Living allowance + travel + health insurance | Deadline: 2026-07-15 | Status: OPEN | Disciplines: Science, Technology, Public Policy, Any | Eligibility: Early Career Researcher, PhD Holder (≤5 years). 8–24 months at a US institution. For Indian early career researchers in science, technology, and innovation fields.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -163,7 +103,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-c6c6ffc0d7</id>
     <title>[2026-07-31] ANRF National Science Chair (NSC) 2026 — ANRF</title>
     <link href="https://anrfonline.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: TBA | Deadline: 2026-07-31 | Status: OPEN | Disciplines: Any | Eligibility: Senior Researcher, Professor. Prestigious chair for exceptional senior researchers. Jul 2026.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -173,7 +113,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-db9f6f7175</id>
     <title>[2026-11-03] ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme — ANRF</title>
     <link href="https://anrfonline.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: TBA | Deadline: 2026-11-03 | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Researcher, Indian Institution. New ANRF scheme 2026. Promotes research inclusion. Oct 1–Nov 3 2026.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -183,7 +123,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-ebeea1e700</id>
     <title>[2026-11-15] EMBL Predoctoral Fellowship (PhD Programme) — EMBL</title>
     <link href="https://www.embl.org/about/info/international-phd-programme/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBL (International) | Type: Fellowship | Amount: Full stipend + benefits | Deadline: 2026-11-15 | Status: OPEN | Disciplines: Computational Biology, Genomics, Structural Biology, Cell Biology | Eligibility: MSc Graduate, BTech Graduate (Research experience). Fully funded PhD positions at EMBL sites across Europe. Annual intake. Indian applicants eligible and encouraged.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -193,7 +133,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-10c7db5722</id>
     <title>[2026-12-02] ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026 — ANRF</title>
     <link href="https://anrfonline.in/ANRF/ecrg_anrf" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Research Grant | Amount: ₹60 Lakhs + overheads (3 years) | Deadline: 2026-12-02 | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Early Career Faculty, Indian Institution. One-time career grant for early-career faculty. Subsumes erstwhile SRG. ₹60L + overheads for 3 years. Max 700 grants/year.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -203,7 +143,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-72b93ecd8e</id>
     <title>[2026-12-31] ANRF Ramanujan Fellowship 2026 — ANRF</title>
     <link href="https://anrfonline.in/ANRF/Ramanujan_fellowship" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: ₹1,35,000/month + research grant (5 years) | Deadline: 2026-12-31 | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Indian Scientist (Overseas/Diaspora). For exceptional Indian scientists returning from abroad. Open throughout 2026. Decisions announced twice yearly.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -283,7 +223,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-3fff93349b</id>
     <title>[Rolling / TBA] DST-FIST (Fund for Improvement of S&amp;T Infrastructure) — DST</title>
     <link href="https://dst.gov.in/scientific-programmes/scientific-engineering-research/fist" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (India) | Type: Infrastructure Grant | Amount: Up to ₹2 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: University, College, Department. Infrastructure grant for upgrading S&amp;amp;T facilities at universities and colleges. Level I (up to ₹80L) and Level II (up to ₹2Cr). Rolling applications.</summary>
     <category term="Infrastructure Grant" label="Infrastructure Grant"/>
     <category term="India" label="India"/>
@@ -293,7 +233,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-0165247ee8</id>
     <title>[Rolling / TBA] DST-PURSE (Promotion of University Research and Scientific Excellence) — DST</title>
     <link href="https://dst.gov.in/scientific-programmes/scientific-engineering-research/purse" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (India) | Type: Infrastructure Grant | Amount: Up to ₹5 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: University with strong research output. Grants to universities with strong research output to strengthen research infrastructure. Based on publication metrics.</summary>
     <category term="Infrastructure Grant" label="Infrastructure Grant"/>
     <category term="India" label="India"/>
@@ -303,7 +243,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-eac24038d3</id>
     <title>[Rolling / TBA] DST Science and Heritage Research Initiative (SHRI) — DST</title>
     <link href="https://dst.gov.in/call-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Heritage Studies, Traditional Knowledge | Eligibility: Faculty, Researcher. Integrates modern science with India's ancient heritage — astronomy, mathematics, metallurgy, traditional medicine.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -353,7 +293,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-35d74a8c7a</id>
     <title>[Rolling / TBA] UGC Major Research Project (MRP) — UGC</title>
     <link href="https://frg.ugc.ac.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: UGC (India) | Type: Research Grant | Amount: Up to ₹12 Lakhs (Sciences) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Humanities, Social Sciences, Engineering, Any | Eligibility: Faculty (Permanent), UGC 2(f)/12B Institution. Major Research Projects in Sciences (up to ₹12L) and Humanities/Social Sciences (up to ₹10L). For permanent faculty at UGC-recognized institutions.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -363,7 +303,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-e7a3e7de71</id>
     <title>[Rolling / TBA] UGC Faculty Recharge Programme (FRP) — UGC</title>
     <link href="https://frg.ugc.ac.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: UGC (India) | Type: Fellowship | Amount: ₹50,000/month + research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: PhD Holder, Postdoc. Post-doctoral fellowship at Indian universities. Addresses shortage of quality faculty. Provides salary + research grant.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -373,7 +313,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-e3a6d28e87</id>
     <title>[Rolling / TBA] UGC Basic Scientific Research (BSR) Fellowship — UGC</title>
     <link href="https://frg.ugc.ac.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: UGC (India) | Type: Fellowship | Amount: ₹25,000–28,000/month | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Basic Sciences, Mathematics, Life Sciences | Eligibility: PhD Student, UGC-recognized University. Research fellowships for meritorious students pursuing PhD in basic sciences at universities.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -395,7 +335,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-ef0e2d60d8</id>
     <title>[Rolling / TBA] MeitY AI Innovation Programme — MeitY</title>
     <link href="https://www.meity.gov.in/content/financial-grants" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: MeitY (India) | Type: Research Grant | Amount: Up to ₹10 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: AI/ML, Computer Science, Data Science | Eligibility: Academic Institution, Startup, Company (Indian). Applied Research Track: ₹2–5Cr for AI projects at academic institutions (70% funded). Focus: healthcare, agriculture, education, smart cities.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -405,7 +345,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-6bb2566a30</id>
     <title>[Rolling / TBA] MeitY Cyber Security Research Grant — MeitY</title>
     <link href="https://www.meity.gov.in/content/financial-grants" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: MeitY (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Cybersecurity, Computer Science, Networks | Eligibility: Faculty, Researcher, Institution. Research proposals in cybersecurity. Submission by email with subject 'Proposal for Research in Cyber Security'.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -415,7 +355,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-b1236f7d4d</id>
     <title>[Rolling / TBA] MeitY-NSF Joint Research Programme — MeitY</title>
     <link href="https://www.meity.gov.in/content/announcement-1st-joint-call-porposal-under--research-colaboration" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: MeitY (India) | Type: Collaborative Grant | Amount: Varies (INR, MeitY side) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Semiconductors, Communications, Cybersecurity, Green Tech | Eligibility: Faculty, Researcher, Institution. India-US joint call. Focus: semiconductors, next-gen communications, cybersecurity, green tech, intelligent transport. Indian team funded by MeitY.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -425,7 +365,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-5533b956c0</id>
     <title>[Rolling / TBA] SPARC — Scheme for Promotion of Academic and Research Collaboration — SPARC (MoE)</title>
     <link href="https://sparc.iitkgp.ac.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: SPARC (MoE) (India) | Type: Collaborative Grant | Amount: Up to ₹1.5 Crores (2 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any — interdisciplinary encouraged | Eligibility: Faculty at IIT/NIT/IISER/Central Univ, Foreign Collaborator (QS top-100). Joint proposals between Indian institutions and top-100 foreign universities. Covers exchange visits, joint workshops, and seed research grants.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -435,7 +375,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-d25d277a2d</id>
     <title>[Rolling / TBA] SPARC Proposal Template — SPARC (MoE)</title>
     <link href="https://sparc.iitkgp.ac.in/contents/proposal-submission-form-4C.docx" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: SPARC (MoE) (India) | Type: Collaborative Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Institution. SPARC call: SPARC Proposal Template</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -445,7 +385,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f1b71ec223</id>
     <title>[Rolling / TBA] Login &amp; Submit Proposal — SPARC (MoE)</title>
     <link href="https://sparc-bharat.net/login" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: SPARC (MoE) (India) | Type: Collaborative Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Institution. SPARC call: Login &amp;amp; Submit Proposal</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -455,7 +395,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-92c2add159</id>
     <title>[Rolling / TBA] IMPRINT-2 Research Grant (IIT-led) — IMPRINT (MoE)</title>
     <link href="https://imprint.res.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: IMPRINT (MoE) (India) | Type: Research Grant | Amount: Up to ₹3 Crores | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Healthcare, Energy, Sustainable Habitat, Water, Manufacturing, IT &amp; Communication, Defence, Transport, Aerospace, Advanced Materials | Eligibility: Faculty, IIT/NIT/IISER/University. Impacting Research Innovation and Technology. Funds India-centric problems across 10 technology domains. IIT/NIT-led, but any Indian institution can collaborate.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -465,7 +405,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-437f0e1709</id>
     <title>[Rolling / TBA] ANRF TARE (Teachers Associateship for Research Excellence) — ANRF</title>
     <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Fellowship | Amount: ₹10,000/month + research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: College Teacher, Assistant Professor. Allows college teachers to work in nearby IITs/IISc labs. Bridges teaching and research, supports ≤3 years.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -475,7 +415,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-8c01230619</id>
     <title>[Rolling / TBA] CSIR Junior Research Fellowship (JRF) — CSIR</title>
     <link href="https://csirhrdg.res.in/Home/Index/1/Default/2594/59" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: CSIR (India) | Type: Fellowship | Amount: ₹37,000/month (JRF) → ₹42,000/month (SRF) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Chemistry, Physics, Mathematics, Engineering | Eligibility: CSIR-NET Qualified, BSc/MSc Graduate. For NET-qualified candidates to pursue PhD in science. Awarded twice yearly (June &amp;amp; December cycle via CSIR-NET).</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -485,7 +425,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-a19dc1669f</id>
     <title>[Rolling / TBA] CSIR Senior Research Fellowship (SRF) — CSIR</title>
     <link href="https://csirhrdg.res.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: CSIR (India) | Type: Fellowship | Amount: ₹42,000/month + HRA | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: CSIR JRF Holder, PhD Student (2+ years). Upgrade from JRF after 2 years with good performance. Also direct SRF (Gates) scheme for experienced researchers.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -495,7 +435,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-4c6c13fab1</id>
     <title>[Rolling / TBA] CSIR Research Associateship (RA) — CSIR</title>
     <link href="https://csirhrdg.res.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: CSIR (India) | Type: Fellowship | Amount: ₹54,000–58,000/month | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: PhD Holder (≤3 years). Postdoctoral fellowship at CSIR institutes or universities. For PhD holders within 3 years of degree award.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -505,7 +445,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-5f73bc8065</id>
     <title>[Rolling / TBA] DST INSPIRE Faculty Award — DST</title>
     <link href="https://dst.gov.in/scientific-programmes/human-resource-development/inspire/inspire-faculty" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (India) | Type: Fellowship | Amount: ₹1,25,000/month + ₹7 Lakhs/year research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Natural Sciences, Mathematics, Engineering | Eligibility: Researcher (under 32), PhD Holder. 5-year tenure track fellowship for young Indian scientists under 32 to work in any Indian academic or R&amp;amp;D institution.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -515,7 +455,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-cac2e214dd</id>
     <title>[Rolling / TBA] DST Women Scientist Scheme-A (WOS-A) — DST</title>
     <link href="https://dst.gov.in/scientific-programmes/gender-equity/women-scientist-schemes" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (India) | Type: Fellowship | Amount: ₹30,000/month + research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology, Medicine | Eligibility: Women Scientist (career break), Faculty. Research grants for women scientists who had a career break. Supports independent research for 3 years.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -525,7 +465,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-abc7aae2e3</id>
     <title>[Rolling / TBA] DST KVPY (Kishore Vaigyanik Protsahan Yojana) — Fellowship — DST</title>
     <link href="https://dst.gov.in/scientific-programmes/human-resource-development/kvpy" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (India) | Type: Fellowship | Amount: ₹5,000–7,000/month | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Basic Sciences, Engineering | Eligibility: UG Student (Science/Engineering). Scholarship-cum-fellowship for students in BS/BTech pursuing basic sciences, to be encouraged into research careers.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -535,7 +475,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-34c383222e</id>
     <title>[Rolling / TBA] Prime Minister's Research Fellowship (PMRF) — PMRF (MoE)</title>
     <link href="https://www.pmrf.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: PMRF (MoE) (India) | Type: Fellowship | Amount: ₹70,000–80,000/month (5 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Engineering, Science, Technology | Eligibility: BTech/MSc Graduate (CGPA ≥ 8.0), Direct PhD entrant. Flagship fellowship for BTech/MSc graduates joining PhD at IITs, IISc, NITs, IISERs. Twice yearly intake (Feb &amp;amp; July).</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -545,7 +485,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-00d27bbb76</id>
     <title>[Rolling / TBA] INSA Young Scientist Award — Various</title>
     <link href="https://insaindia.res.in/award_ys.php" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (India) | Type: Award + Research Grant | Amount: Medal + research grant | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Researcher/Faculty (under 35), Indian Institution. Annual award for Indian scientists under 35 for outstanding contributions. Comes with a medal, citation, and research support grant. One of the most prestigious young scientist recognitions in India.</summary>
     <category term="Award + Research Grant" label="Award + Research Grant"/>
     <category term="India" label="India"/>
@@ -555,7 +495,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-4a15141679</id>
     <title>[Rolling / TBA] DST Young Scientist Award (SERC Fast Track / SRG equivalent) — Various</title>
     <link href="https://anrf.gov.in/en/calls-for-proposals" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (India) | Type: Research Grant | Amount: Up to ₹35 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Faculty (PhD ≤5 years). ANRF/SERB early career support for young scientists. Fast-track funding mechanism for scientists within 5 years of PhD. Superseded partially by SRG; check ANRF portal for current active scheme name.</summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
@@ -565,7 +505,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-22a185c239</id>
     <title>[Rolling / TBA] NASI Young Scientist Platinum Jubilee Award — Various</title>
     <link href="https://nasi.nic.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (India) | Type: Award | Amount: Cash prize + medal | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Technology | Eligibility: Scientist (under 35), Indian Institution. National Academy of Sciences India award for scientists under 35. Includes cash prize, medal, and visibility for early career researchers.</summary>
     <category term="Award" label="Award"/>
     <category term="India" label="India"/>
@@ -575,7 +515,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-a4fdbd1117</id>
     <title>[Rolling / TBA] IASc-INSA-NASI Joint Summer Research Fellowship — Various</title>
     <link href="https://www.ias.ac.in/fellowship/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (India) | Type: Fellowship | Amount: ₹10,000/month (2 months) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: BSc/BE/MSc Final Year Student. Summer research fellowships for final-year BSc/BE/MSc students to work with fellows of the three science academies. Good pipeline for future PhD students; also useful for faculty seeking collaborative network.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -585,7 +525,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f30b8947df</id>
     <title>[Rolling / TBA] ANRF International Travel Support (ITS) — ANRF</title>
     <link href="https://anrfonline.in/ANRF/its" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ANRF (India) | Type: Travel Grant | Amount: Up to ₹2 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Researcher, PhD Student. Travel support to present at international conferences. Rolling.</summary>
     <category term="Travel Grant" label="Travel Grant"/>
     <category term="India" label="India"/>
@@ -595,7 +535,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-dbad972b45</id>
     <title>[Rolling / TBA] CSIR Travel Grant for International Conferences — CSIR</title>
     <link href="https://www.csir.res.in/travel-grant" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: CSIR (India) | Type: Travel Grant | Amount: Up to ₹1.5 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Faculty, Researcher, CSIR Scientist. Financial support for scientists/researchers to attend/present at international conferences. Applications reviewed on a rolling basis.</summary>
     <category term="Travel Grant" label="Travel Grant"/>
     <category term="India" label="India"/>
@@ -605,7 +545,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-d54fcddfdb</id>
     <title>[Rolling / TBA] INSA International Bilateral Exchange Programme — INSA</title>
     <link href="https://insaindia.res.in/fellowship.php" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: INSA (India) | Type: Travel Grant | Amount: Varies by partner academy | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Faculty, Senior Researcher. Exchange visits with foreign academies (Royal Society, NAS, JSPS, CNRS, DFG). For Indian scientists visiting abroad or hosting foreign scientists.</summary>
     <category term="Travel Grant" label="Travel Grant"/>
     <category term="India" label="India"/>
@@ -615,7 +555,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f8fb89779e</id>
     <title>[Rolling / TBA] INSA Senior Scientist Fellowship — INSA</title>
     <link href="https://insaindia.res.in/fellowship.php" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: INSA (India) | Type: Fellowship | Amount: ₹15,000/month + contingency | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering | Eligibility: Senior Scientist, Superannuated Faculty. For INSA Fellows and active scientists post-superannuation to continue research. Provides honorarium and research support.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="India" label="India"/>
@@ -625,7 +565,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-23bcbe0ecf</id>
     <title>[Rolling / TBA] DST-NIDHI PRAYAS Grant (Proof of Concept) — Various (Startup)</title>
     <link href="https://www.indiascienceandtechnology.gov.in/listingpage/startup-grants-nidhi-programme" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (Startup) (India) | Type: Startup Grant | Amount: Up to ₹10 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Technology, Biotech, Engineering, AI/ML, Any | Eligibility: Student, Faculty, Startup, Innovator. DST National Initiative for Developing and Harnessing Innovations (NIDHI). PRAYAS supports proof-of-concept development for innovators with technology-based ideas. Up to ₹10L grant for prototyping at NIDHI-PRAYAS host institutes.</summary>
     <category term="Startup Grant" label="Startup Grant"/>
     <category term="India" label="India"/>
@@ -635,7 +575,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-fb82409801</id>
     <title>[Rolling / TBA] DST-NIDHI Technology Business Incubator (TBI) — Various (Startup)</title>
     <link href="https://www.indiascienceandtechnology.gov.in/listingpage/startup-grants-nidhi-programme" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (Startup) (India) | Type: Startup Grant | Amount: Up to ₹3.75 Crores (phased) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Technology, Engineering, Biotech, IT | Eligibility: University, Academic Institution, R&amp;D Organization. Supports academic institutions in establishing technology business incubators. SASTRA could apply to host a TBI. Provides seed funding infrastructure, mentorship ecosystem, and connects startups to industry.</summary>
     <category term="Startup Grant" label="Startup Grant"/>
     <category term="India" label="India"/>
@@ -645,7 +585,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-c7ac737b5b</id>
     <title>[Rolling / TBA] BIRAC-SPARSH (Social Innovation Grant) — Various (Startup)</title>
     <link href="https://birac.nic.in/cfp.php" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (Startup) (India) | Type: Startup Grant | Amount: Up to ₹50 Lakhs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Healthcare, Agriculture, Biotechnology | Eligibility: Startup, Social Enterprise, Faculty, NGO. BIRAC support for affordable and accessible innovations in healthcare and agriculture addressing underserved populations. Promotes frugal innovation and social entrepreneurship.</summary>
     <category term="Startup Grant" label="Startup Grant"/>
     <category term="India" label="India"/>
@@ -655,7 +595,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-b83e584a58</id>
     <title>[Rolling / TBA] Startup India Seed Fund Scheme (SISFS) — Various (Startup)</title>
     <link href="https://seedfund.startupindia.gov.in/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (Startup) (India) | Type: Startup Grant | Amount: Up to ₹20 Lakhs (grant) + ₹50 Lakhs (debenture) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Technology, Engineering, Biotech, AI/ML, Any | Eligibility: DPIIT-recognized Startup (≤2 years), via eligible Incubator. DPIIT scheme with ₹945 Cr outlay. Grants via eligible incubators for proof-of-concept, prototype development, product trials, and market entry. Up to ₹20L as grant + up to ₹50L as convertible debentures. Disbu</summary>
     <category term="Startup Grant" label="Startup Grant"/>
     <category term="India" label="India"/>
@@ -665,7 +605,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-7a89781625</id>
     <title>[Rolling / TBA] MeitY TIDE 2.0 (Technology Incubation &amp; Development) — Various (Startup)</title>
     <link href="https://www.meity.gov.in/content/tide-20" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (Startup) (India) | Type: Startup Grant | Amount: Up to ₹25 Lakhs per startup | Deadline: Rolling / TBA | Status: OPEN | Disciplines: AI/ML, IoT, Cybersecurity, FinTech, IT | Eligibility: Startup (IT/AI focused), Academic Incubator Host. MeitY Technology Incubation and Development of Entrepreneurs scheme. Supports IT/AI/IoT/Cybersecurity/FinTech startups through academic incubators. Two tracks: Incubator Support (₹3.15Cr) + Startup Grants.</summary>
     <category term="Startup Grant" label="Startup Grant"/>
     <category term="India" label="India"/>
@@ -675,7 +615,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-59ccbd1050</id>
     <title>[Rolling / TBA] CEFIPRA Indo-French Joint Research Project (General) — DST (Bilateral)</title>
     <link href="https://cefipra.org/programmes/joint-research-projects/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: ₹40–60 Lakhs (Indian side, 3 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology, Any STEM | Eligibility: Faculty (Indian PI), French Co-PI required. CEFIPRA/IFCPAR bilateral programme. Indian PI funded by DST; French PI by ANR. Covers joint research, researcher exchanges, workshops. All STEM disciplines. Proposals submitted in parallel to CEFIPRA (India) and ANR (France).</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -685,7 +625,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-879f7089c7</id>
     <title>[Rolling / TBA] CEFIPRA Indo-French ICT Research Programme — DST (Bilateral)</title>
     <link href="https://cefipra.org/programmes/ict/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: ₹40 Lakhs (Indian side) + French equivalent | Deadline: Rolling / TBA | Status: OPEN | Disciplines: AI/ML, ICT, Computer Science, Networks, Cybersecurity | Eligibility: Faculty (Indian PI), French Co-PI (Inria-affiliated). ICT-focused bilateral call. Indian PI submits via CEFIPRA online + hard copy to CEFIPRA New Delhi; French PI submits to Inria separately. Focus: AI, networks, security, systems.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -695,7 +635,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-d890bd7125</id>
     <title>[Rolling / TBA] IGSTC 2+2 Research Projects (Indo-German) — DST (Bilateral)</title>
     <link href="https://www.igstc.org/programme/2-2-projects" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: ₹1.5 Crores (Indian side, 3 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Engineering, Technology, Life Sciences, Clean Energy, IT | Eligibility: Faculty + Indian Industry Partner, German Co-PI + German Industry. Indo-German Science &amp;amp; Technology Centre flagship programme. 2 Indian + 2 German partners (academia + industry on each side). Applied research, technology transfer focus.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -705,7 +645,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-22783e4c2d</id>
     <title>[Rolling / TBA] IGSTC SING — Seed Networking Grant (Indo-German) — DST (Bilateral)</title>
     <link href="https://www.igstc.org/programme/sing" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Seed / Networking Grant | Amount: Small seed grant (INR equivalent) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any STEM | Eligibility: Faculty, Researcher, Indian Institution. Seed funding for initiating bilateral India-Germany research connections. Rolling call. Covers preliminary experiments, consumables, short visits, conference registration. Low-barrier entry point for Indo-German collaboration.</summary>
     <category term="Seed / Networking Grant" label="Seed / Networking Grant"/>
     <category term="India" label="India"/>
@@ -715,7 +655,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-11b645df4f</id>
     <title>[Rolling / TBA] DST-DFG Indo-German Joint Research (Science &amp; Engineering) — DST (Bilateral)</title>
     <link href="https://dst.gov.in/international-cooperation/bilateral/germany" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Varies (DST norms for Indian side) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Technology | Eligibility: Faculty (Indian PI), German Co-PI (DFG-eligible). Joint research projects between Indian (DST/ANRF-funded) and German (DFG-funded) PIs. Proposals submitted in parallel — Indian PI to DST, German PI to DFG via elan system. Both agencies must recommend funding.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -725,7 +665,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-0115f3f0c9</id>
     <title>[Rolling / TBA] DST-JSPS India-Japan Cooperative Science Programme (IJCSP) — DST (Bilateral)</title>
     <link href="https://dst.gov.in/international-cooperation/bilateral/japan" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Mobility grant — travel, per diem, workshop costs | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Physical Sciences, Chemical Sciences, Life Sciences, Mathematics &amp; Computational Science, Materials &amp; Engineering | Eligibility: Faculty (Indian PI), Japanese Co-PI (JSPS-eligible). Joint research projects and workshops/seminars between Indian (DST) and Japanese (JSPS) researchers. Parallel submission required. Focus on mo</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -735,7 +675,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-26d3366ab9</id>
     <title>[Rolling / TBA] Newton-Bhabha Fund — Indo-UK Joint Research — DST (Bilateral)</title>
     <link href="https://www.britishcouncil.in/programmes/higher-education/newton-bhabha" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Varies by call stream | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, Health, Sustainable Development | Eligibility: Faculty (Indian PI), UK Co-PI required. UK-India bilateral fund managed by British Council and UKRI. Supports joint research, PhD placements, researcher exchanges, and workshops. Indian PI funded by DST/DBT/other Indian agency; UK PI by UKRI.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -745,7 +685,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-e6f515d417</id>
     <title>[Rolling / TBA] UKRI-DST India Joint Initiative (via GCRF/IUK) — DST (Bilateral)</title>
     <link href="https://www.ukri.org/opportunity/?filter_opportunity_location=india" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Varies by call | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any — check specific call | Eligibility: Faculty (Indian PI), UK Co-PI required. Various UKRI calls explicitly open to India-UK partnerships. Indian partner typically funded by DST/DBT; UK partner by UKRI. Check UKRI opportunity finder filtered by 'India' for current calls.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -755,7 +695,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-d951061608</id>
     <title>[Rolling / TBA] IUSSTF Joint Research Projects (Indo-US) — DST (Bilateral)</title>
     <link href="https://www.iusstf.org/program/joint-research-projects" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: USD 60,000 (US side) + INR equivalent | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Technology, Engineering, Any STEM | Eligibility: Faculty (Indian PI), US Co-PI required. Indo-US Science &amp;amp; Technology Forum. Indian PI funded by DST; US PI funded by NSF/NIH/DOE depending on theme. Also includes Virtual Network Centres and Joint Workshops.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -765,7 +705,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-1c97a53494</id>
     <title>[Rolling / TBA] DST-MOST Indo-Israel Joint Research (S&amp;T) — DST (Bilateral)</title>
     <link href="https://dst.gov.in/international-cooperation/bilateral/israel" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Varies (DST norms) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Technology, Agriculture, Water, Health | Eligibility: Faculty (Indian PI), Israeli Co-PI required. Bilateral programme between DST (India) and Ministry of Science &amp;amp; Technology (Israel). Joint research in all S&amp;amp;T areas. Proposals submitted in parallel. Annual calls typically open Oct-Dec.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -775,7 +715,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-56b7f20b66</id>
     <title>[Rolling / TBA] DST-NRF Indo-Korea Joint Research Programme — DST (Bilateral)</title>
     <link href="https://dst.gov.in/international-cooperation/bilateral/south-korea" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Varies (DST norms) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Science, Engineering, IT, Materials, Biotech | Eligibility: Faculty (Indian PI), Korean Co-PI required. Joint research between Indian (DST) and Korean (NRF) researchers. Covers joint R&amp;amp;D projects and bilateral visits. Annual call.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -785,7 +725,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-00e69da69f</id>
     <title>[Rolling / TBA] DST-CSIRO India-Australia Strategic Research Fund — DST (Bilateral)</title>
     <link href="https://dst.gov.in/international-cooperation/bilateral/australia" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: DST (Bilateral) (India) | Type: Collaborative Grant | Amount: Varies (DST norms) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Agriculture, Water, Clean Energy, Health, Environment | Eligibility: Faculty (Indian PI), Australian Co-PI required. Joint bilateral fund between DST and CSIRO (Australia). Focus on areas of mutual interest: agriculture, water, clean energy, health. Indian PI funded by DST, Australian by CSIRO.</summary>
     <category term="Collaborative Grant" label="Collaborative Grant"/>
     <category term="India" label="India"/>
@@ -795,7 +735,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-b23665c786</id>
     <title>[Rolling / TBA] HFSP Long-Term Fellowship — HFSP</title>
     <link href="https://www.hfsp.org/funding/hfsp-funding/fellowships" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: HFSP (International) | Type: Fellowship | Amount: Stipend + research allowance + travel | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Computational Biology, Biophysics | Eligibility: PhD Holder (≤3 years), International Applicant. 3-year postdoctoral fellowship in a different country/discipline. Strongly interdisciplinary. Annual call.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -805,7 +745,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f08a545f87</id>
     <title>[Rolling / TBA] ICGEB Arturo Falaschi Postdoctoral Fellowship — ICGEB</title>
     <link href="https://www.icgeb.org/fellowships/arturo-falaschi-postdoctoral-fellowships/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: Competitive stipend + full benefits | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering | Eligibility: PhD Holder, International Applicant. Postdoctoral training at ICGEB labs in Trieste, New Delhi, or Cape Town. Average 2 years. Competitive package: stipend + health insurance + research costs. Top fellows eligible for Early Career Return Grants after completion.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -815,7 +755,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-0b5e7bc9c8</id>
     <title>[Rolling / TBA] ICGEB-JNU PhD Fellowship (India-specific) — ICGEB</title>
     <link href="https://www.icgeb.org/fellowships/icgeb-jnu-phd-fellowships/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: ICGEB (International) | Type: Fellowship | Amount: Full PhD stipend (ICGEB norms) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Biotechnology, Genetic Engineering, Computational Biology | Eligibility: Indian National, Category-I NET/JRF holder, MSc Graduate. PhD positions at ICGEB New Delhi in collaboration with JNU. Requires valid CSIR/UGC/ICMR/DBT/DST-INSPIRE/BINC JRF. Annual intake. Full stipend + world-class research environment.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -825,7 +765,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-51af8aeed3</id>
     <title>[Rolling / TBA] Wellcome India Alliance — Early Career Fellowship — Wellcome DBT India Alliance</title>
     <link href="https://indiaalliance.org/apply-for-a-grant/early-career-fellowships" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Wellcome DBT India Alliance (International) | Type: Fellowship | Amount: Up to ₹2.4 Crores (5 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biomedical, Life Sciences, Public Health | Eligibility: Early Career Researcher (PhD ≤5 years). 5-year fellowship for researchers who have completed PhD ≤ 5 years ago. Covers salary, research costs, and training. Highly competitive.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -835,7 +775,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-ded4f0913e</id>
     <title>[Rolling / TBA] Wellcome India Alliance — Senior Fellowship — Wellcome DBT India Alliance</title>
     <link href="https://indiaalliance.org/apply-for-a-grant/senior-fellowships" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Wellcome DBT India Alliance (International) | Type: Fellowship | Amount: Up to ₹5.5 Crores (5 years) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biomedical, Life Sciences | Eligibility: Senior Faculty, Independent Researcher. 5-year award for researchers with strong independent track record. Covers full research program costs.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -845,7 +785,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-2961a29306</id>
     <title>[Rolling / TBA] Find a Young Investigator, Installation Grantee or Global Investigator — EMBO</title>
     <link href="https://www.embo.org/the-embo-communities/embo-young-investigator-network/find-a-young-investigator-installation-grantee-or-global-investigator/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Find a Young Investigator, Installation Grantee or Global Investigator</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -855,7 +795,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-974d3d13c6</id>
     <title>[Rolling / TBA] FEBS|EMBO Women in Science Awardees — EMBO</title>
     <link href="https://www.embo.org/the-embo-communities/febsembo-women-in-science-awardees/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: FEBS|EMBO Women in Science Awardees</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -865,7 +805,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-6e5388d826</id>
     <title>[Rolling / TBA] Nominate for the Women in Science Award — EMBO</title>
     <link href="https://www.embo.org/the-embo-communities/febsembo-women-in-science-awardees/nominate-for-the-women-in-science-award/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Nominate for the Women in Science Award</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -875,7 +815,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-90a32a92cf</id>
     <title>[Rolling / TBA] EMBO Lab Sustainability Award — EMBO</title>
     <link href="https://www.embo.org/the-embo-communities/embo-lab-sustainability-award/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: EMBO Lab Sustainability Award</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -885,7 +825,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f3dae28a6a</id>
     <title>[Rolling / TBA] Fellowships, grants and career support — EMBO</title>
     <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Fellowships, grants and career support</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -895,7 +835,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-41ea8bb73b</id>
     <title>[Rolling / TBA] Postdoctoral Fellowships — EMBO</title>
     <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Postdoctoral Fellowships</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -905,7 +845,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-aab3e8db4b</id>
     <title>[Rolling / TBA] Scientific Exchange Grants — EMBO</title>
     <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Scientific Exchange Grants</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -915,7 +855,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-e051acebd7</id>
     <title>[Rolling / TBA] Installation Grants — EMBO</title>
     <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/installation-grants/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Installation Grants</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -925,7 +865,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f386f1a208</id>
     <title>[Rolling / TBA] Maria Leptin | EMBO Science Journalism Fellowships — EMBO</title>
     <link href="https://www.embo.org/funding/fellowships-grants-and-career-support/maria-leptin-embo-science-journalism-fellowships/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Maria Leptin | EMBO Science Journalism Fellowships</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -935,7 +875,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-8967823a53</id>
     <title>[Rolling / TBA] Funding for conferences and training — EMBO</title>
     <link href="https://www.embo.org/funding/funding-for-conferences-and-training/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Funding for conferences and training</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -945,7 +885,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f4e61225a6</id>
     <title>[Rolling / TBA] Lecture, travel and childcare grants — EMBO</title>
     <link href="https://www.embo.org/funding/lecture-travel-and-childcare-grants/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBO (International) | Type: Fellowship / Award | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Life Sciences, Molecular Biology | Eligibility: Researcher, Postdoc, Faculty. EMBO funding opportunity: Lecture, travel and childcare grants</summary>
     <category term="Fellowship / Award" label="Fellowship / Award"/>
     <category term="International" label="International"/>
@@ -955,7 +895,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-7b10de2dc8</id>
     <title>[Rolling / TBA] EMBL Postdoctoral Fellowship (EIPOD) — EMBL</title>
     <link href="https://www.embl.org/about/info/postdoctoral-programme/eipod-linc-programme/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: EMBL (International) | Type: Fellowship | Amount: EMBL salary scale + benefits | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Structural Biology, Computational Biology, Genomics, Cell Biology | Eligibility: PhD Holder (≤2 years), International Applicant. EMBL Interdisciplinary Postdoctoral (EIPOD) programme at Heidelberg and other sites. Interdisciplinary life science research. Biannual calls.</summary>
     <category term="Fellowship" label="Fellowship"/>
     <category term="International" label="International"/>
@@ -965,7 +905,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f0280bb8d5</id>
     <title>[Rolling / TBA] FEBS Short-Term Fellowship — FEBS</title>
     <link href="https://www.febs.org/funding/fellowships-and-grants/short-term-fellowships/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: FEBS (International) | Type: Travel Grant | Amount: Up to €3,500 | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Biochemistry, Molecular Biology, Life Sciences | Eligibility: PhD Student, Postdoc, Early Career Researcher. Supports short research visits (1–3 months) to a lab in a different country. Open to researchers from FEBS constituent societies.</summary>
     <category term="Travel Grant" label="Travel Grant"/>
     <category term="International" label="International"/>
@@ -975,7 +915,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-802609d9b2</id>
     <title>[Rolling / TBA] FEBS Science for Life Laboratory Prize — FEBS</title>
     <link href="https://www.febs.org/funding/" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: FEBS (International) | Type: Travel Grant | Amount: Prize + travel | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Molecular Biology, Life Sciences | Eligibility: Researcher, Early Career. Annual FEBS prize for outstanding contributions to molecular life sciences. Includes travel to FEBS Congress.</summary>
     <category term="Travel Grant" label="Travel Grant"/>
     <category term="International" label="International"/>
@@ -985,7 +925,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-27c772e35a</id>
     <title>[Rolling / TBA] ACM-India: IARCS Travel Grants — Various (Travel)</title>
     <link href="https://www.iarcs.org.in/activities/grants.php" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (Travel) (International) | Type: Travel Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: PhD Student, Researcher, Indian Applicant. Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: travelgrants@iarcs.org.in</summary>
     <category term="Travel Grant" label="Travel Grant"/>
     <category term="International" label="International"/>
@@ -995,7 +935,7 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-38b1f178b4</id>
     <title>[Rolling / TBA] ACM-RFG — Various (Travel)</title>
     <link href="https://india.acm.org/research/research-facilitation-grant" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: Various (Travel) (International) | Type: Travel Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: PhD Student, Researcher, Indian Applicant. Travel grant for Indian PhD students/researchers. Source: AdhyaSuman/International_Travel_Grants (GitHub). Contact: acmirfg@acmindia.org</summary>
     <category term="Travel Grant" label="Travel Grant"/>
     <category term="International" label="International"/>
@@ -1005,10 +945,70 @@
     <id>https://pranavathiyani.github.io/grantwatch#grant-f5f5f45312</id>
     <title>[Rolling / TBA] AICTE Research Promotion Scheme (RPS) — AICTE</title>
     <link href="https://www.aicte-india.org/bureaus/research/research-promotion-scheme" rel="alternate"/>
-    <updated>2026-03-15T00:00:00Z</updated>
+    <updated>2026-04-01T00:00:00Z</updated>
     <summary type="text">Agency: AICTE (India) | Type: Research Grant | Amount: Up to ₹30 Lakhs (Development Research track) | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Engineering, Technology, Applied Sciences, Computer Science, Biotechnology, Any AICTE discipline | Eligibility: Faculty at AICTE-approved Institution, Regular position. Promotes research culture in AICTE-approved institutions. Two tracks: Basic/Applied Research (₹20L, 2yr) and Development Research (₹30L, 3yr). Less competitive than DST/DBT — </summary>
     <category term="Research Grant" label="Research Grant"/>
     <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-2eb16ffa0d</id>
+    <title>[Rolling / TBA] AICTE Margdarshan — Faculty Development Grant — AICTE</title>
+    <link href="https://www.aicte-india.org" rel="alternate"/>
+    <updated>2026-04-01T00:00:00Z</updated>
+    <summary type="text">Agency: AICTE (India) | Type: Faculty Development Grant | Amount: Varies by programme | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Engineering, Technology, Management | Eligibility: Faculty at AICTE-approved Institution. AICTE faculty development and capacity building grants. Covers short-term courses, workshops, and training programmes at premier institutions. Also includes Quality Improvement Programme (QIP) support.</summary>
+    <category term="Faculty Development Grant" label="Faculty Development Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-16a1988c71</id>
+    <title>[Rolling / TBA] AICTE-INAE (Indian National Academy of Engineering) Research Grant — AICTE</title>
+    <link href="https://www.aicte-india.org" rel="alternate"/>
+    <updated>2026-04-01T00:00:00Z</updated>
+    <summary type="text">Agency: AICTE (India) | Type: Research Grant | Amount: Varies | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Engineering, Technology, Computer Science | Eligibility: Faculty, Young Engineer (under 32), AICTE Institution. Joint AICTE-INAE scheme for frontier engineering research. Includes Young Engineer Award track with research support. For engineering disciplines at AICTE institutions.</summary>
+    <category term="Research Grant" label="Research Grant"/>
+    <category term="India" label="India"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-53d5c0df0a</id>
+    <title>[Rolling / TBA] Georg Forster Research Fellowship (AvH) — India-eligible — Alexander von Humboldt Foundation</title>
+    <link href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/georg-forster-research-fellowship" rel="alternate"/>
+    <updated>2026-04-01T00:00:00Z</updated>
+    <summary type="text">Agency: Alexander von Humboldt Foundation (International) | Type: Fellowship | Amount: €2,670–3,170/month + travel + family allowance | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any — all disciplines eligible | Eligibility: PhD Holder, Indian Researcher, Strong publication record. For researchers from developing/transition countries (incl. India) to conduct research in Germany for 6–24 months. All disciplines. Highly prestigious. Rolling deadline — no fixed call. Strong publication r</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-4c0adc8beb</id>
+    <title>[Rolling / TBA] Humboldt Research Fellowship for Postdoctoral Researchers — Alexander von Humboldt Foundation</title>
+    <link href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship" rel="alternate"/>
+    <updated>2026-04-01T00:00:00Z</updated>
+    <summary type="text">Agency: Alexander von Humboldt Foundation (International) | Type: Fellowship | Amount: €2,670/month + travel + health insurance | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Postdoc (PhD ≤4 years), Indian Researcher. 6–24 months at a German university/research institution. Open to Indian researchers with PhD ≤4 years. Any discipline. Rolling deadline — apply anytime. One of the most prestigious postdoc fellowships worldwide.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-709f4c46be</id>
+    <title>[Rolling / TBA] Humboldt Research Fellowship for Experienced Researchers — Alexander von Humboldt Foundation</title>
+    <link href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship" rel="alternate"/>
+    <updated>2026-04-01T00:00:00Z</updated>
+    <summary type="text">Agency: Alexander von Humboldt Foundation (International) | Type: Fellowship | Amount: €3,170/month + travel + family allowance | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Senior Researcher (PhD &gt;4 years), Indian Researcher. For senior researchers (&amp;gt;4 years post-PhD) to work in Germany for 6–18 months. All disciplines. Highly prestigious. Can be split visits. India has one of the highest success rates globally.</summary>
+    <category term="Fellowship" label="Fellowship"/>
+    <category term="International" label="International"/>
+  </entry>
+
+  <entry>
+    <id>https://pranavathiyani.github.io/grantwatch#grant-ed90d2a9af</id>
+    <title>[Rolling / TBA] Humboldt Research Award — Alexander von Humboldt Foundation</title>
+    <link href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-award" rel="alternate"/>
+    <updated>2026-04-01T00:00:00Z</updated>
+    <summary type="text">Agency: Alexander von Humboldt Foundation (International) | Type: Award | Amount: €60,000 + extended Germany visit | Deadline: Rolling / TBA | Status: OPEN | Disciplines: Any | Eligibility: Senior Researcher (nominated by German colleague). Prestigious award for internationally recognised researchers in any discipline. Nominated by German academics — cannot self-apply. Carries €60,000 prize and extended research stay in Germany.</summary>
+    <category term="Award" label="Award"/>
+    <category term="International" label="International"/>
   </entry>
 
 </feed>

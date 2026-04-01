@@ -9,12 +9,12 @@
 
 ---
 
-## Live Stats · Last updated 2026-03-15
+## Live Stats · Last updated 2026-04-01
 
 | Metric | Count |
 |--------|-------|
-| 📋 Total grants indexed | **187** |
-| ✅ Open calls | **182** |
+| 📋 Total grants indexed | **188** |
+| ✅ Open calls | **177** |
 | 🇮🇳 Indian agency grants | **0** |
 | 🌍 International grants | **2** |
 | 🎓 Fellowships | **61** |
@@ -27,12 +27,8 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **0d** | ICGEB Arturo Falaschi SMART Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
-| 🔴 **0d** | ICGEB Biosecurity Fellowship — Biological Threat Training (Mar 2026) | ICGEB | 2026-03-31 |
-| 🔴 **0d** | ICGEB Short-term PhD Fellowship (Mar 2026) | ICGEB | 2026-03-31 |
-| 🔴 **0d** | IGSTC WISER — Women in Science & Engineering Research (Indo-German) | DST (Bilateral) | 2026-03-31 |
-| 🟡 **30d** | ICGEB CRP Research Grant 2026 | ICGEB | 2026-04-30 |
-| 🟡 **30d** | ICGEB Early Career Return Grant (CRP) | ICGEB | 2026-04-30 |
+| 🟡 **29d** | ICGEB CRP Research Grant 2026 | ICGEB | 2026-04-30 |
+| 🟡 **29d** | ICGEB Early Career Return Grant (CRP) | ICGEB | 2026-04-30 |
 
 ---
 

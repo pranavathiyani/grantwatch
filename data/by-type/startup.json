@@ -1,33 +1,9 @@
 {
   "category": "startup",
-  "generated": "2026-03-15T07:42:10Z",
+  "generated": "2026-04-01T07:21:00Z",
   "total": 12,
-  "open": 12,
+  "open": 11,
   "grants": [
-    {
-      "id": "0a1b8f8afa",
-      "title": "BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups",
-      "agency": "BIRAC",
-      "country": "India",
-      "grant_type": "Startup Grant",
-      "amount": "Mentorship support",
-      "description": "Global mentorship connecting Indian biotech startups with international mentors. Call open for mentees till March 24, 2026.",
-      "url": "https://birac.nic.in/",
-      "deadline": "2026-03-24",
-      "open_date": null,
-      "eligibility": [
-        "Startup",
-        "Innovator",
-        "Early-stage company"
-      ],
-      "disciplines": [
-        "Biotechnology",
-        "MedTech",
-        "AgriTech"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
     {
       "id": "a7cdbb55f9",
       "title": "BIRAC Biotechnology Ignition Grant (BIG)",
@@ -51,7 +27,7 @@
         "Biopharma"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "23bcbe0ecf",
@@ -78,7 +54,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "fb82409801",
@@ -103,7 +79,7 @@
         "IT"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "c7ac737b5b",
@@ -128,7 +104,7 @@
         "Biotechnology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "b83e584a58",
@@ -153,7 +129,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "7a89781625",
@@ -178,7 +154,7 @@
         "IT"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "fda7de4c5d",
@@ -203,7 +179,7 @@
         "Biotechnology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "455bab871e",
@@ -227,7 +203,7 @@
         "MedTech"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "f4a3ac0efb",
@@ -252,7 +228,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "a0f60ba3e3",
@@ -277,7 +253,7 @@
         "Biopharma"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "539504119e",
@@ -300,7 +276,31 @@
         "Engineering"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
+    },
+    {
+      "id": "0a1b8f8afa",
+      "title": "BIRAC Bio-Saarthi — Global Mentorship for Biotech Startups",
+      "agency": "BIRAC",
+      "country": "India",
+      "grant_type": "Startup Grant",
+      "amount": "Mentorship support",
+      "description": "Global mentorship connecting Indian biotech startups with international mentors. Call open for mentees till March 24, 2026.",
+      "url": "https://birac.nic.in/",
+      "deadline": "2026-03-24",
+      "open_date": null,
+      "eligibility": [
+        "Startup",
+        "Innovator",
+        "Early-stage company"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "MedTech",
+        "AgriTech"
+      ],
+      "status": "closed",
+      "last_updated": "2026-04-01"
     }
   ]
 }

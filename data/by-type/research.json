@@ -1,33 +1,9 @@
 {
   "category": "research",
-  "generated": "2026-03-15T07:42:10Z",
-  "total": 59,
+  "generated": "2026-04-01T07:21:00Z",
+  "total": 60,
   "open": 57,
   "grants": [
-    {
-      "id": "5688001f61",
-      "title": "HFSP Research Grant — Program Grant",
-      "agency": "HFSP",
-      "country": "International",
-      "grant_type": "Research Grant",
-      "amount": "Up to USD 450,000/year (3 years)",
-      "description": "High-risk, high-reward basic life science research through international teams. India-based PIs can lead or join. One of the most prestigious international grants for life sciences.",
-      "url": "https://www.hfsp.org/funding/hfsp-funding/research-grants",
-      "deadline": "2026-03-17",
-      "open_date": null,
-      "eligibility": [
-        "Faculty",
-        "Independent Researcher"
-      ],
-      "disciplines": [
-        "Life Sciences",
-        "Biophysics",
-        "Neuroscience",
-        "Computational Biology"
-      ],
-      "status": "open",
-      "last_updated": "2026-03-15"
-    },
     {
       "id": "f8e8cb30d9",
       "title": "ICGEB CRP Research Grant 2026",
@@ -52,7 +28,7 @@
         "AMR"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "d90b01f9d6",
@@ -75,7 +51,7 @@
         "Biomedical"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "8b9073c526",
@@ -99,7 +75,7 @@
         "Technology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "982fa7acce",
@@ -122,7 +98,7 @@
         "Theoretical Sciences"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "db9f6f7175",
@@ -144,7 +120,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "10c7db5722",
@@ -167,7 +143,7 @@
         "Technology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "gates-gc001",
@@ -268,7 +244,7 @@
         "Technology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "0165247ee8",
@@ -288,7 +264,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "eac24038d3",
@@ -311,7 +287,7 @@
         "Traditional Knowledge"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "61fba2fa2e",
@@ -424,7 +400,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "3862e7c6b3",
@@ -469,7 +445,7 @@
         "Data Science"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "6bb2566a30",
@@ -493,7 +469,7 @@
         "Networks"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "92c2add159",
@@ -523,7 +499,7 @@
         "Advanced Materials"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "4a15141679",
@@ -545,7 +521,7 @@
         "Technology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "f5f5f45312",
@@ -571,7 +547,7 @@
         "Any AICTE discipline"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "2eb16ffa0d",
@@ -593,7 +569,7 @@
         "Management"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "16a1988c71",
@@ -617,7 +593,7 @@
         "Computer Science"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "299785b483",
@@ -644,7 +620,7 @@
         "Bioinformatics"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "b6d483505f",
@@ -669,7 +645,7 @@
         "AI/ML"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "2ba73488d5",
@@ -693,7 +669,7 @@
         "Food Science"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "6f8ce320b2",
@@ -717,7 +693,7 @@
         "Food Science"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "825f444e39",
@@ -789,7 +765,7 @@
         "Food Science"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "35ec82e4ae",
@@ -813,7 +789,7 @@
         "Food Science"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "eb3e2f331b",
@@ -836,7 +812,7 @@
         "Interdisciplinary"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "c496d5a5ad",
@@ -846,7 +822,7 @@
       "grant_type": "Research Grant",
       "amount": "Varies by project scope (₹10–50L typical)",
       "description": "Main ICMR extramural research funding for biomedical and health research. Open to medical colleges, universities, and research institutions.",
-      "url": "https://icmr.gov.in/call-for-applications",
+      "url": "https://icmr.gov.in/extramural-grants",
       "deadline": null,
       "open_date": null,
       "eligibility": [
@@ -861,7 +837,7 @@
         "Clinical Research"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "a96916afb7",
@@ -871,7 +847,7 @@
       "grant_type": "Research Grant",
       "amount": "Up to ₹30 Lakhs",
       "description": "New ICMR small grant scheme. Faster turnaround than ad-hoc. Up to ₹30L. Follow-on ANVESHAN also available.",
-      "url": "https://icmr.gov.in/call-for-applications",
+      "url": "https://icmr.gov.in/extramural-grants",
       "deadline": null,
       "open_date": null,
       "eligibility": [
@@ -885,7 +861,7 @@
         "Clinical Research"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "2cda524f9e",
@@ -909,7 +885,7 @@
         "Translational Research"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "c52e14238c",
@@ -919,7 +895,7 @@
       "grant_type": "Research Grant",
       "amount": "Up to ₹20 Lakhs (2 years)",
       "description": "Seed grant for newly appointed faculty entering biomedical/health research. Helps establish research programme at a new institution.",
-      "url": "https://icmr.gov.in/call-for-applications",
+      "url": "https://icmr.gov.in/extramural-grants",
       "deadline": null,
       "open_date": null,
       "eligibility": [
@@ -931,7 +907,7 @@
         "Health Sciences"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "a68d9c584a",
@@ -955,7 +931,7 @@
         "MedTech"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "a9a1825631",
@@ -978,7 +954,7 @@
         "Diagnostics"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "a395b7bffc",
@@ -1002,7 +978,7 @@
         "Diagnostics"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "aa4aa3c183",
@@ -1026,7 +1002,7 @@
         "Translational Research"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "31cf6d9243",
@@ -1053,7 +1029,7 @@
         "Vaccines"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "7ddcf8c549",
@@ -1078,7 +1054,7 @@
         "Bioinformatics"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "e3a62860c6",
@@ -1101,7 +1077,7 @@
         "Interdisciplinary"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "3c1e43a4c4",
@@ -1125,7 +1101,7 @@
         "Clinical Research"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "4666401a2b",
@@ -1149,7 +1125,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "e38f834420",
@@ -1172,7 +1148,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "nih-fogarty-global-health-2026",
@@ -1218,7 +1194,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "b78925d18f",
@@ -1241,7 +1217,7 @@
         "Technology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "4741ab25ae",
@@ -1265,7 +1241,7 @@
         "Social Development"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "5e621443c4",
@@ -1289,7 +1265,7 @@
         "Any frontier area"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "7f1ffe7ccc",
@@ -1312,7 +1288,7 @@
         "Technology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "55e7ab887f",
@@ -1335,7 +1311,7 @@
         "Technology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "ff7ee534d9",
@@ -1361,7 +1337,31 @@
         "Microbiology"
       ],
       "status": "open",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
+    },
+    {
+      "id": "9df2d3cacb",
+      "title": "Inviting Applications for the Post of Member (Planning & Development) of the Land Ports Authority of India (LPAI) on Deputation Basis",
+      "agency": "ICAR",
+      "country": "India",
+      "grant_type": "Research Grant",
+      "amount": "Varies",
+      "description": "Inviting Applications for the Post of Member (Planning & Development) of the Land Ports Authority of India (LPAI) on Deputation Basis",
+      "url": "https://icar.gov.in/hi/inviting-applications-post-member-planning-development-land-ports-authority-india-lpai-deputation",
+      "deadline": null,
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Researcher",
+        "Indian Institution"
+      ],
+      "disciplines": [
+        "Agriculture",
+        "Animal Science",
+        "Food Science"
+      ],
+      "status": "open",
+      "last_updated": "2026-04-01"
     },
     {
       "id": "63ff80082f",
@@ -1383,7 +1383,7 @@
         "Engineering"
       ],
       "status": "closed",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
     },
     {
       "id": "7ef3799671",
@@ -1405,7 +1405,31 @@
         "Technology"
       ],
       "status": "closed",
-      "last_updated": "2026-03-15"
+      "last_updated": "2026-04-01"
+    },
+    {
+      "id": "5688001f61",
+      "title": "HFSP Research Grant — Program Grant",
+      "agency": "HFSP",
+      "country": "International",
+      "grant_type": "Research Grant",
+      "amount": "Up to USD 450,000/year (3 years)",
+      "description": "High-risk, high-reward basic life science research through international teams. India-based PIs can lead or join. One of the most prestigious international grants for life sciences.",
+      "url": "https://www.hfsp.org/funding/hfsp-funding/research-grants",
+      "deadline": "2026-03-17",
+      "open_date": null,
+      "eligibility": [
+        "Faculty",
+        "Independent Researcher"
+      ],
+      "disciplines": [
+        "Life Sciences",
+        "Biophysics",
+        "Neuroscience",
+        "Computational Biology"
+      ],
+      "status": "closed",
+      "last_updated": "2026-04-01"
     }
   ]
 }
