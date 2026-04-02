@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-04-01",
+  "checked_on": "2026-04-02",
   "closing_7d": [],
   "closing_14d": [],
   "closing_30d": [
@@ -9,7 +9,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/",
       "deadline": "2026-04-30",
-      "days_left": 29,
+      "days_left": 28,
       "amount": "Varies (project-based, USD)",
       "grant_type": "Research Grant"
     },
@@ -19,7 +19,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/grants/",
       "deadline": "2026-04-30",
-      "days_left": 29,
+      "days_left": 28,
       "amount": "Competitive (USD)",
       "grant_type": "Research Grant"
     }
