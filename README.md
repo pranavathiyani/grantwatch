@@ -27,8 +27,8 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🟡 **27d** | ICGEB CRP Research Grant 2026 | ICGEB | 2026-04-30 |
-| 🟡 **27d** | ICGEB Early Career Return Grant (CRP) | ICGEB | 2026-04-30 |
+| 🟡 **26d** | ICGEB CRP Research Grant 2026 | ICGEB | 2026-04-30 |
+| 🟡 **26d** | ICGEB Early Career Return Grant (CRP) | ICGEB | 2026-04-30 |
 
 ---
 
