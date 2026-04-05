@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-04-04",
+  "checked_on": "2026-04-05",
   "closing_7d": [],
   "closing_14d": [],
   "closing_30d": [
@@ -9,7 +9,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/",
       "deadline": "2026-04-30",
-      "days_left": 26,
+      "days_left": 25,
       "amount": "Varies (project-based, USD)",
       "grant_type": "Research Grant"
     },
@@ -19,14 +19,34 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/grants/",
       "deadline": "2026-04-30",
-      "days_left": 26,
+      "days_left": 25,
       "amount": "Competitive (USD)",
       "grant_type": "Research Grant"
+    },
+    {
+      "id": "5e7229a8b0",
+      "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF",
+      "agency": "DST (Bilateral)",
+      "url": "https://www.icmr.gov.in/international-fellowships",
+      "deadline": "2026-05-05",
+      "days_left": 30,
+      "amount": "Varies per ICMR/DBT norms",
+      "grant_type": "Collaborative Grant"
+    },
+    {
+      "id": "f9575352e1",
+      "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026",
+      "agency": "ICMR",
+      "url": "https://icmr.gov.in/international-fellowships",
+      "deadline": "2026-05-05",
+      "days_left": 30,
+      "amount": "Varies (ICMR/DBT norms for Indian side)",
+      "grant_type": "Collaborative Grant"
     }
   ],
   "summary": {
     "critical": 0,
     "warning": 0,
-    "upcoming": 2
+    "upcoming": 4
   }
 }
