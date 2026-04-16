@@ -1,15 +1,14 @@
 {
-  "checked_on": "2026-04-15",
+  "checked_on": "2026-04-16",
   "closing_7d": [],
-  "closing_14d": [],
-  "closing_30d": [
+  "closing_14d": [
     {
       "id": "f8e8cb30d9",
       "title": "ICGEB CRP Research Grant 2026",
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/",
       "deadline": "2026-04-30",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "Varies (project-based, USD)",
       "grant_type": "Research Grant"
     },
@@ -19,17 +18,19 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/grants/",
       "deadline": "2026-04-30",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "Competitive (USD)",
       "grant_type": "Research Grant"
-    },
+    }
+  ],
+  "closing_30d": [
     {
       "id": "5e7229a8b0",
       "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF",
       "agency": "DST (Bilateral)",
       "url": "https://www.icmr.gov.in/international-fellowships",
       "deadline": "2026-05-05",
-      "days_left": 20,
+      "days_left": 19,
       "amount": "Varies per ICMR/DBT norms",
       "grant_type": "Collaborative Grant"
     },
@@ -39,7 +40,7 @@
       "agency": "ICMR",
       "url": "https://icmr.gov.in/international-fellowships",
       "deadline": "2026-05-05",
-      "days_left": 20,
+      "days_left": 19,
       "amount": "Varies (ICMR/DBT norms for Indian side)",
       "grant_type": "Collaborative Grant"
     },
@@ -49,7 +50,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/ANRF/arg_anrf",
       "deadline": "2026-05-08",
-      "days_left": 23,
+      "days_left": 22,
       "amount": "No upper limit — project-based",
       "grant_type": "Research Grant"
     },
@@ -59,14 +60,14 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/ANRF/arg_anrf",
       "deadline": "2026-05-08",
-      "days_left": 23,
+      "days_left": 22,
       "amount": "Up to ₹10 Lakhs (3 years)",
       "grant_type": "Research Grant"
     }
   ],
   "summary": {
     "critical": 0,
-    "warning": 0,
-    "upcoming": 6
+    "warning": 2,
+    "upcoming": 4
   }
 }
