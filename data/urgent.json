@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-04-16",
+  "checked_on": "2026-04-17",
   "closing_7d": [],
   "closing_14d": [
     {
@@ -8,7 +8,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/",
       "deadline": "2026-04-30",
-      "days_left": 14,
+      "days_left": 13,
       "amount": "Varies (project-based, USD)",
       "grant_type": "Research Grant"
     },
@@ -18,7 +18,7 @@
       "agency": "ICGEB",
       "url": "https://www.icgeb.org/grants/",
       "deadline": "2026-04-30",
-      "days_left": 14,
+      "days_left": 13,
       "amount": "Competitive (USD)",
       "grant_type": "Research Grant"
     }
@@ -30,7 +30,7 @@
       "agency": "DST (Bilateral)",
       "url": "https://www.icmr.gov.in/international-fellowships",
       "deadline": "2026-05-05",
-      "days_left": 19,
+      "days_left": 18,
       "amount": "Varies per ICMR/DBT norms",
       "grant_type": "Collaborative Grant"
     },
@@ -40,7 +40,7 @@
       "agency": "ICMR",
       "url": "https://icmr.gov.in/international-fellowships",
       "deadline": "2026-05-05",
-      "days_left": 19,
+      "days_left": 18,
       "amount": "Varies (ICMR/DBT norms for Indian side)",
       "grant_type": "Collaborative Grant"
     },
@@ -50,7 +50,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/ANRF/arg_anrf",
       "deadline": "2026-05-08",
-      "days_left": 22,
+      "days_left": 21,
       "amount": "No upper limit — project-based",
       "grant_type": "Research Grant"
     },
@@ -60,7 +60,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/ANRF/arg_anrf",
       "deadline": "2026-05-08",
-      "days_left": 22,
+      "days_left": 21,
       "amount": "Up to ₹10 Lakhs (3 years)",
       "grant_type": "Research Grant"
     }
