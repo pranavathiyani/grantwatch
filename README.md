@@ -27,12 +27,12 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **5d** | ICGEB CRP Research Grant 2026 | ICGEB | 2026-04-30 |
-| 🔴 **5d** | ICGEB Early Career Return Grant (CRP) | ICGEB | 2026-04-30 |
-| 🟡 **10d** | Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF | DST (Bilateral) | 2026-05-05 |
-| 🟡 **10d** | Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026 | ICMR | 2026-05-05 |
-| 🟡 **13d** | ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026 | ANRF | 2026-05-08 |
-| 🟡 **13d** | ANRF MATRICS 2026 (Mathematics Research Grant) | ANRF | 2026-05-08 |
+| 🔴 **4d** | ICGEB CRP Research Grant 2026 | ICGEB | 2026-04-30 |
+| 🔴 **4d** | ICGEB Early Career Return Grant (CRP) | ICGEB | 2026-04-30 |
+| 🟡 **9d** | Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF | DST (Bilateral) | 2026-05-05 |
+| 🟡 **9d** | Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026 | ICMR | 2026-05-05 |
+| 🟡 **12d** | ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026 | ANRF | 2026-05-08 |
+| 🟡 **12d** | ANRF MATRICS 2026 (Mathematics Research Grant) | ANRF | 2026-05-08 |
 
 ---
 
