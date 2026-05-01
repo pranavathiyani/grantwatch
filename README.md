@@ -9,12 +9,12 @@
 
 ---
 
-## Live Stats · Last updated 2026-04-15
+## Live Stats · Last updated 2026-05-01
 
 | Metric | Count |
 |--------|-------|
 | 📋 Total grants indexed | **188** |
-| ✅ Open calls | **177** |
+| ✅ Open calls | **175** |
 | 🇮🇳 Indian agency grants | **0** |
 | 🌍 International grants | **2** |
 | 🎓 Fellowships | **61** |
@@ -27,12 +27,10 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **0d** | ICGEB CRP Research Grant 2026 | ICGEB | 2026-04-30 |
-| 🔴 **0d** | ICGEB Early Career Return Grant (CRP) | ICGEB | 2026-04-30 |
-| 🔴 **5d** | Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF | DST (Bilateral) | 2026-05-05 |
-| 🔴 **5d** | Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026 | ICMR | 2026-05-05 |
-| 🟡 **8d** | ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026 | ANRF | 2026-05-08 |
-| 🟡 **8d** | ANRF MATRICS 2026 (Mathematics Research Grant) | ANRF | 2026-05-08 |
+| 🔴 **4d** | Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF | DST (Bilateral) | 2026-05-05 |
+| 🔴 **4d** | Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026 | ICMR | 2026-05-05 |
+| 🔴 **7d** | ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026 | ANRF | 2026-05-08 |
+| 🔴 **7d** | ANRF MATRICS 2026 (Mathematics Research Grant) | ANRF | 2026-05-08 |
 
 ---
 
