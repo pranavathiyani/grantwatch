@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-05-03",
+  "checked_on": "2026-05-04",
   "closing_7d": [
     {
       "id": "5e7229a8b0",
@@ -7,7 +7,7 @@
       "agency": "DST (Bilateral)",
       "url": "https://www.icmr.gov.in/international-fellowships",
       "deadline": "2026-05-05",
-      "days_left": 2,
+      "days_left": 1,
       "amount": "Varies per ICMR/DBT norms",
       "grant_type": "Collaborative Grant"
     },
@@ -17,7 +17,7 @@
       "agency": "ICMR",
       "url": "https://icmr.gov.in/international-fellowships",
       "deadline": "2026-05-05",
-      "days_left": 2,
+      "days_left": 1,
       "amount": "Varies (ICMR/DBT norms for Indian side)",
       "grant_type": "Collaborative Grant"
     },
@@ -27,7 +27,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/ANRF/arg_anrf",
       "deadline": "2026-05-08",
-      "days_left": 5,
+      "days_left": 4,
       "amount": "No upper limit — project-based",
       "grant_type": "Research Grant"
     },
@@ -37,7 +37,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/ANRF/arg_anrf",
       "deadline": "2026-05-08",
-      "days_left": 5,
+      "days_left": 4,
       "amount": "Up to ₹10 Lakhs (3 years)",
       "grant_type": "Research Grant"
     }
