@@ -1,31 +1,10 @@
 {
-  "checked_on": "2026-05-08",
-  "closing_7d": [
-    {
-      "id": "8b9073c526",
-      "title": "ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026",
-      "agency": "ANRF",
-      "url": "https://anrfonline.in/ANRF/arg_anrf",
-      "deadline": "2026-05-08",
-      "days_left": 0,
-      "amount": "No upper limit — project-based",
-      "grant_type": "Research Grant"
-    },
-    {
-      "id": "982fa7acce",
-      "title": "ANRF MATRICS 2026 (Mathematics Research Grant)",
-      "agency": "ANRF",
-      "url": "https://anrfonline.in/ANRF/arg_anrf",
-      "deadline": "2026-05-08",
-      "days_left": 0,
-      "amount": "Up to ₹10 Lakhs (3 years)",
-      "grant_type": "Research Grant"
-    }
-  ],
+  "checked_on": "2026-05-09",
+  "closing_7d": [],
   "closing_14d": [],
   "closing_30d": [],
   "summary": {
-    "critical": 2,
+    "critical": 0,
     "warning": 0,
     "upcoming": 0
   }
