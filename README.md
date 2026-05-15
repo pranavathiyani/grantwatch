@@ -9,12 +9,12 @@
 
 ---
 
-## Live Stats · Last updated 2026-05-01
+## Live Stats · Last updated 2026-05-15
 
 | Metric | Count |
 |--------|-------|
-| 📋 Total grants indexed | **188** |
-| ✅ Open calls | **175** |
+| 📋 Total grants indexed | **189** |
+| ✅ Open calls | **172** |
 | 🇮🇳 Indian agency grants | **0** |
 | 🌍 International grants | **2** |
 | 🎓 Fellowships | **61** |

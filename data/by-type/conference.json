@@ -1,6 +1,6 @@
 {
   "category": "conference",
-  "generated": "2026-05-01T08:11:10Z",
+  "generated": "2026-05-15T08:49:16Z",
   "total": 3,
   "open": 3,
   "grants": [
@@ -50,7 +50,7 @@
         "Any life science"
       ],
       "status": "open",
-      "last_updated": "2026-05-01"
+      "last_updated": "2026-05-15"
     },
     {
       "id": "19b8303732",
@@ -73,7 +73,7 @@
         "Bioinformatics"
       ],
       "status": "open",
-      "last_updated": "2026-05-01"
+      "last_updated": "2026-05-15"
     }
   ]
 }
