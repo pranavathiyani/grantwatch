@@ -1,11 +1,32 @@
 {
-  "checked_on": "2026-05-31",
+  "checked_on": "2026-06-01",
   "closing_7d": [],
   "closing_14d": [],
-  "closing_30d": [],
+  "closing_30d": [
+    {
+      "id": "2dbae4ca46",
+      "title": "Fulbright-Nehru Doctoral Research Fellowship",
+      "agency": "Fulbright-Nehru",
+      "url": "https://www.usief.org.in/Fellowships.aspx",
+      "deadline": "2026-07-01",
+      "days_left": 30,
+      "amount": "Full support (stipend, housing, travel)",
+      "grant_type": "Fellowship"
+    },
+    {
+      "id": "a7cdbb55f9",
+      "title": "BIRAC Biotechnology Ignition Grant (BIG)",
+      "agency": "BIRAC",
+      "url": "https://birac.nic.in/big.php",
+      "deadline": "2026-07-01",
+      "days_left": 30,
+      "amount": "Up to ₹50 Lakhs (18 months)",
+      "grant_type": "Startup Grant"
+    }
+  ],
   "summary": {
     "critical": 0,
     "warning": 0,
-    "upcoming": 0
+    "upcoming": 2
   }
 }

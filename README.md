@@ -9,7 +9,7 @@
 
 ---
 
-## Live Stats · Last updated 2026-05-15
+## Live Stats · Last updated 2026-06-01
 
 | Metric | Count |
 |--------|-------|
@@ -27,7 +27,8 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| — | No grants closing in 30 days | — | — |
+| 🟡 **30d** | BIRAC Biotechnology Ignition Grant (BIG) | BIRAC | 2026-07-01 |
+| 🟡 **30d** | Fulbright-Nehru Doctoral Research Fellowship | Fulbright-Nehru | 2026-07-01 |
 
 ---
 
