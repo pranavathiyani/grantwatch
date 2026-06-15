@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-06-14",
+  "checked_on": "2026-06-15",
   "closing_7d": [],
   "closing_14d": [],
   "closing_30d": [
@@ -9,7 +9,7 @@
       "agency": "Fulbright-Nehru",
       "url": "https://www.usief.org.in/Fellowships.aspx",
       "deadline": "2026-07-01",
-      "days_left": 17,
+      "days_left": 16,
       "amount": "Full support (stipend, housing, travel)",
       "grant_type": "Fellowship"
     },
@@ -19,14 +19,24 @@
       "agency": "BIRAC",
       "url": "https://birac.nic.in/big.php",
       "deadline": "2026-07-01",
-      "days_left": 17,
+      "days_left": 16,
       "amount": "Up to ₹50 Lakhs (18 months)",
       "grant_type": "Startup Grant"
+    },
+    {
+      "id": "1eff94a553",
+      "title": "Fulbright-Nehru Postdoctoral Research Fellowship",
+      "agency": "Fulbright-Nehru",
+      "url": "https://www.usief.org.in/Fellowships.aspx",
+      "deadline": "2026-07-15",
+      "days_left": 30,
+      "amount": "Living allowance + travel + health insurance",
+      "grant_type": "Fellowship"
     }
   ],
   "summary": {
     "critical": 0,
     "warning": 0,
-    "upcoming": 2
+    "upcoming": 3
   }
 }
