@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-06-17",
+  "checked_on": "2026-06-18",
   "closing_7d": [],
   "closing_14d": [
     {
@@ -8,7 +8,7 @@
       "agency": "Fulbright-Nehru",
       "url": "https://www.usief.org.in/Fellowships.aspx",
       "deadline": "2026-07-01",
-      "days_left": 14,
+      "days_left": 13,
       "amount": "Full support (stipend, housing, travel)",
       "grant_type": "Fellowship"
     },
@@ -18,7 +18,7 @@
       "agency": "BIRAC",
       "url": "https://birac.nic.in/big.php",
       "deadline": "2026-07-01",
-      "days_left": 14,
+      "days_left": 13,
       "amount": "Up to ₹50 Lakhs (18 months)",
       "grant_type": "Startup Grant"
     }
@@ -30,7 +30,7 @@
       "agency": "Fulbright-Nehru",
       "url": "https://www.usief.org.in/Fellowships.aspx",
       "deadline": "2026-07-15",
-      "days_left": 28,
+      "days_left": 27,
       "amount": "Living allowance + travel + health insurance",
       "grant_type": "Fellowship"
     }
