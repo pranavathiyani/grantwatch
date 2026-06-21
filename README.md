@@ -27,9 +27,9 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🟡 **11d** | BIRAC Biotechnology Ignition Grant (BIG) | BIRAC | 2026-07-01 |
-| 🟡 **11d** | Fulbright-Nehru Doctoral Research Fellowship | Fulbright-Nehru | 2026-07-01 |
-| 🟡 **25d** | Fulbright-Nehru Postdoctoral Research Fellowship | Fulbright-Nehru | 2026-07-15 |
+| 🟡 **10d** | BIRAC Biotechnology Ignition Grant (BIG) | BIRAC | 2026-07-01 |
+| 🟡 **10d** | Fulbright-Nehru Doctoral Research Fellowship | Fulbright-Nehru | 2026-07-01 |
+| 🟡 **24d** | Fulbright-Nehru Postdoctoral Research Fellowship | Fulbright-Nehru | 2026-07-15 |
 
 ---
 
