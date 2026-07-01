@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-06-30",
+  "checked_on": "2026-07-01",
   "closing_7d": [
     {
       "id": "2dbae4ca46",
@@ -7,7 +7,7 @@
       "agency": "Fulbright-Nehru",
       "url": "https://www.usief.org.in/Fellowships.aspx",
       "deadline": "2026-07-01",
-      "days_left": 1,
+      "days_left": 0,
       "amount": "Full support (stipend, housing, travel)",
       "grant_type": "Fellowship"
     },
@@ -17,27 +17,38 @@
       "agency": "BIRAC",
       "url": "https://birac.nic.in/big.php",
       "deadline": "2026-07-01",
-      "days_left": 1,
+      "days_left": 0,
       "amount": "Up to ₹50 Lakhs (18 months)",
       "grant_type": "Startup Grant"
     }
   ],
-  "closing_14d": [],
-  "closing_30d": [
+  "closing_14d": [
     {
       "id": "1eff94a553",
       "title": "Fulbright-Nehru Postdoctoral Research Fellowship",
       "agency": "Fulbright-Nehru",
       "url": "https://www.usief.org.in/Fellowships.aspx",
       "deadline": "2026-07-15",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "Living allowance + travel + health insurance",
+      "grant_type": "Fellowship"
+    }
+  ],
+  "closing_30d": [
+    {
+      "id": "c6c6ffc0d7",
+      "title": "ANRF National Science Chair (NSC) 2026",
+      "agency": "ANRF",
+      "url": "https://anrfonline.in/",
+      "deadline": "2026-07-31",
+      "days_left": 30,
+      "amount": "TBA",
       "grant_type": "Fellowship"
     }
   ],
   "summary": {
     "critical": 2,
-    "warning": 0,
+    "warning": 1,
     "upcoming": 1
   }
 }
