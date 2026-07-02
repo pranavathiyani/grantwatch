@@ -27,10 +27,8 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **0d** | BIRAC Biotechnology Ignition Grant (BIG) | BIRAC | 2026-07-01 |
-| 🔴 **0d** | Fulbright-Nehru Doctoral Research Fellowship | Fulbright-Nehru | 2026-07-01 |
-| 🟡 **14d** | Fulbright-Nehru Postdoctoral Research Fellowship | Fulbright-Nehru | 2026-07-15 |
-| 🟡 **30d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
+| 🟡 **13d** | Fulbright-Nehru Postdoctoral Research Fellowship | Fulbright-Nehru | 2026-07-15 |
+| 🟡 **29d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
 
 ---
 

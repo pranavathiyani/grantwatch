@@ -1,27 +1,6 @@
 {
-  "checked_on": "2026-07-01",
-  "closing_7d": [
-    {
-      "id": "2dbae4ca46",
-      "title": "Fulbright-Nehru Doctoral Research Fellowship",
-      "agency": "Fulbright-Nehru",
-      "url": "https://www.usief.org.in/Fellowships.aspx",
-      "deadline": "2026-07-01",
-      "days_left": 0,
-      "amount": "Full support (stipend, housing, travel)",
-      "grant_type": "Fellowship"
-    },
-    {
-      "id": "a7cdbb55f9",
-      "title": "BIRAC Biotechnology Ignition Grant (BIG)",
-      "agency": "BIRAC",
-      "url": "https://birac.nic.in/big.php",
-      "deadline": "2026-07-01",
-      "days_left": 0,
-      "amount": "Up to ₹50 Lakhs (18 months)",
-      "grant_type": "Startup Grant"
-    }
-  ],
+  "checked_on": "2026-07-02",
+  "closing_7d": [],
   "closing_14d": [
     {
       "id": "1eff94a553",
@@ -29,7 +8,7 @@
       "agency": "Fulbright-Nehru",
       "url": "https://www.usief.org.in/Fellowships.aspx",
       "deadline": "2026-07-15",
-      "days_left": 14,
+      "days_left": 13,
       "amount": "Living allowance + travel + health insurance",
       "grant_type": "Fellowship"
     }
@@ -41,13 +20,13 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-07-31",
-      "days_left": 30,
+      "days_left": 29,
       "amount": "TBA",
       "grant_type": "Fellowship"
     }
   ],
   "summary": {
-    "critical": 2,
+    "critical": 0,
     "warning": 1,
     "upcoming": 1
   }
