@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-07-04",
+  "checked_on": "2026-07-05",
   "closing_7d": [],
   "closing_14d": [
     {
@@ -8,7 +8,7 @@
       "agency": "Fulbright-Nehru",
       "url": "https://www.usief.org.in/Fellowships.aspx",
       "deadline": "2026-07-15",
-      "days_left": 11,
+      "days_left": 10,
       "amount": "Living allowance + travel + health insurance",
       "grant_type": "Fellowship"
     }
@@ -20,7 +20,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-07-31",
-      "days_left": 27,
+      "days_left": 26,
       "amount": "TBA",
       "grant_type": "Fellowship"
     }
