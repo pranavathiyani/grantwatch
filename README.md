@@ -27,8 +27,8 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🟡 **10d** | Fulbright-Nehru Postdoctoral Research Fellowship | Fulbright-Nehru | 2026-07-15 |
-| 🟡 **26d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
+| 🟡 **9d** | Fulbright-Nehru Postdoctoral Research Fellowship | Fulbright-Nehru | 2026-07-15 |
+| 🟡 **25d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
 
 ---
 
