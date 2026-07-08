@@ -1,18 +1,18 @@
 {
-  "checked_on": "2026-07-07",
-  "closing_7d": [],
-  "closing_14d": [
+  "checked_on": "2026-07-08",
+  "closing_7d": [
     {
       "id": "1eff94a553",
       "title": "Fulbright-Nehru Postdoctoral Research Fellowship",
       "agency": "Fulbright-Nehru",
       "url": "https://www.usief.org.in/Fellowships.aspx",
       "deadline": "2026-07-15",
-      "days_left": 8,
+      "days_left": 7,
       "amount": "Living allowance + travel + health insurance",
       "grant_type": "Fellowship"
     }
   ],
+  "closing_14d": [],
   "closing_30d": [
     {
       "id": "c6c6ffc0d7",
@@ -20,14 +20,14 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-07-31",
-      "days_left": 24,
+      "days_left": 23,
       "amount": "TBA",
       "grant_type": "Fellowship"
     }
   ],
   "summary": {
-    "critical": 0,
-    "warning": 1,
+    "critical": 1,
+    "warning": 0,
     "upcoming": 1
   }
 }
