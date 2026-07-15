@@ -9,12 +9,12 @@
 
 ---
 
-## Live Stats · Last updated 2026-07-01
+## Live Stats · Last updated 2026-07-15
 
 | Metric | Count |
 |--------|-------|
-| 📋 Total grants indexed | **189** |
-| ✅ Open calls | **172** |
+| 📋 Total grants indexed | **190** |
+| ✅ Open calls | **171** |
 | 🇮🇳 Indian agency grants | **0** |
 | 🌍 International grants | **2** |
 | 🎓 Fellowships | **61** |
@@ -27,8 +27,8 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **1d** | Fulbright-Nehru Postdoctoral Research Fellowship | Fulbright-Nehru | 2026-07-15 |
-| 🟡 **17d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
+| 🔴 **0d** | Fulbright-Nehru Postdoctoral Research Fellowship | Fulbright-Nehru | 2026-07-15 |
+| 🟡 **16d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
 
 ---
 

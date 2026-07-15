@@ -1,34 +1,9 @@
 {
   "category": "startup",
-  "generated": "2026-07-01T09:45:05Z",
+  "generated": "2026-07-15T08:08:38Z",
   "total": 12,
-  "open": 11,
+  "open": 10,
   "grants": [
-    {
-      "id": "a7cdbb55f9",
-      "title": "BIRAC Biotechnology Ignition Grant (BIG)",
-      "agency": "BIRAC",
-      "country": "India",
-      "grant_type": "Startup Grant",
-      "amount": "Up to ₹50 Lakhs (18 months)",
-      "description": "Flagship early-stage biotech funding. Up to ₹50L for proof-of-concept. Opens TWICE yearly: Jan 1 and Jul 1. Largest early-stage biotech funding programme in India.",
-      "url": "https://birac.nic.in/big.php",
-      "deadline": "2026-07-01",
-      "open_date": "2026-07-01",
-      "eligibility": [
-        "Startup",
-        "Individual Innovator",
-        "Faculty Entrepreneur"
-      ],
-      "disciplines": [
-        "Biotechnology",
-        "MedTech",
-        "AgriTech",
-        "Biopharma"
-      ],
-      "status": "open",
-      "last_updated": "2026-07-01"
-    },
     {
       "id": "23bcbe0ecf",
       "title": "DST-NIDHI PRAYAS Grant (Proof of Concept)",
@@ -54,7 +29,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "fb82409801",
@@ -79,7 +54,7 @@
         "IT"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "c7ac737b5b",
@@ -104,7 +79,7 @@
         "Biotechnology"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "b83e584a58",
@@ -129,7 +104,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "7a89781625",
@@ -154,7 +129,7 @@
         "IT"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "fda7de4c5d",
@@ -179,7 +154,7 @@
         "Biotechnology"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "455bab871e",
@@ -203,7 +178,7 @@
         "MedTech"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "f4a3ac0efb",
@@ -228,7 +203,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "a0f60ba3e3",
@@ -253,7 +228,7 @@
         "Biopharma"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "539504119e",
@@ -276,7 +251,7 @@
         "Engineering"
       ],
       "status": "open",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
     },
     {
       "id": "0a1b8f8afa",
@@ -300,7 +275,32 @@
         "AgriTech"
       ],
       "status": "closed",
-      "last_updated": "2026-07-01"
+      "last_updated": "2026-07-15"
+    },
+    {
+      "id": "a7cdbb55f9",
+      "title": "BIRAC Biotechnology Ignition Grant (BIG)",
+      "agency": "BIRAC",
+      "country": "India",
+      "grant_type": "Startup Grant",
+      "amount": "Up to ₹50 Lakhs (18 months)",
+      "description": "Flagship early-stage biotech funding. Up to ₹50L for proof-of-concept. Opens TWICE yearly: Jan 1 and Jul 1. Largest early-stage biotech funding programme in India.",
+      "url": "https://birac.nic.in/big.php",
+      "deadline": "2026-07-01",
+      "open_date": "2026-07-01",
+      "eligibility": [
+        "Startup",
+        "Individual Innovator",
+        "Faculty Entrepreneur"
+      ],
+      "disciplines": [
+        "Biotechnology",
+        "MedTech",
+        "AgriTech",
+        "Biopharma"
+      ],
+      "status": "closed",
+      "last_updated": "2026-07-15"
     }
   ]
 }
