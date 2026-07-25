@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-07-24",
+  "checked_on": "2026-07-25",
   "closing_7d": [
     {
       "id": "c6c6ffc0d7",
@@ -7,7 +7,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-07-31",
-      "days_left": 7,
+      "days_left": 6,
       "amount": "TBA",
       "grant_type": "Fellowship"
     }
