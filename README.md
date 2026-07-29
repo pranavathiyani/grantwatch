@@ -27,7 +27,7 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **3d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
+| 🔴 **2d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
 
 ---
 
