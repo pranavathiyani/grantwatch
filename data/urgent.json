@@ -1,21 +1,10 @@
 {
-  "checked_on": "2026-07-31",
-  "closing_7d": [
-    {
-      "id": "c6c6ffc0d7",
-      "title": "ANRF National Science Chair (NSC) 2026",
-      "agency": "ANRF",
-      "url": "https://anrfonline.in/",
-      "deadline": "2026-07-31",
-      "days_left": 0,
-      "amount": "TBA",
-      "grant_type": "Fellowship"
-    }
-  ],
+  "checked_on": "2026-08-01",
+  "closing_7d": [],
   "closing_14d": [],
   "closing_30d": [],
   "summary": {
-    "critical": 1,
+    "critical": 0,
     "warning": 0,
     "upcoming": 0
   }

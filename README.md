@@ -9,12 +9,12 @@
 
 ---
 
-## Live Stats · Last updated 2026-07-15
+## Live Stats · Last updated 2026-08-01
 
 | Metric | Count |
 |--------|-------|
 | 📋 Total grants indexed | **190** |
-| ✅ Open calls | **171** |
+| ✅ Open calls | **169** |
 | 🇮🇳 Indian agency grants | **0** |
 | 🌍 International grants | **2** |
 | 🎓 Fellowships | **61** |
@@ -27,7 +27,7 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **0d** | ANRF National Science Chair (NSC) 2026 | ANRF | 2026-07-31 |
+| — | No grants closing in 30 days | — | — |
 
 ---
 

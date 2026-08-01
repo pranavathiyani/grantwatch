@@ -1,197 +1,5 @@
 [
   {
-    "id": "f8e8cb30d9",
-    "title": "ICGEB CRP Research Grant 2026",
-    "agency": "ICGEB",
-    "country": "International",
-    "grant_type": "Research Grant",
-    "amount": "Varies (project-based, USD)",
-    "description": "ICGEB Collaborative Research Programme (CRP). Supports original research in basic science, human healthcare, industrial/agricultural biotechnology and bioenergy. India is a member state — up to 3 CRP + 2 Early Career Return grants per call. International collaboration mandatory.",
-    "url": "https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/",
-    "deadline": "2026-04-30",
-    "open_date": null,
-    "eligibility": [
-      "Faculty",
-      "Researcher at ICGEB Member State institution"
-    ],
-    "disciplines": [
-      "Biotechnology",
-      "Life Sciences",
-      "Biomedical",
-      "Agricultural Biotech",
-      "Bioenergy",
-      "AMR"
-    ],
-    "status": "open",
-    "last_updated": "2026-04-15"
-  },
-  {
-    "id": "d90b01f9d6",
-    "title": "ICGEB Early Career Return Grant (CRP)",
-    "agency": "ICGEB",
-    "country": "International",
-    "grant_type": "Research Grant",
-    "amount": "Competitive (USD)",
-    "description": "Part of ICGEB CRP call. For young PIs returning to ICGEB Member States after postdoctoral training abroad. Supports setting up independent labs. Up to 2 awards per member country per call.",
-    "url": "https://www.icgeb.org/grants/",
-    "deadline": "2026-04-30",
-    "open_date": null,
-    "eligibility": [
-      "Early Career PI (returning)",
-      "ICGEB Member State"
-    ],
-    "disciplines": [
-      "Life Sciences",
-      "Biotechnology",
-      "Biomedical"
-    ],
-    "status": "open",
-    "last_updated": "2026-04-15"
-  },
-  {
-    "id": "5e7229a8b0",
-    "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF",
-    "agency": "DST (Bilateral)",
-    "country": "India",
-    "grant_type": "Collaborative Grant",
-    "amount": "Varies per ICMR/DBT norms",
-    "description": "Joint call by ICMR + DBT (India) and Swiss National Science Foundation (SNSF). Indian PI funded by ICMR/DBT; Swiss PI funded by SNSF. Focus: biomedical, health, and life sciences research. Live deadline: May 5, 2026.",
-    "url": "https://www.icmr.gov.in/international-fellowships",
-    "deadline": "2026-05-05",
-    "open_date": null,
-    "eligibility": [
-      "Faculty/Researcher (Indian PI)",
-      "Swiss Co-PI (SNSF-eligible)"
-    ],
-    "disciplines": [
-      "Biomedical Research",
-      "Public Health",
-      "Life Sciences",
-      "Biotechnology"
-    ],
-    "status": "open",
-    "last_updated": "2026-04-15"
-  },
-  {
-    "id": "f9575352e1",
-    "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026",
-    "agency": "ICMR",
-    "country": "India",
-    "grant_type": "Collaborative Grant",
-    "amount": "Varies (ICMR/DBT norms for Indian side)",
-    "description": "Joint call: ICMR + DBT (India) + Swiss NSF. Indian PI funded by ICMR/DBT; Swiss PI by SNSF. Deadline May 5, 2026.",
-    "url": "https://icmr.gov.in/international-fellowships",
-    "deadline": "2026-05-05",
-    "open_date": null,
-    "eligibility": [
-      "Faculty (Indian PI)",
-      "Swiss Co-PI required"
-    ],
-    "disciplines": [
-      "Biomedical Research",
-      "Life Sciences",
-      "Biotechnology"
-    ],
-    "status": "open",
-    "last_updated": "2026-04-15"
-  },
-  {
-    "id": "8b9073c526",
-    "title": "ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026",
-    "agency": "ANRF",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "No upper limit — project-based",
-    "description": "ARG subsumes the Core Research Grant (CRG). Supports frontier research in Science & Engineering. Pre-proposal Apr 1–May 8 2026; Full proposals Sep 15–Oct 15 2026. No upper budget limit.",
-    "url": "https://anrfonline.in/ANRF/arg_anrf",
-    "deadline": "2026-05-08",
-    "open_date": "2026-04-01",
-    "eligibility": [
-      "Faculty",
-      "Researcher",
-      "Indian Institution"
-    ],
-    "disciplines": [
-      "Science",
-      "Engineering",
-      "Technology"
-    ],
-    "status": "open",
-    "last_updated": "2026-04-15"
-  },
-  {
-    "id": "982fa7acce",
-    "title": "ANRF MATRICS 2026 (Mathematics Research Grant)",
-    "agency": "ANRF",
-    "country": "India",
-    "grant_type": "Research Grant",
-    "amount": "Up to ₹10 Lakhs (3 years)",
-    "description": "Mathematical Research Impact Centric Support. For active researchers in mathematics. Apr 1 – May 8 2026.",
-    "url": "https://anrfonline.in/ANRF/arg_anrf",
-    "deadline": "2026-05-08",
-    "open_date": "2026-04-01",
-    "eligibility": [
-      "Faculty",
-      "Researcher"
-    ],
-    "disciplines": [
-      "Mathematics",
-      "Statistics",
-      "Theoretical Sciences"
-    ],
-    "status": "open",
-    "last_updated": "2026-04-15"
-  },
-  {
-    "id": "2dbae4ca46",
-    "title": "Fulbright-Nehru Doctoral Research Fellowship",
-    "agency": "Fulbright-Nehru",
-    "country": "International",
-    "grant_type": "Fellowship",
-    "amount": "Full support (stipend, housing, travel)",
-    "description": "6–9 months dissertation research in the United States. Priority: AI, energy, space science, defense.",
-    "url": "https://www.usief.org.in/Fellowships.aspx",
-    "deadline": "2026-07-01",
-    "open_date": null,
-    "eligibility": [
-      "PhD Student (registered in India)"
-    ],
-    "disciplines": [
-      "AI/ML",
-      "Energy",
-      "Space Science",
-      "Defense",
-      "Any"
-    ],
-    "status": "open",
-    "last_updated": "2026-04-15"
-  },
-  {
-    "id": "a7cdbb55f9",
-    "title": "BIRAC Biotechnology Ignition Grant (BIG)",
-    "agency": "BIRAC",
-    "country": "India",
-    "grant_type": "Startup Grant",
-    "amount": "Up to ₹50 Lakhs (18 months)",
-    "description": "Flagship early-stage biotech funding. Up to ₹50L for proof-of-concept. Opens TWICE yearly: Jan 1 and Jul 1. Largest early-stage biotech funding programme in India.",
-    "url": "https://birac.nic.in/big.php",
-    "deadline": "2026-07-01",
-    "open_date": "2026-07-01",
-    "eligibility": [
-      "Startup",
-      "Individual Innovator",
-      "Faculty Entrepreneur"
-    ],
-    "disciplines": [
-      "Biotechnology",
-      "MedTech",
-      "AgriTech",
-      "Biopharma"
-    ],
-    "status": "open",
-    "last_updated": "2026-04-15"
-  },
-  {
     "id": "1eff94a553",
     "title": "Fulbright-Nehru Postdoctoral Research Fellowship",
     "agency": "Fulbright-Nehru",
@@ -213,7 +21,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "c6c6ffc0d7",
@@ -234,7 +42,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "db9f6f7175",
@@ -256,7 +64,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "ebeea1e700",
@@ -280,7 +88,7 @@
       "Cell Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "10c7db5722",
@@ -303,7 +111,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "72b93ecd8e",
@@ -324,7 +132,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "csir-symp001",
@@ -515,7 +323,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "0165247ee8",
@@ -535,7 +343,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "eac24038d3",
@@ -558,7 +366,7 @@
       "Traditional Knowledge"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "61fba2fa2e",
@@ -671,7 +479,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "e7a3e7de71",
@@ -692,7 +500,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "e3a6d28e87",
@@ -715,7 +523,7 @@
       "Life Sciences"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "3862e7c6b3",
@@ -760,7 +568,7 @@
       "Data Science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "6bb2566a30",
@@ -784,7 +592,7 @@
       "Networks"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "b1236f7d4d",
@@ -809,7 +617,7 @@
       "Green Tech"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "5533b956c0",
@@ -830,7 +638,7 @@
       "Any — interdisciplinary encouraged"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "d25d277a2d",
@@ -851,7 +659,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f1b71ec223",
@@ -872,7 +680,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-06-01"
   },
   {
     "id": "92c2add159",
@@ -902,7 +710,7 @@
       "Advanced Materials"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "437f0e1709",
@@ -924,7 +732,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "8c01230619",
@@ -949,7 +757,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a19dc1669f",
@@ -971,7 +779,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "4c6c13fab1",
@@ -993,7 +801,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "5f73bc8065",
@@ -1016,7 +824,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "cac2e214dd",
@@ -1040,7 +848,7 @@
       "Medicine"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "abc7aae2e3",
@@ -1061,7 +869,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "34c383222e",
@@ -1084,7 +892,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "00d27bbb76",
@@ -1106,7 +914,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "4a15141679",
@@ -1128,7 +936,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "22a185c239",
@@ -1150,7 +958,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a4fdbd1117",
@@ -1171,7 +979,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f30b8947df",
@@ -1193,7 +1001,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "dbad972b45",
@@ -1215,7 +1023,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "d54fcddfdb",
@@ -1237,7 +1045,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f8fb89779e",
@@ -1259,7 +1067,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "23bcbe0ecf",
@@ -1286,7 +1094,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "fb82409801",
@@ -1311,7 +1119,7 @@
       "IT"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "c7ac737b5b",
@@ -1336,7 +1144,7 @@
       "Biotechnology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "b83e584a58",
@@ -1361,7 +1169,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "7a89781625",
@@ -1386,7 +1194,7 @@
       "IT"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "59ccbd1050",
@@ -1410,7 +1218,7 @@
       "Any STEM"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "879f7089c7",
@@ -1435,7 +1243,7 @@
       "Cybersecurity"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "d890bd7125",
@@ -1460,7 +1268,7 @@
       "IT"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "22783e4c2d",
@@ -1482,7 +1290,7 @@
       "Any STEM"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "11b645df4f",
@@ -1505,7 +1313,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "0115f3f0c9",
@@ -1530,7 +1338,7 @@
       "Materials & Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "26d3366ab9",
@@ -1554,7 +1362,7 @@
       "Sustainable Development"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "e6f515d417",
@@ -1575,7 +1383,7 @@
       "Any — check specific call"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "d951061608",
@@ -1599,7 +1407,7 @@
       "Any STEM"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "1c97a53494",
@@ -1624,7 +1432,7 @@
       "Health"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "56b7f20b66",
@@ -1649,7 +1457,7 @@
       "Biotech"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "00e69da69f",
@@ -1674,7 +1482,7 @@
       "Environment"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "b23665c786",
@@ -1697,7 +1505,7 @@
       "Biophysics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f08a545f87",
@@ -1720,7 +1528,7 @@
       "Genetic Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "0b5e7bc9c8",
@@ -1745,7 +1553,7 @@
       "Computational Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "51af8aeed3",
@@ -1767,7 +1575,7 @@
       "Public Health"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "ded4f0913e",
@@ -1789,7 +1597,7 @@
       "Life Sciences"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "2961a29306",
@@ -1812,7 +1620,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "974d3d13c6",
@@ -1835,7 +1643,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "6e5388d826",
@@ -1858,7 +1666,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "90a32a92cf",
@@ -1881,7 +1689,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f3dae28a6a",
@@ -1904,7 +1712,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "41ea8bb73b",
@@ -1927,7 +1735,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "aab3e8db4b",
@@ -1950,7 +1758,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "e051acebd7",
@@ -1973,7 +1781,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f386f1a208",
@@ -1996,7 +1804,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "8967823a53",
@@ -2019,7 +1827,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f4e61225a6",
@@ -2042,7 +1850,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "7b10de2dc8",
@@ -2066,7 +1874,7 @@
       "Cell Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f0280bb8d5",
@@ -2090,7 +1898,7 @@
       "Life Sciences"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "802609d9b2",
@@ -2112,7 +1920,7 @@
       "Life Sciences"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "27c772e35a",
@@ -2134,7 +1942,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-07-15",
     "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   },
   {
@@ -2157,7 +1965,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-07-15",
     "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   },
   {
@@ -2184,7 +1992,7 @@
       "Any AICTE discipline"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "2eb16ffa0d",
@@ -2206,7 +2014,7 @@
       "Management"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "16a1988c71",
@@ -2230,7 +2038,7 @@
       "Computer Science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "53d5c0df0a",
@@ -2252,7 +2060,7 @@
       "Any — all disciplines eligible"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "4c0adc8beb",
@@ -2273,7 +2081,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "709f4c46be",
@@ -2294,7 +2102,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "ed90d2a9af",
@@ -2314,7 +2122,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "299785b483",
@@ -2341,7 +2149,7 @@
       "Bioinformatics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "b6d483505f",
@@ -2366,7 +2174,7 @@
       "AI/ML"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a1fb629ad3",
@@ -2388,7 +2196,7 @@
       "Any — all disciplines"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "728965bf7c",
@@ -2410,7 +2218,7 @@
       "Any — STEM focus"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "5f0ed071c4",
@@ -2432,7 +2240,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "e53d8bfd9c",
@@ -2456,7 +2264,7 @@
       "Any STEM"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "9038437b97",
@@ -2479,7 +2287,7 @@
       "Computer Science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "2ba73488d5",
@@ -2503,7 +2311,7 @@
       "Food Science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "6f8ce320b2",
@@ -2599,7 +2407,7 @@
       "Food Science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "35ec82e4ae",
@@ -2623,7 +2431,7 @@
       "Food Science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f19b3e2c05",
@@ -2646,7 +2454,7 @@
       "Bioinformatics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "787456c8f7",
@@ -2670,7 +2478,7 @@
       "Biomedical"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "94d9a5fced",
@@ -2693,7 +2501,7 @@
       "Biomedical"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "cc9a40412d",
@@ -2715,7 +2523,7 @@
       "Life Sciences"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "61b38151c4",
@@ -2738,7 +2546,7 @@
       "Biomedical"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "987ebe5548",
@@ -2761,7 +2569,7 @@
       "Bioinformatics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "eb3e2f331b",
@@ -2784,7 +2592,7 @@
       "Interdisciplinary"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "700ad1ef1b",
@@ -2808,7 +2616,7 @@
       "Genomics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "c496d5a5ad",
@@ -2833,7 +2641,7 @@
       "Clinical Research"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a96916afb7",
@@ -2857,7 +2665,7 @@
       "Clinical Research"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "2cda524f9e",
@@ -2881,7 +2689,7 @@
       "Translational Research"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "523b6dbf30",
@@ -2904,7 +2712,7 @@
       "Biomedical Sciences"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "d4c6c445fa",
@@ -2927,7 +2735,7 @@
       "Clinical Research"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "c52e14238c",
@@ -2949,7 +2757,7 @@
       "Health Sciences"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "350ed6a1ac",
@@ -2974,7 +2782,7 @@
       "Public Health"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a68d9c584a",
@@ -2998,7 +2806,7 @@
       "MedTech"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "fda7de4c5d",
@@ -3023,7 +2831,7 @@
       "Biotechnology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a9a1825631",
@@ -3046,7 +2854,7 @@
       "Diagnostics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a395b7bffc",
@@ -3070,7 +2878,7 @@
       "Diagnostics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "455bab871e",
@@ -3094,7 +2902,7 @@
       "MedTech"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "aa4aa3c183",
@@ -3118,7 +2926,7 @@
       "Translational Research"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "31cf6d9243",
@@ -3145,7 +2953,7 @@
       "Vaccines"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "7ddcf8c549",
@@ -3170,7 +2978,7 @@
       "Bioinformatics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "e3a62860c6",
@@ -3193,7 +3001,7 @@
       "Interdisciplinary"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "3c1e43a4c4",
@@ -3217,7 +3025,7 @@
       "Clinical Research"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "4666401a2b",
@@ -3241,7 +3049,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "e38f834420",
@@ -3264,7 +3072,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "nih-fogarty-firca-2026",
@@ -3333,7 +3141,7 @@
       "Computer Science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "91d9218b00",
@@ -3357,7 +3165,7 @@
       "Chemical Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "25bdc86eaf",
@@ -3379,7 +3187,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f4a3ac0efb",
@@ -3404,7 +3212,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "0f2198abea",
@@ -3427,7 +3235,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "b78925d18f",
@@ -3450,7 +3258,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "4741ab25ae",
@@ -3474,7 +3282,7 @@
       "Social Development"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "5e621443c4",
@@ -3498,7 +3306,7 @@
       "Any frontier area"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "812a4c34df",
@@ -3521,7 +3329,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "6a26e2f731",
@@ -3544,7 +3352,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "7f1ffe7ccc",
@@ -3567,7 +3375,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "55e7ab887f",
@@ -3590,7 +3398,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "8dc5cbb0f0",
@@ -3614,7 +3422,7 @@
       "Technology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "2c461f4bc6",
@@ -3636,7 +3444,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a0f60ba3e3",
@@ -3661,7 +3469,7 @@
       "Biopharma"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "539504119e",
@@ -3684,7 +3492,7 @@
       "Engineering"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "b989def769",
@@ -3709,7 +3517,7 @@
       "IT"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "ff7ee534d9",
@@ -3735,7 +3543,7 @@
       "Microbiology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "c26ea633bf",
@@ -3758,7 +3566,7 @@
       "Public Health"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "ccc8ca7205",
@@ -3781,7 +3589,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "5aa99086b7",
@@ -3804,7 +3612,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "9b0d1a50dc",
@@ -3827,7 +3635,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f17069df5d",
@@ -3850,7 +3658,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "54d54e0c76",
@@ -3873,7 +3681,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "3c685a91fa",
@@ -3899,7 +3707,7 @@
       "Any life science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "19b8303732",
@@ -3922,7 +3730,7 @@
       "Bioinformatics"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "f5aa8eef44",
@@ -3946,7 +3754,7 @@
       "Computational Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "7e094abcd1",
@@ -3969,7 +3777,7 @@
       "Computational Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "385b726b4b",
@@ -3992,7 +3800,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "ae2c61745a",
@@ -4015,7 +3823,7 @@
       "Molecular Biology"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "23a84637ef",
@@ -4037,7 +3845,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-07-15",
     "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   },
   {
@@ -4060,7 +3868,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-07-15",
     "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   },
   {
@@ -4083,7 +3891,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-07-15",
     "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   },
   {
@@ -4106,7 +3914,7 @@
       "Any"
     ],
     "status": "open",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-07-15",
     "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   },
   {
@@ -4131,7 +3939,55 @@
       "Food Science"
     ],
     "status": "open",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-05-01"
+  },
+  {
+    "id": "96d15e6756",
+    "title": "Advertisement for the post of Director General, Indian Council of Forestry Research and Education (ICFRE), Dehradun",
+    "agency": "ICAR",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "Varies",
+    "description": "Advertisement for the post of Director General, Indian Council of Forestry Research and Education (ICFRE), Dehradun",
+    "url": "https://icar.gov.in/hi/advertisement-post-director-general-indian-council-forestry-research-and-education-icfre-dehradun",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty",
+      "Researcher",
+      "Indian Institution"
+    ],
+    "disciplines": [
+      "Agriculture",
+      "Animal Science",
+      "Food Science"
+    ],
+    "status": "open",
+    "last_updated": "2026-06-15"
+  },
+  {
+    "id": "d3452a625b",
+    "title": "BRICS Agricultural Research Platform",
+    "agency": "ICAR",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "Varies",
+    "description": "BRICS Agricultural Research Platform",
+    "url": "https://barp.org.in/",
+    "deadline": null,
+    "open_date": null,
+    "eligibility": [
+      "Faculty",
+      "Researcher",
+      "Indian Institution"
+    ],
+    "disciplines": [
+      "Agriculture",
+      "Animal Science",
+      "Food Science"
+    ],
+    "status": "open",
+    "last_updated": "2026-07-15"
   },
   {
     "id": "63ff80082f",
@@ -4153,7 +4009,7 @@
       "Engineering"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "59ca659327",
@@ -4175,7 +4031,7 @@
       "Engineering"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "7ef3799671",
@@ -4197,7 +4053,7 @@
       "Technology"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "5688001f61",
@@ -4221,7 +4077,7 @@
       "Computational Biology"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "0a1b8f8afa",
@@ -4245,7 +4101,7 @@
       "AgriTech"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "a852a06380",
@@ -4270,7 +4126,7 @@
       "Technology"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "6a9126b3c6",
@@ -4294,7 +4150,7 @@
       "Genetic Engineering"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "9ef0d6f466",
@@ -4318,7 +4174,7 @@
       "Genetic Engineering"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
   },
   {
     "id": "9c34a24224",
@@ -4343,7 +4199,199 @@
       "Drug Discovery"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15"
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "f8e8cb30d9",
+    "title": "ICGEB CRP Research Grant 2026",
+    "agency": "ICGEB",
+    "country": "International",
+    "grant_type": "Research Grant",
+    "amount": "Varies (project-based, USD)",
+    "description": "ICGEB Collaborative Research Programme (CRP). Supports original research in basic science, human healthcare, industrial/agricultural biotechnology and bioenergy. India is a member state — up to 3 CRP + 2 Early Career Return grants per call. International collaboration mandatory.",
+    "url": "https://www.icgeb.org/grants/icgeb-research-grants-2023crp-collaborative-research-programme/",
+    "deadline": "2026-04-30",
+    "open_date": null,
+    "eligibility": [
+      "Faculty",
+      "Researcher at ICGEB Member State institution"
+    ],
+    "disciplines": [
+      "Biotechnology",
+      "Life Sciences",
+      "Biomedical",
+      "Agricultural Biotech",
+      "Bioenergy",
+      "AMR"
+    ],
+    "status": "closed",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "d90b01f9d6",
+    "title": "ICGEB Early Career Return Grant (CRP)",
+    "agency": "ICGEB",
+    "country": "International",
+    "grant_type": "Research Grant",
+    "amount": "Competitive (USD)",
+    "description": "Part of ICGEB CRP call. For young PIs returning to ICGEB Member States after postdoctoral training abroad. Supports setting up independent labs. Up to 2 awards per member country per call.",
+    "url": "https://www.icgeb.org/grants/",
+    "deadline": "2026-04-30",
+    "open_date": null,
+    "eligibility": [
+      "Early Career PI (returning)",
+      "ICGEB Member State"
+    ],
+    "disciplines": [
+      "Life Sciences",
+      "Biotechnology",
+      "Biomedical"
+    ],
+    "status": "closed",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "5e7229a8b0",
+    "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF",
+    "agency": "DST (Bilateral)",
+    "country": "India",
+    "grant_type": "Collaborative Grant",
+    "amount": "Varies per ICMR/DBT norms",
+    "description": "Joint call by ICMR + DBT (India) and Swiss National Science Foundation (SNSF). Indian PI funded by ICMR/DBT; Swiss PI funded by SNSF. Focus: biomedical, health, and life sciences research. Live deadline: May 5, 2026.",
+    "url": "https://www.icmr.gov.in/international-fellowships",
+    "deadline": "2026-05-05",
+    "open_date": null,
+    "eligibility": [
+      "Faculty/Researcher (Indian PI)",
+      "Swiss Co-PI (SNSF-eligible)"
+    ],
+    "disciplines": [
+      "Biomedical Research",
+      "Public Health",
+      "Life Sciences",
+      "Biotechnology"
+    ],
+    "status": "closed",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "f9575352e1",
+    "title": "Indo-Swiss Joint Research Programme (ISJRP) — ICMR/DBT/SNSF 2026",
+    "agency": "ICMR",
+    "country": "India",
+    "grant_type": "Collaborative Grant",
+    "amount": "Varies (ICMR/DBT norms for Indian side)",
+    "description": "Joint call: ICMR + DBT (India) + Swiss NSF. Indian PI funded by ICMR/DBT; Swiss PI by SNSF. Deadline May 5, 2026.",
+    "url": "https://icmr.gov.in/international-fellowships",
+    "deadline": "2026-05-05",
+    "open_date": null,
+    "eligibility": [
+      "Faculty (Indian PI)",
+      "Swiss Co-PI required"
+    ],
+    "disciplines": [
+      "Biomedical Research",
+      "Life Sciences",
+      "Biotechnology"
+    ],
+    "status": "closed",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "8b9073c526",
+    "title": "ANRF Advanced Research Grant (ARG) — Pre-Proposals 2026",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "No upper limit — project-based",
+    "description": "ARG subsumes the Core Research Grant (CRG). Supports frontier research in Science & Engineering. Pre-proposal Apr 1–May 8 2026; Full proposals Sep 15–Oct 15 2026. No upper budget limit.",
+    "url": "https://anrfonline.in/ANRF/arg_anrf",
+    "deadline": "2026-05-08",
+    "open_date": "2026-04-01",
+    "eligibility": [
+      "Faculty",
+      "Researcher",
+      "Indian Institution"
+    ],
+    "disciplines": [
+      "Science",
+      "Engineering",
+      "Technology"
+    ],
+    "status": "closed",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "982fa7acce",
+    "title": "ANRF MATRICS 2026 (Mathematics Research Grant)",
+    "agency": "ANRF",
+    "country": "India",
+    "grant_type": "Research Grant",
+    "amount": "Up to ₹10 Lakhs (3 years)",
+    "description": "Mathematical Research Impact Centric Support. For active researchers in mathematics. Apr 1 – May 8 2026.",
+    "url": "https://anrfonline.in/ANRF/arg_anrf",
+    "deadline": "2026-05-08",
+    "open_date": "2026-04-01",
+    "eligibility": [
+      "Faculty",
+      "Researcher"
+    ],
+    "disciplines": [
+      "Mathematics",
+      "Statistics",
+      "Theoretical Sciences"
+    ],
+    "status": "closed",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "2dbae4ca46",
+    "title": "Fulbright-Nehru Doctoral Research Fellowship",
+    "agency": "Fulbright-Nehru",
+    "country": "International",
+    "grant_type": "Fellowship",
+    "amount": "Full support (stipend, housing, travel)",
+    "description": "6–9 months dissertation research in the United States. Priority: AI, energy, space science, defense.",
+    "url": "https://www.usief.org.in/Fellowships.aspx",
+    "deadline": "2026-07-01",
+    "open_date": null,
+    "eligibility": [
+      "PhD Student (registered in India)"
+    ],
+    "disciplines": [
+      "AI/ML",
+      "Energy",
+      "Space Science",
+      "Defense",
+      "Any"
+    ],
+    "status": "closed",
+    "last_updated": "2026-07-15"
+  },
+  {
+    "id": "a7cdbb55f9",
+    "title": "BIRAC Biotechnology Ignition Grant (BIG)",
+    "agency": "BIRAC",
+    "country": "India",
+    "grant_type": "Startup Grant",
+    "amount": "Up to ₹50 Lakhs (18 months)",
+    "description": "Flagship early-stage biotech funding. Up to ₹50L for proof-of-concept. Opens TWICE yearly: Jan 1 and Jul 1. Largest early-stage biotech funding programme in India.",
+    "url": "https://birac.nic.in/big.php",
+    "deadline": "2026-07-01",
+    "open_date": "2026-07-01",
+    "eligibility": [
+      "Startup",
+      "Individual Innovator",
+      "Faculty Entrepreneur"
+    ],
+    "disciplines": [
+      "Biotechnology",
+      "MedTech",
+      "AgriTech",
+      "Biopharma"
+    ],
+    "status": "closed",
+    "last_updated": "2026-07-15"
   },
   {
     "id": "7b94d56173",
@@ -4365,7 +4413,7 @@
       "Any"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-07-15",
     "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   },
   {
@@ -4388,7 +4436,7 @@
       "Any"
     ],
     "status": "closed",
-    "last_updated": "2026-04-15",
+    "last_updated": "2026-07-15",
     "source": "AdhyaSuman/International_Travel_Grants (GitHub)"
   }
 ]
