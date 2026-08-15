@@ -1,6 +1,6 @@
 {
   "category": "startup",
-  "generated": "2026-08-01T08:19:55Z",
+  "generated": "2026-08-15T06:36:53Z",
   "total": 12,
   "open": 10,
   "grants": [
@@ -29,7 +29,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "fb82409801",
@@ -54,7 +54,7 @@
         "IT"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "c7ac737b5b",
@@ -79,7 +79,7 @@
         "Biotechnology"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "b83e584a58",
@@ -104,7 +104,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "7a89781625",
@@ -129,7 +129,7 @@
         "IT"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "fda7de4c5d",
@@ -154,7 +154,7 @@
         "Biotechnology"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "455bab871e",
@@ -178,7 +178,7 @@
         "MedTech"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "f4a3ac0efb",
@@ -203,7 +203,7 @@
         "Any"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "a0f60ba3e3",
@@ -228,7 +228,7 @@
         "Biopharma"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "539504119e",
@@ -251,7 +251,7 @@
         "Engineering"
       ],
       "status": "open",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "0a1b8f8afa",
@@ -275,7 +275,7 @@
         "AgriTech"
       ],
       "status": "closed",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     },
     {
       "id": "a7cdbb55f9",
@@ -300,7 +300,7 @@
         "Biopharma"
       ],
       "status": "closed",
-      "last_updated": "2026-08-01"
+      "last_updated": "2026-08-15"
     }
   ]
 }
