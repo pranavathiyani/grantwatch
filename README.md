@@ -9,7 +9,7 @@
 
 ---
 
-## Live Stats · Last updated 2026-09-01
+## Live Stats · Last updated 2026-09-15
 
 | Metric | Count |
 |--------|-------|
