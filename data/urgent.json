@@ -1,11 +1,22 @@
 {
-  "checked_on": "2026-10-03",
+  "checked_on": "2026-10-04",
   "closing_7d": [],
   "closing_14d": [],
-  "closing_30d": [],
+  "closing_30d": [
+    {
+      "id": "db9f6f7175",
+      "title": "ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme",
+      "agency": "ANRF",
+      "url": "https://anrfonline.in/",
+      "deadline": "2026-11-03",
+      "days_left": 30,
+      "amount": "TBA",
+      "grant_type": "Research Grant"
+    }
+  ],
   "summary": {
     "critical": 0,
     "warning": 0,
-    "upcoming": 0
+    "upcoming": 1
   }
 }
