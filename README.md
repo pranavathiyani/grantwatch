@@ -27,7 +27,7 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🟡 **26d** | ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme | ANRF | 2026-11-03 |
+| 🟡 **25d** | ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme | ANRF | 2026-11-03 |
 
 ---
 
