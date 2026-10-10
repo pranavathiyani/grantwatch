@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-09",
+  "checked_on": "2026-10-10",
   "closing_7d": [],
   "closing_14d": [],
   "closing_30d": [
@@ -9,7 +9,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-11-03",
-      "days_left": 25,
+      "days_left": 24,
       "amount": "TBA",
       "grant_type": "Research Grant"
     }
