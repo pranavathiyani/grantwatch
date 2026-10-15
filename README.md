@@ -9,7 +9,7 @@
 
 ---
 
-## Live Stats · Last updated 2026-10-01
+## Live Stats · Last updated 2026-10-15
 
 | Metric | Count |
 |--------|-------|
@@ -27,7 +27,7 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🟡 **20d** | ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme | ANRF | 2026-11-03 |
+| 🟡 **19d** | ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme | ANRF | 2026-11-03 |
 
 ---
 
