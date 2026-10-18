@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-17",
+  "checked_on": "2026-10-18",
   "closing_7d": [],
   "closing_14d": [],
   "closing_30d": [
@@ -9,7 +9,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-11-03",
-      "days_left": 17,
+      "days_left": 16,
       "amount": "TBA",
       "grant_type": "Research Grant"
     },
@@ -19,7 +19,7 @@
       "agency": "EMBL",
       "url": "https://www.embl.org/about/info/international-phd-programme/",
       "deadline": "2026-11-15",
-      "days_left": 29,
+      "days_left": 28,
       "amount": "Full stipend + benefits",
       "grant_type": "Fellowship"
     }
