@@ -1,32 +1,33 @@
 {
-  "checked_on": "2026-10-19",
+  "checked_on": "2026-10-20",
   "closing_7d": [],
-  "closing_14d": [],
-  "closing_30d": [
+  "closing_14d": [
     {
       "id": "db9f6f7175",
       "title": "ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme",
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-11-03",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "TBA",
       "grant_type": "Research Grant"
-    },
+    }
+  ],
+  "closing_30d": [
     {
       "id": "ebeea1e700",
       "title": "EMBL Predoctoral Fellowship (PhD Programme)",
       "agency": "EMBL",
       "url": "https://www.embl.org/about/info/international-phd-programme/",
       "deadline": "2026-11-15",
-      "days_left": 27,
+      "days_left": 26,
       "amount": "Full stipend + benefits",
       "grant_type": "Fellowship"
     }
   ],
   "summary": {
     "critical": 0,
-    "warning": 0,
-    "upcoming": 2
+    "warning": 1,
+    "upcoming": 1
   }
 }
