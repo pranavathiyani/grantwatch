@@ -27,8 +27,8 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🟡 **12d** | ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme | ANRF | 2026-11-03 |
-| 🟡 **24d** | EMBL Predoctoral Fellowship (PhD Programme) | EMBL | 2026-11-15 |
+| 🟡 **11d** | ANRF Inclusivity Research Grant (IRG) 2026 — New Scheme | ANRF | 2026-11-03 |
+| 🟡 **23d** | EMBL Predoctoral Fellowship (PhD Programme) | EMBL | 2026-11-15 |
 
 ---
 
