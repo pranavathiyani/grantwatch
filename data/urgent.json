@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-31",
+  "checked_on": "2026-11-01",
   "closing_7d": [
     {
       "id": "db9f6f7175",
@@ -7,27 +7,27 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-11-03",
-      "days_left": 3,
+      "days_left": 2,
       "amount": "TBA",
       "grant_type": "Research Grant"
     }
   ],
-  "closing_14d": [],
-  "closing_30d": [
+  "closing_14d": [
     {
       "id": "ebeea1e700",
       "title": "EMBL Predoctoral Fellowship (PhD Programme)",
       "agency": "EMBL",
       "url": "https://www.embl.org/about/info/international-phd-programme/",
       "deadline": "2026-11-15",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "Full stipend + benefits",
       "grant_type": "Fellowship"
     }
   ],
+  "closing_30d": [],
   "summary": {
     "critical": 1,
-    "warning": 0,
-    "upcoming": 1
+    "warning": 1,
+    "upcoming": 0
   }
 }
