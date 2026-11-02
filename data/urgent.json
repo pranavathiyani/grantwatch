@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-01",
+  "checked_on": "2026-11-02",
   "closing_7d": [
     {
       "id": "db9f6f7175",
@@ -7,7 +7,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/",
       "deadline": "2026-11-03",
-      "days_left": 2,
+      "days_left": 1,
       "amount": "TBA",
       "grant_type": "Research Grant"
     }
@@ -19,15 +19,26 @@
       "agency": "EMBL",
       "url": "https://www.embl.org/about/info/international-phd-programme/",
       "deadline": "2026-11-15",
-      "days_left": 14,
+      "days_left": 13,
       "amount": "Full stipend + benefits",
       "grant_type": "Fellowship"
     }
   ],
-  "closing_30d": [],
+  "closing_30d": [
+    {
+      "id": "10c7db5722",
+      "title": "ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026",
+      "agency": "ANRF",
+      "url": "https://anrfonline.in/ANRF/ecrg_anrf",
+      "deadline": "2026-12-02",
+      "days_left": 30,
+      "amount": "₹60 Lakhs + overheads (3 years)",
+      "grant_type": "Research Grant"
+    }
+  ],
   "summary": {
     "critical": 1,
     "warning": 1,
-    "upcoming": 0
+    "upcoming": 1
   }
 }
