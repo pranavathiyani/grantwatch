@@ -9,12 +9,12 @@
 
 ---
 
-## Live Stats · Last updated 2026-11-01
+## Live Stats · Last updated 2026-11-15
 
 | Metric | Count |
 |--------|-------|
 | 📋 Total grants indexed | **192** |
-| ✅ Open calls | **171** |
+| ✅ Open calls | **170** |
 | 🇮🇳 Indian agency grants | **0** |
 | 🌍 International grants | **2** |
 | 🎓 Fellowships | **61** |
@@ -27,8 +27,8 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **1d** | EMBL Predoctoral Fellowship (PhD Programme) | EMBL | 2026-11-15 |
-| 🟡 **18d** | ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026 | ANRF | 2026-12-02 |
+| 🔴 **0d** | EMBL Predoctoral Fellowship (PhD Programme) | EMBL | 2026-11-15 |
+| 🟡 **17d** | ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026 | ANRF | 2026-12-02 |
 
 ---
 
