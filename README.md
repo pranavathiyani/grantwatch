@@ -27,8 +27,7 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **0d** | EMBL Predoctoral Fellowship (PhD Programme) | EMBL | 2026-11-15 |
-| 🟡 **17d** | ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026 | ANRF | 2026-12-02 |
+| 🟡 **16d** | ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026 | ANRF | 2026-12-02 |
 
 ---
 
