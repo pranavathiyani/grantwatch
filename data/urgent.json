@@ -1,22 +1,22 @@
 {
-  "checked_on": "2026-11-17",
+  "checked_on": "2026-11-18",
   "closing_7d": [],
-  "closing_14d": [],
-  "closing_30d": [
+  "closing_14d": [
     {
       "id": "10c7db5722",
       "title": "ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026",
       "agency": "ANRF",
       "url": "https://anrfonline.in/ANRF/ecrg_anrf",
       "deadline": "2026-12-02",
-      "days_left": 15,
+      "days_left": 14,
       "amount": "₹60 Lakhs + overheads (3 years)",
       "grant_type": "Research Grant"
     }
   ],
+  "closing_30d": [],
   "summary": {
     "critical": 0,
-    "warning": 0,
-    "upcoming": 1
+    "warning": 1,
+    "upcoming": 0
   }
 }
