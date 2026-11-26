@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-25",
+  "checked_on": "2026-11-26",
   "closing_7d": [
     {
       "id": "10c7db5722",
@@ -7,7 +7,7 @@
       "agency": "ANRF",
       "url": "https://anrfonline.in/ANRF/ecrg_anrf",
       "deadline": "2026-12-02",
-      "days_left": 7,
+      "days_left": 6,
       "amount": "₹60 Lakhs + overheads (3 years)",
       "grant_type": "Research Grant"
     }
