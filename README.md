@@ -27,7 +27,7 @@
 
 | Urgency | Grant | Agency | Deadline |
 |---------|-------|--------|----------|
-| 🔴 **6d** | ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026 | ANRF | 2026-12-02 |
+| 🔴 **5d** | ANRF Prime Minister Early Career Research Grant (PM-ECRG) 2026 | ANRF | 2026-12-02 |
 
 ---
 
